@@ -2,8 +2,9 @@
 
 This repository accompanies a computer-assisted argument for `stick(8_1)=10`.
 Read the [draft PDF](paper/main.pdf) or [LaTeX source](paper/main.tex).
-It is a draft until author metadata and a fixed
-release reference are filled in. Posting the code does not constitute peer review.
+The author is Griffith Wang (contact: griffithgwang@gmail.com), with no
+affiliation listed. The manuscript remains a draft pending arXiv submission
+and license selection. Posting the code does not constitute peer review.
 
 ## Precisely what Lean establishes
 
