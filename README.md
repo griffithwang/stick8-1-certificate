@@ -1,7 +1,8 @@
 # The stick number of 8_1: proof and partial Lean formalization
 
 This repository accompanies a computer-assisted argument for `stick(8_1)=10`.
-The paper is `paper/main.tex`. It is a draft until author metadata and a fixed
+Read the [draft PDF](paper/main.pdf) or [LaTeX source](paper/main.tex).
+It is a draft until author metadata and a fixed
 release reference are filled in. Posting the code does not constitute peer review.
 
 ## Precisely what Lean establishes
@@ -26,13 +27,14 @@ Install Lean **4.19.0** (for example with elan), then run:
 
 ```text
 python setup_mathlib.py
-python fetch_assets.py --repository OWNER/REPOSITORY --tag RELEASE_TAG
+python fetch_assets.py --repository griffithwang/stick8-1-certificate --tag v0.1.0-audit
 python verify_public.py
 python verify_partial_formalization.py --full
 ```
 
-Replace the repository and tag with the fixed release accompanying this
-version of the paper. Asset download checks every file against its expected
+Use the fixed release accompanying this version of the paper. Until the
+draft release is published, public asset download is unavailable.
+Asset download checks every file against its expected
 SHA-256 before installing it. The uncompressed dense LRAT certificate and
 the hex-encoded compressed Lean certificate are separate Release assets.
 Their filenames and hashes are in `ASSETS.json`.
@@ -62,6 +64,10 @@ cc -O2 lrat-check.c -o lrat-check
 ```
 
 ## Contents and provenance
+
+The vector illustration in `paper/tengon.pdf` is included for TeX compilation.
+To regenerate it, run `paper/draw_tengon.py` with matplotlib 3.11.0 and NumPy.
+These plotting packages are optional and are not used for proof verification.
 
 The source dependency closure includes model-generation utilities inherited
 from the research development. Optional model flags are not used by this

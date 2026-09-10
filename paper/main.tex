@@ -3,6 +3,7 @@
 \usepackage{amsmath,amssymb,amsthm,booktabs,longtable,array}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
+\usepackage{graphicx}
 \usepackage[hidelinks]{hyperref}
 \newtheorem{theorem}{Theorem}[section]
 \newtheorem{lemma}[theorem]{Lemma}
@@ -517,6 +518,17 @@ crossings, including intersection parameters and nonzero height
 differences. Adjacent edges are nondegenerate with distinct directions.
 These checks certify an embedded ten-gon, not its knot type alone.
 
+\begin{figure}[ht]
+\centering
+\includegraphics[width=\linewidth]{tengon.pdf}
+\caption{The rational ten-gon: a spatial illustration (left) and its
+certified projection (right). Vertices in this figure are numbered
+one through ten in file order. Underpass gaps on the right come from
+the exact crossing certificate. Floating-point coordinates are used
+only to draw the figure, not to verify the polygon.}
+\label{fig:tengon}
+\end{figure}
+
 The file \code{reidemeister_proposed.json} supplies thirty local moves.
 The standard-library checker \code{check_reidemeister.py} verifies
 each move on a four-valent rotation system with over/under parity:
@@ -579,15 +591,22 @@ In particular, random examples do not prove that all geometric inputs
 are covered. The formalized topology definitions in the development
 are not yet connected to a theorem \code{stick(K81) = 10}.
 
-The accompanying release is intended to contain the source dependency
-closure, pinned build instructions, finite data, and a hash manifest.
-Large certificates are separate release assets rather than ordinary
-Git objects. The paper must cite a fixed release and commit, rather
-than a changing default branch. At the date of this draft the public
-repository URL, release identifier, author metadata, and arXiv
-submission are not yet assigned; this paragraph must be completed
-before submission. Local incremental compilation is recorded separately
-from a fresh build of the public release.
+The public source repository is
+\begin{center}\small
+\url{https://github.com/griffithwang/stick8-1-certificate}.
+\end{center}
+The initial code snapshot is commit
+\begin{verbatim}
+7306c8d80b231e5d400b036cb77f513c89627707
+\end{verbatim}
+It contains the source dependency closure, pinned build instructions,
+finite data, and a hash manifest. Large certificates are separate
+release assets rather than ordinary Git objects. Release
+\code{v0.1.0-audit} is being prepared; its publication and verification
+record must be confirmed before this manuscript is submitted.
+Author metadata and arXiv submission are still pending.
+Local incremental compilation is recorded separately from a rebuild
+of all local modules; upstream mathlib dependencies use a pinned cache.
 
 \paragraph{Preparation disclosure.}
 AI assistance was used in drafting, coding, and auditing this development.
