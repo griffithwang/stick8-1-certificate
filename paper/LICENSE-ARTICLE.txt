@@ -1,0 +1,12 @@
+Copyright (c) 2026 Griffith Wang
+
+The manuscript "The stick number of 8_1: a computer-assisted proof with a
+partially formalized geometric reduction", its LaTeX source, and the original
+figures are licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0).
+
+License: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The figure-generation software is licensed separately under the MIT License.
+Third-party materials retain their own notices and licenses.

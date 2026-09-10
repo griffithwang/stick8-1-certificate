@@ -3,8 +3,8 @@
 This repository accompanies a computer-assisted argument for `stick(8_1)=10`.
 Read the [draft PDF](paper/main.pdf) or [LaTeX source](paper/main.tex).
 The author is Griffith Wang (contact: griffithgwang@gmail.com), with no
-affiliation listed. The manuscript remains a draft pending arXiv submission
-and license selection. Posting the code does not constitute peer review.
+affiliation listed. The manuscript is prepared for arXiv submission.
+Posting the code does not constitute peer review.
 
 ## Precisely what Lean establishes
 
@@ -89,9 +89,9 @@ counter certificates are included; the large fixed certificate is external.
 
 `lrat-check.c` retains its upstream copyright and MIT permission notice.
 Lean, mathlib, Z3, Spherogram, and the solver tools retain their own licenses;
-their installations are not vendored here. No new license for the author's
-original work has yet been selected. A public repository alone does not
-grant a general reuse license.
+their installations are not vendored here. Original code is licensed under
+the **MIT License**; the manuscript and original figures are licensed under
+**CC BY 4.0**. See [LICENSES.md](LICENSES.md) for the precise scope.
 
 AI assistance was used in drafting, implementation, and audit. The human
 author is responsible for the mathematical claims and the submitted version.
