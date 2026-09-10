@@ -1,12 +1,10 @@
-# The stick number of 8_1 is 10
+# The stick number of 8₁ is 10
 
-This project gives a **computer-assisted proof that the knot $8_1$ has stick
+This project gives a **computer-assisted proof that the knot 8₁ has stick
 number ten**, resolving the previously open question of whether nine or ten
 straight segments are required:
 
-$$
-\operatorname{stick}(8_1)=10.
-$$
+> **stick(8₁) = 10**
 
 Ten segments suffice to form this knot in three-dimensional space, and no
 embedded polygon with fewer segments represents the same knot. The central
@@ -23,15 +21,15 @@ with an exact ten-stick construction.
 The stick number of a knot is the smallest number of straight segments that
 can form a closed, non-self-intersecting polygon of that knot type. It measures
 the complexity of a spatial realization, rather than the number of crossings
-in a drawing. In the name $8_1$, the eight refers to the knot's crossing number.
+in a drawing. In the name 8₁, the eight refers to the knot's crossing number.
 
-For $8_1$, the existing bounds left two possibilities: nine or ten sticks.
+For 8₁, the existing bounds left two possibilities: nine or ten sticks.
 [Calvo's classification of octagonal knots, Theorem 1(iv)](https://arxiv.org/abs/math/9904037v2)
 excludes realizations with at most eight sticks. The two-bridge construction of
 [Huh, No, and Oh, Theorem 1.1](https://arxiv.org/abs/1411.1850)
 gives a ten-stick upper bound. The question remained open in the 2025 survey
 [New Upper Bounds for Stick Numbers](https://arxiv.org/abs/2508.18263):
-Appendix A lists a ten-stick realization of $8_1$, without marking its exact
+Appendix A lists a ten-stick realization of 8₁, without marking its exact
 stick number as known.
 
 The proof presented here closes that gap by ruling out every nine-stick
@@ -53,7 +51,7 @@ reduction; it does not infer a lower bound from an unsuccessful numerical search
 
 For the upper bound, the repository supplies an explicit rational ten-gon.
 Exact arithmetic checks its embeddedness and crossing data, and a sequence of
-thirty checked Reidemeister moves identifies its diagram with $8_1$.
+thirty checked Reidemeister moves identifies its diagram with 8₁.
 Together, the two bounds establish the stated equality.
 
 The [paper](paper/main.pdf) develops the mathematical argument. Its appendix
