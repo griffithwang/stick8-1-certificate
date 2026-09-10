@@ -8,7 +8,7 @@ ear roots at [2183,2192) and two targets at [2292,2294), using zero-based
 half-open slices. All 2,294 roots have a verified Boolean-to-CNF translation.
 `externalRoots_count` and `full_root_partition` verify this inventory in Lean.
 The new theorem and its axiom audit compiled successfully. The older
-111-root theorem discussed below is retained as historical documentation;
+111-root theorem retained in the Lean source is retained as historical documentation;
 it is no longer the strongest theorem or the current publication boundary.
 `SegmentCrossing.cross_iff_intersects` has also now compiled successfully.
 

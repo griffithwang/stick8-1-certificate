@@ -7,6 +7,12 @@ release reference are filled in. Posting the code does not constitute peer revie
 
 ## Precisely what Lean establishes
 
+The audit release records a successful rebuild of all **59 local Lean
+modules** on Windows, with the pinned upstream mathlib cache. The per-module
+source hashes and timings are in the Release asset
+`LEAN_RELEASE_VERIFICATION.json`. This is distinct from an incremental build
+of only the final theorem and is not a claim that every platform was tested.
+
 `Stick81.Submission.geometric_exclusion_eleven` derives a contradiction for
 a positive generic normalized real frame whose source evaluation satisfies
 nine ear conditions and two target conditions. The other **2,283 of 2,294**
@@ -32,8 +38,7 @@ python verify_public.py
 python verify_partial_formalization.py --full
 ```
 
-Use the fixed release accompanying this version of the paper. Until the
-draft release is published, public asset download is unavailable.
+Use the fixed release accompanying this version of the paper.
 Asset download checks every file against its expected
 SHA-256 before installing it. The uncompressed dense LRAT certificate and
 the hex-encoded compressed Lean certificate are separate Release assets.
@@ -55,6 +60,11 @@ every gate clause. It rejects Python `-O`, because arithmetic checkers use
 assertions. The Lean build is a separate step, explicitly recorded in its
 verification JSON. Neither a hash check nor random controls prove the global
 geometric reduction.
+
+The optional `check_named_target.py` compares the trace's target with
+Spherogram's named `8_1` table, preserving plane orientation and over/under
+parity. Install `requirements-knot-table.txt` to run it. This table check is
+separate from the standard-library Reidemeister trace replay.
 
 For an independent C replay on a system with a C compiler:
 

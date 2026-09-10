@@ -70,7 +70,7 @@ def main() -> int:
         "build_scope": 'all release modules rebuilt' if args.full else 'incremental final theorem and audit only',
         "axiom_audit": "no sorryAx; propext, Classical.choice, Quot.sound, Lean.ofReduceBool only",
         "artifacts": {str(path.relative_to(ROOT)): sha(path) for path in required},
-        "rebuild_command": "python verify_partial_formalization.py",
+        "rebuild_command": "python verify_partial_formalization.py" + (" --full" if args.full else ""),
     }
     (ROOT / "PARTIAL_FORMALIZATION_VERIFICATION.json").write_text(
         json.dumps(report, indent=2), encoding="utf-8"

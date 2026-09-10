@@ -82,12 +82,25 @@ not an end-to-end Lean theorem about ambient-isotopy classes of knots.
 \section{The exposed-vertex construction}\label{sec:roof}
 Write a hypothetical embedded nine-gon in cyclic order as
 $p_0,\ldots,p_7,v$. Embeddedness and knot type are stable under sufficiently
-small perturbations of its vertices. Indeed, nonincident compact edges
-have positive distance, and incident edges remain distinct near their
-common vertex. A sufficiently small linear vertex deformation is a
-polygonal isotopy. The usual isotopy-extension theorem for locally flat
-polygonal knots turns it into an ambient isotopy. This use of elementary
-PL topology is external to Lean.
+small perturbations of its vertices. Here is an explicit ambient extension
+which avoids any assumption about extending arbitrary topological isotopies.
+Triangulate a large cube compatibly with the polygon, allowing subdivision
+of its edges. Prescribe a displacement at each original polygon vertex,
+interpolate it linearly along polygon edges, set it to zero at all other
+triangulation vertices, and extend affinely on each simplex. The resulting
+continuous displacement $u$ vanishes on the cube boundary; extend it by
+zero outside. Since the triangulation is finite, sufficiently small vertex
+displacements make the global Lipschitz constant $L$ of $u$ less than one.
+Then $H_t(x)=x+t u(x)$ is an ambient isotopy: injectivity follows from
+\[
+ |H_t(x)-H_t(y)|\geq(1-tL)|x-y|,
+\]
+and surjectivity follows by applying the contraction principle to
+$x\mapsto y-t u(x)$ for each $y$. The inverses are jointly continuous
+by the same uniform estimate. Each polygon edge is mapped linearly onto
+the corresponding perturbed edge. This proves both embeddedness and knot
+preservation for sufficiently small vertex perturbations. This finite
+triangulation argument is ordinary mathematics, not a Lean theorem here.
 
 Choose a vertex $v$ exposed by a supporting linear functional. After an
 affine coordinate change, $v=0$ and
@@ -115,11 +128,14 @@ To check its effect on knot type, set
  \quad 0\leq\theta\leq\frac\pi2.
 \]
 The denominator is positive and the projective transformation is
-invertible on its image. For a compact polygon in this half-space these
-maps give an isotopy from the identity to $F$ followed by reflection in
-the last coordinate. Isotopy extension therefore justifies the phrase
-``up to mirror image.'' We do not infer ambient knot equivalence merely
-from the existence of an arbitrary diffeomorphism of an open set.
+invertible on its image. Segments remain segments, so for a compact
+polygon in this half-space these maps give a continuous path of embedded
+polygons from the identity to $F$ followed by reflection in the last
+coordinate. Along this path the knot type is locally constant by the
+small-perturbation construction above; compactness of the parameter
+interval gives a finite concatenation of its ambient isotopies.
+This justifies ``up to mirror image'' without inferring knot equivalence
+merely from an arbitrary diffeomorphism of an open set.
 
 Choose $r$ in the interior of $q_7q_0$, away from all its crossings.
 Replace $v$ by $\varepsilon(r_x,r_y,1)$ with $\varepsilon>0$ sufficiently
@@ -274,7 +290,11 @@ by an edge whose endpoints are not vertices of that triangle.
 \begin{proof}
 If no such edge pierces the triangle, slide the two incident sides
 across its disk onto the third side and remove the redundant vertex.
-This is the elementary disk-supported polygonal isotopy. General
+More explicitly, move the middle vertex linearly toward an interior
+point of the third side. This gives a path of embedded nine-gons ending
+at a subdivision of the eight-gon; the small-perturbation argument of
+Section~\ref{sec:roof}, applied along the parameter interval, preserves
+ambient knot type. General
 position rules out boundary intersections: a nonincident edge meeting
 a triangle side would make four vertices coplanar, and an edge incident
 to a triangle vertex leaves its plane immediately. The disk's interior
@@ -547,6 +567,7 @@ independent of the lower-bound SAT search and is not presently formalized
 as an ambient-isotopy theorem in Lean. The published two-bridge upper
 bound provides a second route to the same inequality.
 
+\begin{samepage}
 \begin{proof}[Proof of Theorem~\ref{thm:main}]
 Suppose that a nine-edge representative exists. Section~\ref{sec:roof}
 gives a positive generic normalized frame and a roof diagram of the knot
@@ -560,6 +581,7 @@ classification excludes all smaller edge counts, and either upper-bound
 argument above gives ten edges. Therefore the minimum is ten.
 \end{proof}
 
+\end{samepage}
 \section{Trust boundary, reproduction, and limitations}
 The pinned versions are Lean 4.19.0 and mathlib commit
 \begin{verbatim}
@@ -601,12 +623,13 @@ The initial code snapshot is commit
 \end{verbatim}
 It contains the source dependency closure, pinned build instructions,
 finite data, and a hash manifest. Large certificates are separate
-release assets rather than ordinary Git objects. Release
-\code{v0.1.0-audit} is being prepared; its publication and verification
-record must be confirmed before this manuscript is submitted.
-Author metadata and arXiv submission are still pending.
-Local incremental compilation is recorded separately from a rebuild
-of all local modules; upstream mathlib dependencies use a pinned cache.
+release assets rather than ordinary Git objects. Use the fixed audit release
+\code{v0.1.0-audit} for the certificates and machine-readable verification
+record. All 59 local Lean modules were rebuilt successfully on Windows;
+upstream mathlib dependencies used a pinned cache. Per-module source hashes,
+exit codes, and timings are recorded separately from the independent
+arithmetic and C-checker replays. This is not a claim of a clean build on
+every platform. Author metadata and arXiv submission are still pending.
 
 \paragraph{Preparation disclosure.}
 AI assistance was used in drafting, coding, and auditing this development.
