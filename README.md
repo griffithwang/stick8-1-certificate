@@ -1,18 +1,75 @@
-# The stick number of 8_1: proof and partial Lean formalization
+# The stick number of 8_1 is 10
 
-This repository accompanies a computer-assisted argument for `stick(8_1)=10`.
-Read the [draft PDF](paper/main.pdf) or [LaTeX source](paper/main.tex).
-The author is Griffith Wang (contact: griffithgwang@gmail.com), with no
-affiliation listed. The manuscript is prepared for arXiv submission.
-Posting the code does not constitute peer review.
+This project gives a **computer-assisted proof that the knot $8_1$ has stick
+number ten**, resolving the previously open question of whether nine or ten
+straight segments are required:
 
-## Precisely what Lean establishes
+$$
+\operatorname{stick}(8_1)=10.
+$$
 
-The audit release records a successful rebuild of all **59 local Lean
-modules** on Windows, with the pinned upstream mathlib cache. The per-module
-source hashes and timings are in the Release asset
-`LEAN_RELEASE_VERIFICATION.json`. This is distinct from an incremental build
-of only the final theorem and is not a claim that every platform was tested.
+Ten segments suffice to form this knot in three-dimensional space, and no
+embedded polygon with fewer segments represents the same knot. The central
+contribution is a universal exclusion of nine-stick realizations, combined
+with an exact ten-stick construction.
+
+**Griffith Wang** · griffithgwang@gmail.com
+
+[Read the paper](paper/main.pdf) · [LaTeX source](paper/main.tex) ·
+[Proof certificates and verification records](https://github.com/griffithwang/stick8-1-certificate/releases/tag/v0.1.0-audit)
+
+## The problem
+
+The stick number of a knot is the smallest number of straight segments that
+can form a closed, non-self-intersecting polygon of that knot type. It measures
+the complexity of a spatial realization, rather than the number of crossings
+in a drawing. In the name $8_1$, the eight refers to the knot's crossing number.
+
+For $8_1$, the existing bounds left two possibilities: nine or ten sticks.
+[Calvo's classification of octagonal knots, Theorem 1(iv)](https://arxiv.org/abs/math/9904037v2)
+excludes realizations with at most eight sticks. The two-bridge construction of
+[Huh, No, and Oh, Theorem 1.1](https://arxiv.org/abs/1411.1850)
+gives a ten-stick upper bound. The question remained open in the 2025 survey
+[New Upper Bounds for Stick Numbers](https://arxiv.org/abs/2508.18263):
+Appendix A lists a ten-stick realization of $8_1$, without marking its exact
+stick number as known.
+
+The proof presented here closes that gap by ruling out every nine-stick
+representative, including polygons with arbitrary real coordinates.
+
+## How the proof works
+
+The lower bound begins with a hypothetical nine-stick representative. An
+exposed vertex and a projective change of coordinates put it into a form whose
+planar diagram has eight shadow edges, with the closing shadow edge passing
+over every crossing. That closing shadow edge represents two spatial segments.
+The geometry, the obstruction to removing an ear triangle, and the knot's
+diagram invariants impose a finite collection of necessary sign constraints.
+
+These constraints are inconsistent. A fixed proof certificate establishes
+their inconsistency, so a geometric nine-stick counterexample cannot exist.
+The argument covers all real-coordinate configurations through the geometric
+reduction; it does not infer a lower bound from an unsuccessful numerical search.
+
+For the upper bound, the repository supplies an explicit rational ten-gon.
+Exact arithmetic checks its embeddedness and crossing data, and a sequence of
+thirty checked Reidemeister moves identifies its diagram with $8_1$.
+Together, the two bounds establish the stated equality.
+
+The [paper](paper/main.pdf) develops the mathematical argument. Its appendix
+collects the certificate identifiers and reproduction details. The code and
+data below make the computational part available for independent checking.
+
+## Tools and verification
+
+The finite model uses **142 geometric signs** and **2,294 source constraints**.
+Its CNF encoding has **18,597 variables and 76,298 clauses**. CaDiCaL produced
+a refutation, which was checked independently and converted to an LRAT
+certificate. Lean 4 verifies the fixed refutation and the translation from
+the source constraints to the encoded formula.
+
+The Lean development also formalizes a substantial part of the real geometry.
+Its precise scope is as follows.
 
 `Stick81.Submission.geometric_exclusion_eleven` derives a contradiction for
 a positive generic normalized real frame whose source evaluation satisfies
@@ -22,10 +79,18 @@ have a verified Boolean/counter encoding, and the fixed 76,298-clause CNF
 has a certified LRAT refutation.
 
 The global roof construction, ear elimination, Conway interpretation, and
-external knot classification are ordinary mathematics in the paper. They are
-not concealed Lean axioms. There is no end-to-end theorem about `stick(K81)`.
-Native reflection uses `Lean.ofReduceBool`, so the compiler/runtime is part
-of the trusted base. The audited theorem has no `sorryAx` dependency.
+external knot classification are ordinary mathematics in the paper. The
+overall result is a computer-assisted proof with **partial Lean formalization**;
+there is no end-to-end Lean theorem about `stick(K81)`. Native reflection uses
+`Lean.ofReduceBool`, so the compiler/runtime is part of the trusted base.
+The audited theorem has no `sorryAx` dependency.
+
+All **59 local Lean modules** were rebuilt successfully on Windows with the
+pinned upstream mathlib cache. Per-module source hashes and timings are
+recorded in the release asset `LEAN_RELEASE_VERIFICATION.json`. Separate
+records document the arithmetic checks, C LRAT replay, and verification of
+the publicly downloaded source package. These computational checks are
+distinct from independent human peer review; the manuscript is a preprint.
 
 ## Reproduce
 
@@ -93,5 +158,7 @@ their installations are not vendored here. Original code is licensed under
 the **MIT License**; the manuscript and original figures are licensed under
 **CC BY 4.0**. See [LICENSES.md](LICENSES.md) for the precise scope.
 
-AI assistance was used in drafting, implementation, and audit. The human
-author is responsible for the mathematical claims and the submitted version.
+Generative AI was used extensively in developing and reviewing mathematical
+arguments, implementing the computational and Lean components, and drafting
+the manuscript. The author is responsible for the mathematical claims, code,
+references, and submitted version.
