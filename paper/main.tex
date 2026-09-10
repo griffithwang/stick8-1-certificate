@@ -37,7 +37,7 @@ bound. We describe the certificate interfaces and trust boundary so that
 the computation and its geometric interpretation can be reviewed separately.
 \end{abstract}
 
-\section{Statement and proof architecture}
+\section{Introduction}
 The stick number $\stick(K)$ of a tame knot $K$ is the least number of
 straight segments in an embedded polygon representing $K$ in $\R^3$.
 Lengths are unrestricted; this is not the equilateral stick number.
@@ -63,7 +63,7 @@ by points in $\R^3$. An unsatisfiable relaxation suffices: a geometric
 counterexample would induce a satisfying assignment, whereas the fixed
 formula admits none. The eleven source conditions not yet derived from
 geometry inside Lean are mathematical obligations, not omitted clauses
-of the finite formula. All 2,294 clauses at the source level participate
+of the finite formula. All 2,294 constraints at the source level participate
 in the certified exclusion.
 
 The argument has three distinct layers:
@@ -429,7 +429,7 @@ Lean for arbitrary boundary values. The interpretation as $a_2$ and
 the knot-theoretic lower bound on diagram crossings are external
 mathematical inputs; they are not consequences merely of counter correctness.
 
-\section{The finite refutation and its formal interface}\label{sec:formal}
+\section{The finite exclusion}\label{sec:formal}
 The base call \code{roof_boolean.build()} constructs the conjunction
 in Table~\ref{tab:roots}. All optional strengthening flags are false:
 there is no canonical labelling, chord condition, Fox-colouring condition,
@@ -487,23 +487,16 @@ The fixed CNF was refuted by CaDiCaL. An independent DRAT checker
 produced an LRAT certificate, which was also accepted by a C LRAT
 checker. Clause identifiers were densely renumbered, preserving
 clauses and hints, for the Lean checker. The resulting proof has
-1,577,701 actions. Its dense textual form is 700,460,899 bytes.
-The authoritative byte hashes are
-\begingroup\footnotesize
-\begin{verbatim}
-b7034c3c955b2cf9c3a7878439f25941c0f51c5eeebb421b727d2ebfd2227f7c
-97d9c4224e353ea24ac09b5373be1fb217d2ef057577cb6f01b6475b05190a87
-\end{verbatim}
-\endgroup
-The first line is the CNF hash and the second is the dense LRAT hash.
+1,577,701 actions. The fixed certificate and its input are available in
+the accompanying release; file identifiers and reproduction details
+are collected in Appendix~\ref{app:reproduction}.
 
 \code{FixedCertificate.lean} embeds the CNF and compressed proof bytes
 as fixed constants, decompresses and parses them through pure functions,
 and proves checker acceptance by \code{native_decide}. It then applies
 Lean's standard \code{LRAT.check_sound} to obtain
 \code{Stick81.roofUnsat}. There is no acceptance hypothesis in this
-theorem. A program that only reads files and prints ``true'' would not,
-by itself, be this fixed-input theorem.
+theorem.
 
 \begin{proposition}[Formal finite exclusion]\label{prop:formal}
 For the fixed source graph, no assignment satisfying its node semantics
@@ -529,7 +522,7 @@ exists by recursion in source order; it is not a satisfiability
 assumption about its roots. In applying the proposition to a polygon,
 this recursive evaluation is the intended assignment.
 
-\section{Exact upper bound and final assembly}\label{sec:upper}
+\section{The upper bound and proof of the main theorem}\label{sec:upper}
 The file \code{known_10gon.tab} specifies ten triples of finite decimals.
 Every decimal is read as its exact rational value. The independent
 arithmetic checker \code{exact_polygon.py} examines all 35 pairs of
@@ -560,12 +553,13 @@ over/under-preserving dart isomorphism to the PD code
 [[1,9,2,8],[3,7,4,6],[5,12,6,13],[7,3,8,2],
  [9,1,10,16],[11,15,12,14],[13,4,14,5],[15,11,16,10]]
 \end{verbatim}
+\begin{samepage}
 This is also matched to Spherogram's named $8_1$ table entry
 \cite{spherogram}. Thus identification is based on a diagram equivalence
-trace, not on equality of a polynomial. The upper-bound computation is
-independent of the lower-bound SAT search and is not presently formalized
-as an ambient-isotopy theorem in Lean. The published two-bridge upper
-bound provides a second route to the same inequality.
+trace, not on equality of a polynomial. The upper-bound certificate is
+independent of the SAT refutation and remains outside Lean. The
+two-bridge theorem \cite{hno} supplies an independent upper bound.
+\par\end{samepage}
 
 \begin{samepage}
 \begin{proof}[Proof of Theorem~\ref{thm:main}]
@@ -582,11 +576,9 @@ argument above gives ten edges. Therefore the minimum is ten.
 \end{proof}
 
 \end{samepage}
-\section{Trust boundary, reproduction, and limitations}
-The pinned versions are Lean 4.19.0 and mathlib commit
-\begin{verbatim}
-c44e0c8ee63ca166450922a373c7409c5d26b00b
-\end{verbatim}
+\section{Scope of the formalization}
+The formal development uses Lean 4.19.0 and a pinned version of mathlib;
+the exact versions are recorded in Appendix~\ref{app:reproduction}.
 The audited final theorem depends on
 \code{propext}, \code{Classical.choice}, \code{Quot.sound}, and
 \code{Lean.ofReduceBool}. The last is the native-reflection trust
@@ -598,38 +590,25 @@ geometric implications. Solver heuristics and the compression program
 are not trusted to establish unsatisfiability: their output must pass
 the certified checker.
 
-The ratio $2283/2294$ is an inventory of source roots, not a probability
-of correctness or a measure of mathematical difficulty. One incorrectly
-justified necessary condition could invalidate the nine-gon exclusion.
-Conversely, an ordinary mathematical proof need not be written in Lean
-to be valid. The essential remaining review tasks are the global
-coverage argument, the ear-collapse and homogeneous-piercing argument,
-and the interpretation of the diagram selectors and Conway sum.
+The formal development establishes the geometric implications for 2,283
+of the 2,294 source constraints. The global coverage argument, the nine
+ear conditions, and the two diagram-invariant conditions are supplied by
+the ordinary mathematical proofs in Sections~\ref{sec:roof},
+\ref{sec:ears}, and~\ref{sec:diagram}. These counts describe the scope
+of formalization, not a probability of correctness. The lower bound
+depends on every necessary condition and on the global reduction.
 
-Exact rational controls, comparison with an independently calculated
-Alexander coefficient, and independent certificate replays are useful
-diagnostics. They are not substitutes for the universal implications.
-In particular, random examples do not prove that all geometric inputs
-are covered. The formalized topology definitions in the development
-are not yet connected to a theorem \code{stick(K81) = 10}.
+\begin{samepage}
+Exact rational controls, an independent Alexander-coefficient calculation,
+and separate certificate replays provide supplementary checks; they do
+not establish universal geometric coverage. The development does not yet
+contain an end-to-end theorem \code{stick(K81) = 10}.
+\par\end{samepage}
 
-The public source repository is
-\begin{center}\small
-\url{https://github.com/griffithwang/stick8-1-certificate}.
-\end{center}
-The verified audit release is pinned to commit
-\begin{verbatim}
-0b88e7c65ab01fbe281920946d58ae079191ec39
-\end{verbatim}
-It contains the source dependency closure, pinned build instructions,
-finite data, and a hash manifest. Large certificates are separate
-release assets rather than ordinary Git objects. Use the fixed audit release
-\code{v0.1.0-audit} for the certificates and machine-readable verification
-record. All 59 local Lean modules were rebuilt successfully on Windows;
-upstream mathlib dependencies used a pinned cache. Per-module source hashes,
-exit codes, and timings are recorded separately from the independent
-arithmetic and C-checker replays. This is not a claim of a clean build on
-every platform.
+The code, certificates, and verification records are available in the
+fixed release cited in Appendix~\ref{app:reproduction}. They permit
+reproduction of the finite checks separately from review of the
+geometric and topological arguments.
 
 \paragraph{Use of generative AI.}
 Generative AI tools, including OpenAI Codex, were used extensively in
@@ -645,6 +624,77 @@ The manuscript and original figures are licensed under
 \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}.
 The original accompanying code is available under the MIT License;
 third-party components retain their existing licenses.
+
+\appendix
+\section{Computational data and reproduction}\label{app:reproduction}
+The source repository is
+\begin{center}\small
+\url{https://github.com/griffithwang/stick8-1-certificate}.
+\end{center}
+The verified release \code{v0.1.0-audit} is pinned to commit
+\begin{verbatim}
+0b88e7c65ab01fbe281920946d58ae079191ec39
+\end{verbatim}
+It contains the source dependency closure, finite data, and a hash
+manifest. The large certificates are distributed as release assets.
+The file sizes below refer to the exact distributed bytes.
+
+\begin{center}\small
+\begin{tabular}{lrl}
+\toprule
+File & Bytes & Role\\
+\midrule
+\code{roof_direct.cnf} & 1,464,784 & Fixed CNF instance\\
+\code{roof_base_dense.lrat} & 700,460,899 & Dense textual LRAT proof\\
+\code{roof.lz4.hex} & 408,064,310 & Compressed proof for Lean\\
+\bottomrule
+\end{tabular}
+\end{center}
+The last file is installed in \code{lean_formalization/}.
+Their SHA-256 checksums identify the files used in verification; a
+matching checksum establishes file consistency, not mathematical validity.
+
+\begingroup\footnotesize
+\begin{verbatim}
+roof_direct.cnf
+b7034c3c955b2cf9c3a7878439f25941c0f51c5eeebb421b727d2ebfd2227f7c
+
+roof_base_dense.lrat
+97d9c4224e353ea24ac09b5373be1fb217d2ef057577cb6f01b6475b05190a87
+
+lean_formalization/roof.lz4.hex
+3185a627790f0c17bdc4773990f17d55716d003b6ef8ca903c50f0031b75d3de
+\end{verbatim}
+\endgroup
+
+\paragraph{Software versions and checks.}
+Lean is pinned to version 4.19.0 and mathlib to commit
+\begin{verbatim}
+c44e0c8ee63ca166450922a373c7409c5d26b00b
+\end{verbatim}
+All 59 local Lean modules were rebuilt successfully on Windows using
+the pinned upstream mathlib cache. Per-module source hashes, exit codes,
+and timings are recorded in \code{LEAN_RELEASE_VERIFICATION.json}.
+The independent arithmetic and C-checker replays have separate reports;
+no claim is made that every platform was tested.
+
+After installing the pinned dependencies and obtaining the release assets
+as described in the repository README, run from the repository root:
+\begin{verbatim}
+python verify_public.py
+python verify_partial_formalization.py --full
+\end{verbatim}
+The first command checks the file manifest, replays the exact upper-bound
+trace, and reconstructs and checks the base encoding. The second recompiles
+all local Lean modules. Omitting \code{--full} performs only the incremental
+final-theorem audit. The arithmetic checkers use assertions, so Python
+must be run without its optimization flag.
+
+An independent LRAT replay on a system with a C compiler is:
+\begin{verbatim}
+cc -O2 lrat-check.c -o lrat-check
+./lrat-check roof_direct.cnf roof_base_dense.lrat
+\end{verbatim}
 
 \begin{thebibliography}{9}
 \bibitem{calvo} J. A. Calvo,
