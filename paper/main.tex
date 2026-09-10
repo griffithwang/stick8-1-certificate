@@ -617,9 +617,9 @@ The public source repository is
 \begin{center}\small
 \url{https://github.com/griffithwang/stick8-1-certificate}.
 \end{center}
-The initial code snapshot is commit
+The verified audit release is pinned to commit
 \begin{verbatim}
-7306c8d80b231e5d400b036cb77f513c89627707
+0b88e7c65ab01fbe281920946d58ae079191ec39
 \end{verbatim}
 It contains the source dependency closure, pinned build instructions,
 finite data, and a hash manifest. Large certificates are separate
@@ -629,13 +629,16 @@ record. All 59 local Lean modules were rebuilt successfully on Windows;
 upstream mathlib dependencies used a pinned cache. Per-module source hashes,
 exit codes, and timings are recorded separately from the independent
 arithmetic and C-checker replays. This is not a claim of a clean build on
-every platform. arXiv registration and submission are still pending.
+every platform.
 
-\paragraph{Preparation disclosure.}
-AI assistance was used in drafting, coding, and auditing this development.
-The named human author must review the mathematical claims, references,
-and artifacts and assumes responsibility for the submitted work.
-This draft has not been submitted or peer reviewed.
+\paragraph{Use of generative AI.}
+Generative AI tools, including OpenAI Codex, were used extensively in
+developing and reviewing mathematical arguments, implementing the
+computational and Lean components, and drafting this manuscript.
+The scope and limitations of formal verification are stated explicitly.
+The author assumes responsibility for the submitted work, including its
+mathematical claims, code, and references. AI-assisted review is not
+independent human peer review.
 
 \begin{thebibliography}{9}
 \bibitem{calvo} J. A. Calvo,
