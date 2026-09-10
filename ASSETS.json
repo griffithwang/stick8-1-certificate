@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "name": "roof_base_dense.lrat",
+      "path": "roof_base_dense.lrat",
+      "bytes": 700460899,
+      "sha256": "97d9c4224e353ea24ac09b5373be1fb217d2ef057577cb6f01b6475b05190a87"
+    },
+    {
+      "name": "roof.lz4.hex",
+      "path": "lean_formalization/roof.lz4.hex",
+      "bytes": 408064310,
+      "sha256": "3185a627790f0c17bdc4773990f17d55716d003b6ef8ca903c50f0031b75d3de"
+    }
+  ]
+}

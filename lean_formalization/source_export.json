@@ -1,0 +1,14 @@
+{
+  "source_nodes": 23565,
+  "boolean_links": 23563,
+  "non_boolean_nodes": [
+    23563,
+    23564
+  ],
+  "local_gate_histogram": {
+    "0": 5537,
+    "1": 18026
+  },
+  "source_sha256": "6fc5ab69e2cc5215890402b1f77a0a166b6ceba3bd7ae366321947c9cef3382c",
+  "scope": "Export only. Each local link still requires a proved-sound Lean check."
+}

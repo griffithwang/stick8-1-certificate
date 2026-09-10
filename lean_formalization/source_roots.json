@@ -1,0 +1,11472 @@
+[
+  {
+    "group": "point_GP",
+    "node": 12,
+    "literal": -13
+  },
+  {
+    "group": "point_GP",
+    "node": 22,
+    "literal": -22
+  },
+  {
+    "group": "point_GP",
+    "node": 32,
+    "literal": -31
+  },
+  {
+    "group": "point_GP",
+    "node": 42,
+    "literal": -40
+  },
+  {
+    "group": "point_GP",
+    "node": 50,
+    "literal": -47
+  },
+  {
+    "group": "point_GP",
+    "node": 58,
+    "literal": -54
+  },
+  {
+    "group": "point_GP",
+    "node": 66,
+    "literal": -61
+  },
+  {
+    "group": "point_GP",
+    "node": 74,
+    "literal": -68
+  },
+  {
+    "group": "point_GP",
+    "node": 82,
+    "literal": -75
+  },
+  {
+    "group": "point_GP",
+    "node": 90,
+    "literal": -82
+  },
+  {
+    "group": "point_GP",
+    "node": 97,
+    "literal": -88
+  },
+  {
+    "group": "point_GP",
+    "node": 104,
+    "literal": -94
+  },
+  {
+    "group": "point_GP",
+    "node": 111,
+    "literal": -100
+  },
+  {
+    "group": "point_GP",
+    "node": 118,
+    "literal": -106
+  },
+  {
+    "group": "point_GP",
+    "node": 125,
+    "literal": -112
+  },
+  {
+    "group": "point_GP",
+    "node": 132,
+    "literal": -118
+  },
+  {
+    "group": "point_GP",
+    "node": 139,
+    "literal": -124
+  },
+  {
+    "group": "point_GP",
+    "node": 146,
+    "literal": -130
+  },
+  {
+    "group": "point_GP",
+    "node": 153,
+    "literal": -136
+  },
+  {
+    "group": "point_GP",
+    "node": 160,
+    "literal": -142
+  },
+  {
+    "group": "point_GP",
+    "node": 167,
+    "literal": -148
+  },
+  {
+    "group": "point_GP",
+    "node": 174,
+    "literal": -154
+  },
+  {
+    "group": "point_GP",
+    "node": 181,
+    "literal": -160
+  },
+  {
+    "group": "point_GP",
+    "node": 188,
+    "literal": -166
+  },
+  {
+    "group": "point_GP",
+    "node": 195,
+    "literal": -172
+  },
+  {
+    "group": "point_GP",
+    "node": 202,
+    "literal": -178
+  },
+  {
+    "group": "point_GP",
+    "node": 209,
+    "literal": -184
+  },
+  {
+    "group": "point_GP",
+    "node": 216,
+    "literal": -190
+  },
+  {
+    "group": "point_GP",
+    "node": 223,
+    "literal": -196
+  },
+  {
+    "group": "point_GP",
+    "node": 230,
+    "literal": -202
+  },
+  {
+    "group": "point_GP",
+    "node": 237,
+    "literal": -208
+  },
+  {
+    "group": "point_GP",
+    "node": 244,
+    "literal": -214
+  },
+  {
+    "group": "point_GP",
+    "node": 251,
+    "literal": -220
+  },
+  {
+    "group": "point_GP",
+    "node": 258,
+    "literal": -226
+  },
+  {
+    "group": "point_GP",
+    "node": 265,
+    "literal": -232
+  },
+  {
+    "group": "point_GP",
+    "node": 278,
+    "literal": -241
+  },
+  {
+    "group": "point_GP",
+    "node": 288,
+    "literal": -249
+  },
+  {
+    "group": "point_GP",
+    "node": 298,
+    "literal": -257
+  },
+  {
+    "group": "point_GP",
+    "node": 308,
+    "literal": -265
+  },
+  {
+    "group": "point_GP",
+    "node": 316,
+    "literal": -272
+  },
+  {
+    "group": "point_GP",
+    "node": 324,
+    "literal": -279
+  },
+  {
+    "group": "point_GP",
+    "node": 332,
+    "literal": -286
+  },
+  {
+    "group": "point_GP",
+    "node": 340,
+    "literal": -293
+  },
+  {
+    "group": "point_GP",
+    "node": 348,
+    "literal": -300
+  },
+  {
+    "group": "point_GP",
+    "node": 356,
+    "literal": -307
+  },
+  {
+    "group": "point_GP",
+    "node": 363,
+    "literal": -313
+  },
+  {
+    "group": "point_GP",
+    "node": 370,
+    "literal": -319
+  },
+  {
+    "group": "point_GP",
+    "node": 377,
+    "literal": -325
+  },
+  {
+    "group": "point_GP",
+    "node": 384,
+    "literal": -331
+  },
+  {
+    "group": "point_GP",
+    "node": 391,
+    "literal": -337
+  },
+  {
+    "group": "point_GP",
+    "node": 398,
+    "literal": -343
+  },
+  {
+    "group": "point_GP",
+    "node": 405,
+    "literal": -349
+  },
+  {
+    "group": "point_GP",
+    "node": 412,
+    "literal": -355
+  },
+  {
+    "group": "point_GP",
+    "node": 419,
+    "literal": -361
+  },
+  {
+    "group": "point_GP",
+    "node": 426,
+    "literal": -367
+  },
+  {
+    "group": "point_GP",
+    "node": 433,
+    "literal": -373
+  },
+  {
+    "group": "point_GP",
+    "node": 440,
+    "literal": -379
+  },
+  {
+    "group": "point_GP",
+    "node": 447,
+    "literal": -385
+  },
+  {
+    "group": "point_GP",
+    "node": 454,
+    "literal": -391
+  },
+  {
+    "group": "point_GP",
+    "node": 461,
+    "literal": -397
+  },
+  {
+    "group": "point_GP",
+    "node": 468,
+    "literal": -403
+  },
+  {
+    "group": "point_GP",
+    "node": 475,
+    "literal": -409
+  },
+  {
+    "group": "point_GP",
+    "node": 482,
+    "literal": -415
+  },
+  {
+    "group": "point_GP",
+    "node": 489,
+    "literal": -421
+  },
+  {
+    "group": "point_GP",
+    "node": 496,
+    "literal": -427
+  },
+  {
+    "group": "point_GP",
+    "node": 503,
+    "literal": -433
+  },
+  {
+    "group": "point_GP",
+    "node": 510,
+    "literal": -439
+  },
+  {
+    "group": "point_GP",
+    "node": 517,
+    "literal": -445
+  },
+  {
+    "group": "point_GP",
+    "node": 524,
+    "literal": -451
+  },
+  {
+    "group": "point_GP",
+    "node": 531,
+    "literal": -457
+  },
+  {
+    "group": "point_GP",
+    "node": 543,
+    "literal": -464
+  },
+  {
+    "group": "point_GP",
+    "node": 553,
+    "literal": -471
+  },
+  {
+    "group": "point_GP",
+    "node": 563,
+    "literal": -478
+  },
+  {
+    "group": "point_GP",
+    "node": 573,
+    "literal": -485
+  },
+  {
+    "group": "point_GP",
+    "node": 581,
+    "literal": -492
+  },
+  {
+    "group": "point_GP",
+    "node": 589,
+    "literal": -499
+  },
+  {
+    "group": "point_GP",
+    "node": 597,
+    "literal": -506
+  },
+  {
+    "group": "point_GP",
+    "node": 605,
+    "literal": -513
+  },
+  {
+    "group": "point_GP",
+    "node": 613,
+    "literal": -520
+  },
+  {
+    "group": "point_GP",
+    "node": 621,
+    "literal": -527
+  },
+  {
+    "group": "point_GP",
+    "node": 628,
+    "literal": -533
+  },
+  {
+    "group": "point_GP",
+    "node": 635,
+    "literal": -539
+  },
+  {
+    "group": "point_GP",
+    "node": 642,
+    "literal": -545
+  },
+  {
+    "group": "point_GP",
+    "node": 649,
+    "literal": -551
+  },
+  {
+    "group": "point_GP",
+    "node": 656,
+    "literal": -557
+  },
+  {
+    "group": "point_GP",
+    "node": 663,
+    "literal": -563
+  },
+  {
+    "group": "point_GP",
+    "node": 670,
+    "literal": -569
+  },
+  {
+    "group": "point_GP",
+    "node": 677,
+    "literal": -575
+  },
+  {
+    "group": "point_GP",
+    "node": 684,
+    "literal": -581
+  },
+  {
+    "group": "point_GP",
+    "node": 691,
+    "literal": -587
+  },
+  {
+    "group": "point_GP",
+    "node": 698,
+    "literal": -593
+  },
+  {
+    "group": "point_GP",
+    "node": 705,
+    "literal": -599
+  },
+  {
+    "group": "point_GP",
+    "node": 712,
+    "literal": -605
+  },
+  {
+    "group": "point_GP",
+    "node": 719,
+    "literal": -611
+  },
+  {
+    "group": "point_GP",
+    "node": 726,
+    "literal": -617
+  },
+  {
+    "group": "point_GP",
+    "node": 733,
+    "literal": -623
+  },
+  {
+    "group": "point_GP",
+    "node": 740,
+    "literal": -629
+  },
+  {
+    "group": "point_GP",
+    "node": 747,
+    "literal": -635
+  },
+  {
+    "group": "point_GP",
+    "node": 754,
+    "literal": -641
+  },
+  {
+    "group": "point_GP",
+    "node": 761,
+    "literal": -647
+  },
+  {
+    "group": "point_GP",
+    "node": 768,
+    "literal": -653
+  },
+  {
+    "group": "point_GP",
+    "node": 775,
+    "literal": -659
+  },
+  {
+    "group": "point_GP",
+    "node": 782,
+    "literal": -665
+  },
+  {
+    "group": "point_GP",
+    "node": 789,
+    "literal": -671
+  },
+  {
+    "group": "point_GP",
+    "node": 796,
+    "literal": -677
+  },
+  {
+    "group": "point_GP",
+    "node": 806,
+    "literal": -683
+  },
+  {
+    "group": "point_GP",
+    "node": 816,
+    "literal": -689
+  },
+  {
+    "group": "point_GP",
+    "node": 826,
+    "literal": -695
+  },
+  {
+    "group": "point_GP",
+    "node": 836,
+    "literal": -701
+  },
+  {
+    "group": "point_GP",
+    "node": 844,
+    "literal": -708
+  },
+  {
+    "group": "point_GP",
+    "node": 852,
+    "literal": -715
+  },
+  {
+    "group": "point_GP",
+    "node": 860,
+    "literal": -722
+  },
+  {
+    "group": "point_GP",
+    "node": 868,
+    "literal": -729
+  },
+  {
+    "group": "point_GP",
+    "node": 876,
+    "literal": -736
+  },
+  {
+    "group": "point_GP",
+    "node": 884,
+    "literal": -743
+  },
+  {
+    "group": "point_GP",
+    "node": 891,
+    "literal": -749
+  },
+  {
+    "group": "point_GP",
+    "node": 898,
+    "literal": -755
+  },
+  {
+    "group": "point_GP",
+    "node": 905,
+    "literal": -761
+  },
+  {
+    "group": "point_GP",
+    "node": 912,
+    "literal": -767
+  },
+  {
+    "group": "point_GP",
+    "node": 919,
+    "literal": -773
+  },
+  {
+    "group": "point_GP",
+    "node": 926,
+    "literal": -779
+  },
+  {
+    "group": "point_GP",
+    "node": 933,
+    "literal": -785
+  },
+  {
+    "group": "point_GP",
+    "node": 940,
+    "literal": -791
+  },
+  {
+    "group": "point_GP",
+    "node": 947,
+    "literal": -797
+  },
+  {
+    "group": "point_GP",
+    "node": 954,
+    "literal": -803
+  },
+  {
+    "group": "point_GP",
+    "node": 961,
+    "literal": -809
+  },
+  {
+    "group": "point_GP",
+    "node": 968,
+    "literal": -815
+  },
+  {
+    "group": "point_GP",
+    "node": 975,
+    "literal": -821
+  },
+  {
+    "group": "point_GP",
+    "node": 982,
+    "literal": -827
+  },
+  {
+    "group": "point_GP",
+    "node": 989,
+    "literal": -833
+  },
+  {
+    "group": "point_GP",
+    "node": 996,
+    "literal": -839
+  },
+  {
+    "group": "point_GP",
+    "node": 1003,
+    "literal": -845
+  },
+  {
+    "group": "point_GP",
+    "node": 1010,
+    "literal": -851
+  },
+  {
+    "group": "point_GP",
+    "node": 1017,
+    "literal": -857
+  },
+  {
+    "group": "point_GP",
+    "node": 1024,
+    "literal": -863
+  },
+  {
+    "group": "point_GP",
+    "node": 1031,
+    "literal": -869
+  },
+  {
+    "group": "point_GP",
+    "node": 1038,
+    "literal": -875
+  },
+  {
+    "group": "point_GP",
+    "node": 1045,
+    "literal": -881
+  },
+  {
+    "group": "point_GP",
+    "node": 1052,
+    "literal": -887
+  },
+  {
+    "group": "point_GP",
+    "node": 1059,
+    "literal": -893
+  },
+  {
+    "group": "point_GP",
+    "node": 1066,
+    "literal": -899
+  },
+  {
+    "group": "point_GP",
+    "node": 1076,
+    "literal": -905
+  },
+  {
+    "group": "point_GP",
+    "node": 1086,
+    "literal": -911
+  },
+  {
+    "group": "point_GP",
+    "node": 1096,
+    "literal": -917
+  },
+  {
+    "group": "point_GP",
+    "node": 1104,
+    "literal": -923
+  },
+  {
+    "group": "point_GP",
+    "node": 1112,
+    "literal": -929
+  },
+  {
+    "group": "point_GP",
+    "node": 1120,
+    "literal": -935
+  },
+  {
+    "group": "point_GP",
+    "node": 1128,
+    "literal": -942
+  },
+  {
+    "group": "point_GP",
+    "node": 1136,
+    "literal": -949
+  },
+  {
+    "group": "point_GP",
+    "node": 1144,
+    "literal": -956
+  },
+  {
+    "group": "point_GP",
+    "node": 1151,
+    "literal": -962
+  },
+  {
+    "group": "point_GP",
+    "node": 1158,
+    "literal": -968
+  },
+  {
+    "group": "point_GP",
+    "node": 1165,
+    "literal": -974
+  },
+  {
+    "group": "point_GP",
+    "node": 1172,
+    "literal": -980
+  },
+  {
+    "group": "point_GP",
+    "node": 1179,
+    "literal": -986
+  },
+  {
+    "group": "point_GP",
+    "node": 1186,
+    "literal": -992
+  },
+  {
+    "group": "point_GP",
+    "node": 1193,
+    "literal": -998
+  },
+  {
+    "group": "point_GP",
+    "node": 1200,
+    "literal": -1004
+  },
+  {
+    "group": "point_GP",
+    "node": 1207,
+    "literal": -1010
+  },
+  {
+    "group": "point_GP",
+    "node": 1214,
+    "literal": -1016
+  },
+  {
+    "group": "point_GP",
+    "node": 1221,
+    "literal": -1022
+  },
+  {
+    "group": "point_GP",
+    "node": 1228,
+    "literal": -1028
+  },
+  {
+    "group": "point_GP",
+    "node": 1235,
+    "literal": -1034
+  },
+  {
+    "group": "point_GP",
+    "node": 1242,
+    "literal": -1040
+  },
+  {
+    "group": "point_GP",
+    "node": 1249,
+    "literal": -1046
+  },
+  {
+    "group": "point_GP",
+    "node": 1256,
+    "literal": -1052
+  },
+  {
+    "group": "point_GP",
+    "node": 1263,
+    "literal": -1058
+  },
+  {
+    "group": "point_GP",
+    "node": 1270,
+    "literal": -1064
+  },
+  {
+    "group": "point_GP",
+    "node": 1277,
+    "literal": -1070
+  },
+  {
+    "group": "point_GP",
+    "node": 1284,
+    "literal": -1076
+  },
+  {
+    "group": "point_GP",
+    "node": 1291,
+    "literal": -1082
+  },
+  {
+    "group": "point_GP",
+    "node": 1298,
+    "literal": -1088
+  },
+  {
+    "group": "point_GP",
+    "node": 1305,
+    "literal": -1094
+  },
+  {
+    "group": "point_GP",
+    "node": 1312,
+    "literal": -1100
+  },
+  {
+    "group": "point_GP",
+    "node": 1319,
+    "literal": -1106
+  },
+  {
+    "group": "point_GP",
+    "node": 1326,
+    "literal": -1112
+  },
+  {
+    "group": "point_GP",
+    "node": 1333,
+    "literal": -1118
+  },
+  {
+    "group": "point_GP",
+    "node": 1343,
+    "literal": -1124
+  },
+  {
+    "group": "point_GP",
+    "node": 1353,
+    "literal": -1130
+  },
+  {
+    "group": "point_GP",
+    "node": 1360,
+    "literal": -1136
+  },
+  {
+    "group": "point_GP",
+    "node": 1368,
+    "literal": -1142
+  },
+  {
+    "group": "point_GP",
+    "node": 1376,
+    "literal": -1148
+  },
+  {
+    "group": "point_GP",
+    "node": 1384,
+    "literal": -1154
+  },
+  {
+    "group": "point_GP",
+    "node": 1392,
+    "literal": -1160
+  },
+  {
+    "group": "point_GP",
+    "node": 1400,
+    "literal": -1167
+  },
+  {
+    "group": "point_GP",
+    "node": 1407,
+    "literal": -1173
+  },
+  {
+    "group": "point_GP",
+    "node": 1414,
+    "literal": -1179
+  },
+  {
+    "group": "point_GP",
+    "node": 1421,
+    "literal": -1185
+  },
+  {
+    "group": "point_GP",
+    "node": 1428,
+    "literal": -1191
+  },
+  {
+    "group": "point_GP",
+    "node": 1435,
+    "literal": -1197
+  },
+  {
+    "group": "point_GP",
+    "node": 1442,
+    "literal": -1203
+  },
+  {
+    "group": "point_GP",
+    "node": 1449,
+    "literal": -1209
+  },
+  {
+    "group": "point_GP",
+    "node": 1456,
+    "literal": -1215
+  },
+  {
+    "group": "point_GP",
+    "node": 1463,
+    "literal": -1221
+  },
+  {
+    "group": "point_GP",
+    "node": 1470,
+    "literal": -1227
+  },
+  {
+    "group": "point_GP",
+    "node": 1477,
+    "literal": -1233
+  },
+  {
+    "group": "point_GP",
+    "node": 1484,
+    "literal": -1239
+  },
+  {
+    "group": "point_GP",
+    "node": 1491,
+    "literal": -1245
+  },
+  {
+    "group": "point_GP",
+    "node": 1498,
+    "literal": -1251
+  },
+  {
+    "group": "point_GP",
+    "node": 1505,
+    "literal": -1257
+  },
+  {
+    "group": "point_GP",
+    "node": 1512,
+    "literal": -1263
+  },
+  {
+    "group": "point_GP",
+    "node": 1519,
+    "literal": -1269
+  },
+  {
+    "group": "point_GP",
+    "node": 1526,
+    "literal": -1275
+  },
+  {
+    "group": "point_GP",
+    "node": 1533,
+    "literal": -1281
+  },
+  {
+    "group": "point_GP",
+    "node": 1540,
+    "literal": -1287
+  },
+  {
+    "group": "point_GP",
+    "node": 1547,
+    "literal": -1293
+  },
+  {
+    "group": "point_GP",
+    "node": 1554,
+    "literal": -1299
+  },
+  {
+    "group": "point_GP",
+    "node": 1561,
+    "literal": -1305
+  },
+  {
+    "group": "point_GP",
+    "node": 1568,
+    "literal": -1311
+  },
+  {
+    "group": "point_GP",
+    "node": 1575,
+    "literal": -1317
+  },
+  {
+    "group": "point_GP",
+    "node": 1582,
+    "literal": -1323
+  },
+  {
+    "group": "point_GP",
+    "node": 1589,
+    "literal": -1329
+  },
+  {
+    "group": "point_GP",
+    "node": 1596,
+    "literal": -1335
+  },
+  {
+    "group": "point_GP",
+    "node": 1606,
+    "literal": -1341
+  },
+  {
+    "group": "point_GP",
+    "node": 1613,
+    "literal": -1347
+  },
+  {
+    "group": "point_GP",
+    "node": 1620,
+    "literal": -1353
+  },
+  {
+    "group": "point_GP",
+    "node": 1628,
+    "literal": -1359
+  },
+  {
+    "group": "point_GP",
+    "node": 1635,
+    "literal": -1365
+  },
+  {
+    "group": "point_GP",
+    "node": 1643,
+    "literal": -1371
+  },
+  {
+    "group": "point_GP",
+    "node": 1651,
+    "literal": -1377
+  },
+  {
+    "group": "point_GP",
+    "node": 1658,
+    "literal": -1383
+  },
+  {
+    "group": "point_GP",
+    "node": 1665,
+    "literal": -1389
+  },
+  {
+    "group": "point_GP",
+    "node": 1672,
+    "literal": -1395
+  },
+  {
+    "group": "point_GP",
+    "node": 1679,
+    "literal": -1401
+  },
+  {
+    "group": "point_GP",
+    "node": 1686,
+    "literal": -1407
+  },
+  {
+    "group": "point_GP",
+    "node": 1693,
+    "literal": -1413
+  },
+  {
+    "group": "point_GP",
+    "node": 1700,
+    "literal": -1419
+  },
+  {
+    "group": "point_GP",
+    "node": 1707,
+    "literal": -1425
+  },
+  {
+    "group": "point_GP",
+    "node": 1714,
+    "literal": -1431
+  },
+  {
+    "group": "point_GP",
+    "node": 1721,
+    "literal": -1437
+  },
+  {
+    "group": "point_GP",
+    "node": 1728,
+    "literal": -1443
+  },
+  {
+    "group": "point_GP",
+    "node": 1735,
+    "literal": -1449
+  },
+  {
+    "group": "point_GP",
+    "node": 1742,
+    "literal": -1455
+  },
+  {
+    "group": "point_GP",
+    "node": 1749,
+    "literal": -1461
+  },
+  {
+    "group": "point_GP",
+    "node": 1756,
+    "literal": -1467
+  },
+  {
+    "group": "point_GP",
+    "node": 1763,
+    "literal": -1473
+  },
+  {
+    "group": "point_GP",
+    "node": 1770,
+    "literal": -1479
+  },
+  {
+    "group": "point_GP",
+    "node": 1777,
+    "literal": -1485
+  },
+  {
+    "group": "point_GP",
+    "node": 1784,
+    "literal": -1491
+  },
+  {
+    "group": "point_GP",
+    "node": 1791,
+    "literal": -1497
+  },
+  {
+    "group": "point_GP",
+    "node": 1798,
+    "literal": -1503
+  },
+  {
+    "group": "point_GP",
+    "node": 1805,
+    "literal": -1509
+  },
+  {
+    "group": "point_GP",
+    "node": 1812,
+    "literal": -1515
+  },
+  {
+    "group": "point_GP",
+    "node": 1819,
+    "literal": -1521
+  },
+  {
+    "group": "point_GP",
+    "node": 1826,
+    "literal": -1527
+  },
+  {
+    "group": "point_GP",
+    "node": 1833,
+    "literal": -1533
+  },
+  {
+    "group": "point_GP",
+    "node": 1840,
+    "literal": -1539
+  },
+  {
+    "group": "point_GP",
+    "node": 1847,
+    "literal": -1545
+  },
+  {
+    "group": "point_GP",
+    "node": 1854,
+    "literal": -1551
+  },
+  {
+    "group": "point_GP",
+    "node": 1861,
+    "literal": -1557
+  },
+  {
+    "group": "point_GP",
+    "node": 1868,
+    "literal": -1563
+  },
+  {
+    "group": "point_GP",
+    "node": 1875,
+    "literal": -1569
+  },
+  {
+    "group": "point_GP",
+    "node": 1882,
+    "literal": -1575
+  },
+  {
+    "group": "point_GP",
+    "node": 1889,
+    "literal": -1581
+  },
+  {
+    "group": "point_GP",
+    "node": 1896,
+    "literal": -1587
+  },
+  {
+    "group": "point_GP",
+    "node": 1903,
+    "literal": -1593
+  },
+  {
+    "group": "point_GP",
+    "node": 1910,
+    "literal": -1599
+  },
+  {
+    "group": "point_GP",
+    "node": 1917,
+    "literal": -1605
+  },
+  {
+    "group": "point_GP",
+    "node": 1924,
+    "literal": -1611
+  },
+  {
+    "group": "point_GP",
+    "node": 1931,
+    "literal": -1617
+  },
+  {
+    "group": "point_GP",
+    "node": 1938,
+    "literal": -1623
+  },
+  {
+    "group": "point_GP",
+    "node": 1945,
+    "literal": -1629
+  },
+  {
+    "group": "point_GP",
+    "node": 1952,
+    "literal": -1635
+  },
+  {
+    "group": "point_GP",
+    "node": 1959,
+    "literal": -1641
+  },
+  {
+    "group": "point_GP",
+    "node": 1966,
+    "literal": -1647
+  },
+  {
+    "group": "point_GP",
+    "node": 1973,
+    "literal": -1653
+  },
+  {
+    "group": "point_GP",
+    "node": 1980,
+    "literal": -1659
+  },
+  {
+    "group": "point_GP",
+    "node": 1987,
+    "literal": -1665
+  },
+  {
+    "group": "point_GP",
+    "node": 1994,
+    "literal": -1671
+  },
+  {
+    "group": "point_GP",
+    "node": 2001,
+    "literal": -1677
+  },
+  {
+    "group": "point_GP",
+    "node": 2008,
+    "literal": -1683
+  },
+  {
+    "group": "point_GP",
+    "node": 2015,
+    "literal": -1689
+  },
+  {
+    "group": "point_GP",
+    "node": 2022,
+    "literal": -1695
+  },
+  {
+    "group": "point_GP",
+    "node": 2029,
+    "literal": -1701
+  },
+  {
+    "group": "point_GP",
+    "node": 2036,
+    "literal": -1707
+  },
+  {
+    "group": "point_GP",
+    "node": 2043,
+    "literal": -1713
+  },
+  {
+    "group": "point_GP",
+    "node": 2050,
+    "literal": -1719
+  },
+  {
+    "group": "point_GP",
+    "node": 2057,
+    "literal": -1725
+  },
+  {
+    "group": "point_GP",
+    "node": 2064,
+    "literal": -1731
+  },
+  {
+    "group": "point_GP",
+    "node": 2071,
+    "literal": -1737
+  },
+  {
+    "group": "point_GP",
+    "node": 2081,
+    "literal": -1746
+  },
+  {
+    "group": "point_GP",
+    "node": 2090,
+    "literal": -1754
+  },
+  {
+    "group": "point_GP",
+    "node": 2099,
+    "literal": -1762
+  },
+  {
+    "group": "point_GP",
+    "node": 2108,
+    "literal": -1770
+  },
+  {
+    "group": "point_GP",
+    "node": 2116,
+    "literal": -1777
+  },
+  {
+    "group": "point_GP",
+    "node": 2124,
+    "literal": -1784
+  },
+  {
+    "group": "point_GP",
+    "node": 2132,
+    "literal": -1791
+  },
+  {
+    "group": "point_GP",
+    "node": 2140,
+    "literal": -1798
+  },
+  {
+    "group": "point_GP",
+    "node": 2148,
+    "literal": -1805
+  },
+  {
+    "group": "point_GP",
+    "node": 2156,
+    "literal": -1812
+  },
+  {
+    "group": "point_GP",
+    "node": 2163,
+    "literal": -1818
+  },
+  {
+    "group": "point_GP",
+    "node": 2170,
+    "literal": -1824
+  },
+  {
+    "group": "point_GP",
+    "node": 2177,
+    "literal": -1830
+  },
+  {
+    "group": "point_GP",
+    "node": 2184,
+    "literal": -1836
+  },
+  {
+    "group": "point_GP",
+    "node": 2191,
+    "literal": -1842
+  },
+  {
+    "group": "point_GP",
+    "node": 2198,
+    "literal": -1848
+  },
+  {
+    "group": "point_GP",
+    "node": 2205,
+    "literal": -1854
+  },
+  {
+    "group": "point_GP",
+    "node": 2212,
+    "literal": -1860
+  },
+  {
+    "group": "point_GP",
+    "node": 2219,
+    "literal": -1866
+  },
+  {
+    "group": "point_GP",
+    "node": 2226,
+    "literal": -1872
+  },
+  {
+    "group": "point_GP",
+    "node": 2233,
+    "literal": -1878
+  },
+  {
+    "group": "point_GP",
+    "node": 2240,
+    "literal": -1884
+  },
+  {
+    "group": "point_GP",
+    "node": 2247,
+    "literal": -1890
+  },
+  {
+    "group": "point_GP",
+    "node": 2254,
+    "literal": -1896
+  },
+  {
+    "group": "point_GP",
+    "node": 2261,
+    "literal": -1902
+  },
+  {
+    "group": "point_GP",
+    "node": 2268,
+    "literal": -1908
+  },
+  {
+    "group": "point_GP",
+    "node": 2275,
+    "literal": -1914
+  },
+  {
+    "group": "point_GP",
+    "node": 2282,
+    "literal": -1920
+  },
+  {
+    "group": "point_GP",
+    "node": 2289,
+    "literal": -1926
+  },
+  {
+    "group": "point_GP",
+    "node": 2296,
+    "literal": -1932
+  },
+  {
+    "group": "point_GP",
+    "node": 2303,
+    "literal": -1938
+  },
+  {
+    "group": "point_GP",
+    "node": 2310,
+    "literal": -1944
+  },
+  {
+    "group": "point_GP",
+    "node": 2317,
+    "literal": -1950
+  },
+  {
+    "group": "point_GP",
+    "node": 2324,
+    "literal": -1956
+  },
+  {
+    "group": "point_GP",
+    "node": 2331,
+    "literal": -1962
+  },
+  {
+    "group": "point_GP",
+    "node": 2341,
+    "literal": -1969
+  },
+  {
+    "group": "point_GP",
+    "node": 2350,
+    "literal": -1976
+  },
+  {
+    "group": "point_GP",
+    "node": 2359,
+    "literal": -1983
+  },
+  {
+    "group": "point_GP",
+    "node": 2368,
+    "literal": -1990
+  },
+  {
+    "group": "point_GP",
+    "node": 2376,
+    "literal": -1997
+  },
+  {
+    "group": "point_GP",
+    "node": 2384,
+    "literal": -2004
+  },
+  {
+    "group": "point_GP",
+    "node": 2392,
+    "literal": -2011
+  },
+  {
+    "group": "point_GP",
+    "node": 2400,
+    "literal": -2018
+  },
+  {
+    "group": "point_GP",
+    "node": 2408,
+    "literal": -2025
+  },
+  {
+    "group": "point_GP",
+    "node": 2416,
+    "literal": -2032
+  },
+  {
+    "group": "point_GP",
+    "node": 2423,
+    "literal": -2038
+  },
+  {
+    "group": "point_GP",
+    "node": 2430,
+    "literal": -2044
+  },
+  {
+    "group": "point_GP",
+    "node": 2437,
+    "literal": -2050
+  },
+  {
+    "group": "point_GP",
+    "node": 2444,
+    "literal": -2056
+  },
+  {
+    "group": "point_GP",
+    "node": 2451,
+    "literal": -2062
+  },
+  {
+    "group": "point_GP",
+    "node": 2458,
+    "literal": -2068
+  },
+  {
+    "group": "point_GP",
+    "node": 2465,
+    "literal": -2074
+  },
+  {
+    "group": "point_GP",
+    "node": 2472,
+    "literal": -2080
+  },
+  {
+    "group": "point_GP",
+    "node": 2479,
+    "literal": -2086
+  },
+  {
+    "group": "point_GP",
+    "node": 2486,
+    "literal": -2092
+  },
+  {
+    "group": "point_GP",
+    "node": 2493,
+    "literal": -2098
+  },
+  {
+    "group": "point_GP",
+    "node": 2500,
+    "literal": -2104
+  },
+  {
+    "group": "point_GP",
+    "node": 2507,
+    "literal": -2110
+  },
+  {
+    "group": "point_GP",
+    "node": 2514,
+    "literal": -2116
+  },
+  {
+    "group": "point_GP",
+    "node": 2521,
+    "literal": -2122
+  },
+  {
+    "group": "point_GP",
+    "node": 2528,
+    "literal": -2128
+  },
+  {
+    "group": "point_GP",
+    "node": 2535,
+    "literal": -2134
+  },
+  {
+    "group": "point_GP",
+    "node": 2542,
+    "literal": -2140
+  },
+  {
+    "group": "point_GP",
+    "node": 2549,
+    "literal": -2146
+  },
+  {
+    "group": "point_GP",
+    "node": 2556,
+    "literal": -2152
+  },
+  {
+    "group": "point_GP",
+    "node": 2563,
+    "literal": -2158
+  },
+  {
+    "group": "point_GP",
+    "node": 2570,
+    "literal": -2164
+  },
+  {
+    "group": "point_GP",
+    "node": 2577,
+    "literal": -2170
+  },
+  {
+    "group": "point_GP",
+    "node": 2584,
+    "literal": -2176
+  },
+  {
+    "group": "point_GP",
+    "node": 2591,
+    "literal": -2182
+  },
+  {
+    "group": "point_GP",
+    "node": 2600,
+    "literal": -2188
+  },
+  {
+    "group": "point_GP",
+    "node": 2609,
+    "literal": -2194
+  },
+  {
+    "group": "point_GP",
+    "node": 2618,
+    "literal": -2200
+  },
+  {
+    "group": "point_GP",
+    "node": 2627,
+    "literal": -2206
+  },
+  {
+    "group": "point_GP",
+    "node": 2635,
+    "literal": -2213
+  },
+  {
+    "group": "point_GP",
+    "node": 2643,
+    "literal": -2220
+  },
+  {
+    "group": "point_GP",
+    "node": 2651,
+    "literal": -2227
+  },
+  {
+    "group": "point_GP",
+    "node": 2659,
+    "literal": -2234
+  },
+  {
+    "group": "point_GP",
+    "node": 2667,
+    "literal": -2241
+  },
+  {
+    "group": "point_GP",
+    "node": 2675,
+    "literal": -2248
+  },
+  {
+    "group": "point_GP",
+    "node": 2682,
+    "literal": -2254
+  },
+  {
+    "group": "point_GP",
+    "node": 2689,
+    "literal": -2260
+  },
+  {
+    "group": "point_GP",
+    "node": 2696,
+    "literal": -2266
+  },
+  {
+    "group": "point_GP",
+    "node": 2703,
+    "literal": -2272
+  },
+  {
+    "group": "point_GP",
+    "node": 2710,
+    "literal": -2278
+  },
+  {
+    "group": "point_GP",
+    "node": 2717,
+    "literal": -2284
+  },
+  {
+    "group": "point_GP",
+    "node": 2724,
+    "literal": -2290
+  },
+  {
+    "group": "point_GP",
+    "node": 2731,
+    "literal": -2296
+  },
+  {
+    "group": "point_GP",
+    "node": 2738,
+    "literal": -2302
+  },
+  {
+    "group": "point_GP",
+    "node": 2745,
+    "literal": -2308
+  },
+  {
+    "group": "point_GP",
+    "node": 2752,
+    "literal": -2314
+  },
+  {
+    "group": "point_GP",
+    "node": 2759,
+    "literal": -2320
+  },
+  {
+    "group": "point_GP",
+    "node": 2766,
+    "literal": -2326
+  },
+  {
+    "group": "point_GP",
+    "node": 2773,
+    "literal": -2332
+  },
+  {
+    "group": "point_GP",
+    "node": 2780,
+    "literal": -2338
+  },
+  {
+    "group": "point_GP",
+    "node": 2787,
+    "literal": -2344
+  },
+  {
+    "group": "point_GP",
+    "node": 2794,
+    "literal": -2350
+  },
+  {
+    "group": "point_GP",
+    "node": 2801,
+    "literal": -2356
+  },
+  {
+    "group": "point_GP",
+    "node": 2808,
+    "literal": -2362
+  },
+  {
+    "group": "point_GP",
+    "node": 2815,
+    "literal": -2368
+  },
+  {
+    "group": "point_GP",
+    "node": 2822,
+    "literal": -2374
+  },
+  {
+    "group": "point_GP",
+    "node": 2829,
+    "literal": -2380
+  },
+  {
+    "group": "point_GP",
+    "node": 2836,
+    "literal": -2386
+  },
+  {
+    "group": "point_GP",
+    "node": 2843,
+    "literal": -2392
+  },
+  {
+    "group": "point_GP",
+    "node": 2850,
+    "literal": -2398
+  },
+  {
+    "group": "point_GP",
+    "node": 2857,
+    "literal": -2404
+  },
+  {
+    "group": "point_GP",
+    "node": 2866,
+    "literal": -2410
+  },
+  {
+    "group": "point_GP",
+    "node": 2875,
+    "literal": -2416
+  },
+  {
+    "group": "point_GP",
+    "node": 2884,
+    "literal": -2422
+  },
+  {
+    "group": "point_GP",
+    "node": 2892,
+    "literal": -2428
+  },
+  {
+    "group": "point_GP",
+    "node": 2900,
+    "literal": -2434
+  },
+  {
+    "group": "point_GP",
+    "node": 2908,
+    "literal": -2440
+  },
+  {
+    "group": "point_GP",
+    "node": 2916,
+    "literal": -2447
+  },
+  {
+    "group": "point_GP",
+    "node": 2924,
+    "literal": -2454
+  },
+  {
+    "group": "point_GP",
+    "node": 2932,
+    "literal": -2461
+  },
+  {
+    "group": "point_GP",
+    "node": 2939,
+    "literal": -2467
+  },
+  {
+    "group": "point_GP",
+    "node": 2946,
+    "literal": -2473
+  },
+  {
+    "group": "point_GP",
+    "node": 2953,
+    "literal": -2479
+  },
+  {
+    "group": "point_GP",
+    "node": 2960,
+    "literal": -2485
+  },
+  {
+    "group": "point_GP",
+    "node": 2967,
+    "literal": -2491
+  },
+  {
+    "group": "point_GP",
+    "node": 2974,
+    "literal": -2497
+  },
+  {
+    "group": "point_GP",
+    "node": 2981,
+    "literal": -2503
+  },
+  {
+    "group": "point_GP",
+    "node": 2988,
+    "literal": -2509
+  },
+  {
+    "group": "point_GP",
+    "node": 2995,
+    "literal": -2515
+  },
+  {
+    "group": "point_GP",
+    "node": 3002,
+    "literal": -2521
+  },
+  {
+    "group": "point_GP",
+    "node": 3009,
+    "literal": -2527
+  },
+  {
+    "group": "point_GP",
+    "node": 3016,
+    "literal": -2533
+  },
+  {
+    "group": "point_GP",
+    "node": 3023,
+    "literal": -2539
+  },
+  {
+    "group": "point_GP",
+    "node": 3030,
+    "literal": -2545
+  },
+  {
+    "group": "point_GP",
+    "node": 3037,
+    "literal": -2551
+  },
+  {
+    "group": "point_GP",
+    "node": 3044,
+    "literal": -2557
+  },
+  {
+    "group": "point_GP",
+    "node": 3051,
+    "literal": -2563
+  },
+  {
+    "group": "point_GP",
+    "node": 3058,
+    "literal": -2569
+  },
+  {
+    "group": "point_GP",
+    "node": 3065,
+    "literal": -2575
+  },
+  {
+    "group": "point_GP",
+    "node": 3072,
+    "literal": -2581
+  },
+  {
+    "group": "point_GP",
+    "node": 3079,
+    "literal": -2587
+  },
+  {
+    "group": "point_GP",
+    "node": 3086,
+    "literal": -2593
+  },
+  {
+    "group": "point_GP",
+    "node": 3093,
+    "literal": -2599
+  },
+  {
+    "group": "point_GP",
+    "node": 3100,
+    "literal": -2605
+  },
+  {
+    "group": "point_GP",
+    "node": 3107,
+    "literal": -2611
+  },
+  {
+    "group": "point_GP",
+    "node": 3114,
+    "literal": -2617
+  },
+  {
+    "group": "point_GP",
+    "node": 3121,
+    "literal": -2623
+  },
+  {
+    "group": "point_GP",
+    "node": 3130,
+    "literal": -2629
+  },
+  {
+    "group": "point_GP",
+    "node": 3139,
+    "literal": -2635
+  },
+  {
+    "group": "point_GP",
+    "node": 3146,
+    "literal": -2641
+  },
+  {
+    "group": "point_GP",
+    "node": 3154,
+    "literal": -2647
+  },
+  {
+    "group": "point_GP",
+    "node": 3162,
+    "literal": -2653
+  },
+  {
+    "group": "point_GP",
+    "node": 3170,
+    "literal": -2659
+  },
+  {
+    "group": "point_GP",
+    "node": 3178,
+    "literal": -2665
+  },
+  {
+    "group": "point_GP",
+    "node": 3186,
+    "literal": -2672
+  },
+  {
+    "group": "point_GP",
+    "node": 3193,
+    "literal": -2678
+  },
+  {
+    "group": "point_GP",
+    "node": 3200,
+    "literal": -2684
+  },
+  {
+    "group": "point_GP",
+    "node": 3207,
+    "literal": -2690
+  },
+  {
+    "group": "point_GP",
+    "node": 3214,
+    "literal": -2696
+  },
+  {
+    "group": "point_GP",
+    "node": 3221,
+    "literal": -2702
+  },
+  {
+    "group": "point_GP",
+    "node": 3228,
+    "literal": -2708
+  },
+  {
+    "group": "point_GP",
+    "node": 3235,
+    "literal": -2714
+  },
+  {
+    "group": "point_GP",
+    "node": 3242,
+    "literal": -2720
+  },
+  {
+    "group": "point_GP",
+    "node": 3249,
+    "literal": -2726
+  },
+  {
+    "group": "point_GP",
+    "node": 3256,
+    "literal": -2732
+  },
+  {
+    "group": "point_GP",
+    "node": 3263,
+    "literal": -2738
+  },
+  {
+    "group": "point_GP",
+    "node": 3270,
+    "literal": -2744
+  },
+  {
+    "group": "point_GP",
+    "node": 3277,
+    "literal": -2750
+  },
+  {
+    "group": "point_GP",
+    "node": 3284,
+    "literal": -2756
+  },
+  {
+    "group": "point_GP",
+    "node": 3291,
+    "literal": -2762
+  },
+  {
+    "group": "point_GP",
+    "node": 3298,
+    "literal": -2768
+  },
+  {
+    "group": "point_GP",
+    "node": 3305,
+    "literal": -2774
+  },
+  {
+    "group": "point_GP",
+    "node": 3312,
+    "literal": -2780
+  },
+  {
+    "group": "point_GP",
+    "node": 3319,
+    "literal": -2786
+  },
+  {
+    "group": "point_GP",
+    "node": 3326,
+    "literal": -2792
+  },
+  {
+    "group": "point_GP",
+    "node": 3333,
+    "literal": -2798
+  },
+  {
+    "group": "point_GP",
+    "node": 3340,
+    "literal": -2804
+  },
+  {
+    "group": "point_GP",
+    "node": 3347,
+    "literal": -2810
+  },
+  {
+    "group": "point_GP",
+    "node": 3354,
+    "literal": -2816
+  },
+  {
+    "group": "point_GP",
+    "node": 3361,
+    "literal": -2822
+  },
+  {
+    "group": "point_GP",
+    "node": 3368,
+    "literal": -2828
+  },
+  {
+    "group": "point_GP",
+    "node": 3375,
+    "literal": -2834
+  },
+  {
+    "group": "point_GP",
+    "node": 3382,
+    "literal": -2840
+  },
+  {
+    "group": "point_GP",
+    "node": 3391,
+    "literal": -2846
+  },
+  {
+    "group": "point_GP",
+    "node": 3398,
+    "literal": -2852
+  },
+  {
+    "group": "point_GP",
+    "node": 3405,
+    "literal": -2858
+  },
+  {
+    "group": "point_GP",
+    "node": 3413,
+    "literal": -2864
+  },
+  {
+    "group": "point_GP",
+    "node": 3420,
+    "literal": -2870
+  },
+  {
+    "group": "point_GP",
+    "node": 3428,
+    "literal": -2876
+  },
+  {
+    "group": "point_GP",
+    "node": 3436,
+    "literal": -2882
+  },
+  {
+    "group": "point_GP",
+    "node": 3443,
+    "literal": -2888
+  },
+  {
+    "group": "point_GP",
+    "node": 3450,
+    "literal": -2894
+  },
+  {
+    "group": "point_GP",
+    "node": 3457,
+    "literal": -2900
+  },
+  {
+    "group": "point_GP",
+    "node": 3464,
+    "literal": -2906
+  },
+  {
+    "group": "point_GP",
+    "node": 3471,
+    "literal": -2912
+  },
+  {
+    "group": "point_GP",
+    "node": 3478,
+    "literal": -2918
+  },
+  {
+    "group": "point_GP",
+    "node": 3485,
+    "literal": -2924
+  },
+  {
+    "group": "point_GP",
+    "node": 3492,
+    "literal": -2930
+  },
+  {
+    "group": "point_GP",
+    "node": 3499,
+    "literal": -2936
+  },
+  {
+    "group": "point_GP",
+    "node": 3506,
+    "literal": -2942
+  },
+  {
+    "group": "point_GP",
+    "node": 3513,
+    "literal": -2948
+  },
+  {
+    "group": "point_GP",
+    "node": 3520,
+    "literal": -2954
+  },
+  {
+    "group": "point_GP",
+    "node": 3527,
+    "literal": -2960
+  },
+  {
+    "group": "point_GP",
+    "node": 3534,
+    "literal": -2966
+  },
+  {
+    "group": "point_GP",
+    "node": 3541,
+    "literal": -2972
+  },
+  {
+    "group": "point_GP",
+    "node": 3548,
+    "literal": -2978
+  },
+  {
+    "group": "point_GP",
+    "node": 3555,
+    "literal": -2984
+  },
+  {
+    "group": "point_GP",
+    "node": 3562,
+    "literal": -2990
+  },
+  {
+    "group": "point_GP",
+    "node": 3569,
+    "literal": -2996
+  },
+  {
+    "group": "point_GP",
+    "node": 3576,
+    "literal": -3002
+  },
+  {
+    "group": "point_GP",
+    "node": 3583,
+    "literal": -3008
+  },
+  {
+    "group": "point_GP",
+    "node": 3590,
+    "literal": -3014
+  },
+  {
+    "group": "point_GP",
+    "node": 3597,
+    "literal": -3020
+  },
+  {
+    "group": "point_GP",
+    "node": 3604,
+    "literal": -3026
+  },
+  {
+    "group": "point_GP",
+    "node": 3611,
+    "literal": -3032
+  },
+  {
+    "group": "point_GP",
+    "node": 3618,
+    "literal": -3038
+  },
+  {
+    "group": "point_GP",
+    "node": 3625,
+    "literal": -3044
+  },
+  {
+    "group": "point_GP",
+    "node": 3632,
+    "literal": -3050
+  },
+  {
+    "group": "point_GP",
+    "node": 3639,
+    "literal": -3056
+  },
+  {
+    "group": "point_GP",
+    "node": 3646,
+    "literal": -3062
+  },
+  {
+    "group": "point_GP",
+    "node": 3653,
+    "literal": -3068
+  },
+  {
+    "group": "point_GP",
+    "node": 3660,
+    "literal": -3074
+  },
+  {
+    "group": "point_GP",
+    "node": 3667,
+    "literal": -3080
+  },
+  {
+    "group": "point_GP",
+    "node": 3674,
+    "literal": -3086
+  },
+  {
+    "group": "point_GP",
+    "node": 3681,
+    "literal": -3092
+  },
+  {
+    "group": "point_GP",
+    "node": 3688,
+    "literal": -3098
+  },
+  {
+    "group": "point_GP",
+    "node": 3695,
+    "literal": -3104
+  },
+  {
+    "group": "point_GP",
+    "node": 3702,
+    "literal": -3110
+  },
+  {
+    "group": "point_GP",
+    "node": 3709,
+    "literal": -3116
+  },
+  {
+    "group": "point_GP",
+    "node": 3716,
+    "literal": -3122
+  },
+  {
+    "group": "point_GP",
+    "node": 3723,
+    "literal": -3128
+  },
+  {
+    "group": "point_GP",
+    "node": 3730,
+    "literal": -3134
+  },
+  {
+    "group": "point_GP",
+    "node": 3737,
+    "literal": -3140
+  },
+  {
+    "group": "point_GP",
+    "node": 3744,
+    "literal": -3146
+  },
+  {
+    "group": "point_GP",
+    "node": 3751,
+    "literal": -3152
+  },
+  {
+    "group": "point_GP",
+    "node": 3758,
+    "literal": -3158
+  },
+  {
+    "group": "point_GP",
+    "node": 3765,
+    "literal": -3164
+  },
+  {
+    "group": "point_GP",
+    "node": 3772,
+    "literal": -3170
+  },
+  {
+    "group": "point_GP",
+    "node": 3779,
+    "literal": -3176
+  },
+  {
+    "group": "point_GP",
+    "node": 3786,
+    "literal": -3182
+  },
+  {
+    "group": "point_GP",
+    "node": 3793,
+    "literal": -3188
+  },
+  {
+    "group": "point_GP",
+    "node": 3800,
+    "literal": -3194
+  },
+  {
+    "group": "point_GP",
+    "node": 3807,
+    "literal": -3200
+  },
+  {
+    "group": "point_GP",
+    "node": 3814,
+    "literal": -3206
+  },
+  {
+    "group": "point_GP",
+    "node": 3821,
+    "literal": -3212
+  },
+  {
+    "group": "point_GP",
+    "node": 3828,
+    "literal": -3218
+  },
+  {
+    "group": "point_GP",
+    "node": 3835,
+    "literal": -3224
+  },
+  {
+    "group": "point_GP",
+    "node": 3842,
+    "literal": -3230
+  },
+  {
+    "group": "point_GP",
+    "node": 3849,
+    "literal": -3236
+  },
+  {
+    "group": "point_GP",
+    "node": 3856,
+    "literal": -3242
+  },
+  {
+    "group": "point_GP",
+    "node": 3864,
+    "literal": -3249
+  },
+  {
+    "group": "point_GP",
+    "node": 3872,
+    "literal": -3256
+  },
+  {
+    "group": "point_GP",
+    "node": 3880,
+    "literal": -3263
+  },
+  {
+    "group": "point_GP",
+    "node": 3888,
+    "literal": -3270
+  },
+  {
+    "group": "point_GP",
+    "node": 3896,
+    "literal": -3277
+  },
+  {
+    "group": "point_GP",
+    "node": 3904,
+    "literal": -3284
+  },
+  {
+    "group": "point_GP",
+    "node": 3912,
+    "literal": -3291
+  },
+  {
+    "group": "point_GP",
+    "node": 3920,
+    "literal": -3298
+  },
+  {
+    "group": "point_GP",
+    "node": 3928,
+    "literal": -3305
+  },
+  {
+    "group": "point_GP",
+    "node": 3936,
+    "literal": -3312
+  },
+  {
+    "group": "point_GP",
+    "node": 3943,
+    "literal": -3318
+  },
+  {
+    "group": "point_GP",
+    "node": 3950,
+    "literal": -3324
+  },
+  {
+    "group": "point_GP",
+    "node": 3957,
+    "literal": -3330
+  },
+  {
+    "group": "point_GP",
+    "node": 3964,
+    "literal": -3336
+  },
+  {
+    "group": "point_GP",
+    "node": 3971,
+    "literal": -3342
+  },
+  {
+    "group": "point_GP",
+    "node": 3978,
+    "literal": -3348
+  },
+  {
+    "group": "point_GP",
+    "node": 3985,
+    "literal": -3354
+  },
+  {
+    "group": "point_GP",
+    "node": 3992,
+    "literal": -3360
+  },
+  {
+    "group": "point_GP",
+    "node": 3999,
+    "literal": -3366
+  },
+  {
+    "group": "point_GP",
+    "node": 4006,
+    "literal": -3372
+  },
+  {
+    "group": "point_GP",
+    "node": 4013,
+    "literal": -3378
+  },
+  {
+    "group": "point_GP",
+    "node": 4020,
+    "literal": -3384
+  },
+  {
+    "group": "point_GP",
+    "node": 4027,
+    "literal": -3390
+  },
+  {
+    "group": "point_GP",
+    "node": 4034,
+    "literal": -3396
+  },
+  {
+    "group": "point_GP",
+    "node": 4041,
+    "literal": -3402
+  },
+  {
+    "group": "point_GP",
+    "node": 4048,
+    "literal": -3408
+  },
+  {
+    "group": "point_GP",
+    "node": 4055,
+    "literal": -3414
+  },
+  {
+    "group": "point_GP",
+    "node": 4062,
+    "literal": -3420
+  },
+  {
+    "group": "point_GP",
+    "node": 4069,
+    "literal": -3426
+  },
+  {
+    "group": "point_GP",
+    "node": 4076,
+    "literal": -3432
+  },
+  {
+    "group": "point_GP",
+    "node": 4083,
+    "literal": -3438
+  },
+  {
+    "group": "point_GP",
+    "node": 4090,
+    "literal": -3444
+  },
+  {
+    "group": "point_GP",
+    "node": 4097,
+    "literal": -3450
+  },
+  {
+    "group": "point_GP",
+    "node": 4104,
+    "literal": -3456
+  },
+  {
+    "group": "point_GP",
+    "node": 4111,
+    "literal": -3462
+  },
+  {
+    "group": "point_GP",
+    "node": 4119,
+    "literal": -3468
+  },
+  {
+    "group": "point_GP",
+    "node": 4127,
+    "literal": -3474
+  },
+  {
+    "group": "point_GP",
+    "node": 4135,
+    "literal": -3480
+  },
+  {
+    "group": "point_GP",
+    "node": 4143,
+    "literal": -3486
+  },
+  {
+    "group": "point_GP",
+    "node": 4151,
+    "literal": -3493
+  },
+  {
+    "group": "point_GP",
+    "node": 4159,
+    "literal": -3500
+  },
+  {
+    "group": "point_GP",
+    "node": 4167,
+    "literal": -3507
+  },
+  {
+    "group": "point_GP",
+    "node": 4175,
+    "literal": -3514
+  },
+  {
+    "group": "point_GP",
+    "node": 4183,
+    "literal": -3521
+  },
+  {
+    "group": "point_GP",
+    "node": 4191,
+    "literal": -3528
+  },
+  {
+    "group": "point_GP",
+    "node": 4198,
+    "literal": -3534
+  },
+  {
+    "group": "point_GP",
+    "node": 4205,
+    "literal": -3540
+  },
+  {
+    "group": "point_GP",
+    "node": 4212,
+    "literal": -3546
+  },
+  {
+    "group": "point_GP",
+    "node": 4219,
+    "literal": -3552
+  },
+  {
+    "group": "point_GP",
+    "node": 4226,
+    "literal": -3558
+  },
+  {
+    "group": "point_GP",
+    "node": 4233,
+    "literal": -3564
+  },
+  {
+    "group": "point_GP",
+    "node": 4240,
+    "literal": -3570
+  },
+  {
+    "group": "point_GP",
+    "node": 4247,
+    "literal": -3576
+  },
+  {
+    "group": "point_GP",
+    "node": 4254,
+    "literal": -3582
+  },
+  {
+    "group": "point_GP",
+    "node": 4261,
+    "literal": -3588
+  },
+  {
+    "group": "point_GP",
+    "node": 4268,
+    "literal": -3594
+  },
+  {
+    "group": "point_GP",
+    "node": 4275,
+    "literal": -3600
+  },
+  {
+    "group": "point_GP",
+    "node": 4282,
+    "literal": -3606
+  },
+  {
+    "group": "point_GP",
+    "node": 4289,
+    "literal": -3612
+  },
+  {
+    "group": "point_GP",
+    "node": 4296,
+    "literal": -3618
+  },
+  {
+    "group": "point_GP",
+    "node": 4303,
+    "literal": -3624
+  },
+  {
+    "group": "point_GP",
+    "node": 4310,
+    "literal": -3630
+  },
+  {
+    "group": "point_GP",
+    "node": 4317,
+    "literal": -3636
+  },
+  {
+    "group": "point_GP",
+    "node": 4324,
+    "literal": -3642
+  },
+  {
+    "group": "point_GP",
+    "node": 4331,
+    "literal": -3648
+  },
+  {
+    "group": "point_GP",
+    "node": 4338,
+    "literal": -3654
+  },
+  {
+    "group": "point_GP",
+    "node": 4345,
+    "literal": -3660
+  },
+  {
+    "group": "point_GP",
+    "node": 4352,
+    "literal": -3666
+  },
+  {
+    "group": "point_GP",
+    "node": 4359,
+    "literal": -3672
+  },
+  {
+    "group": "point_GP",
+    "node": 4366,
+    "literal": -3678
+  },
+  {
+    "group": "point_GP",
+    "node": 4373,
+    "literal": -3684
+  },
+  {
+    "group": "point_GP",
+    "node": 4381,
+    "literal": -3690
+  },
+  {
+    "group": "point_GP",
+    "node": 4389,
+    "literal": -3696
+  },
+  {
+    "group": "point_GP",
+    "node": 4397,
+    "literal": -3702
+  },
+  {
+    "group": "point_GP",
+    "node": 4405,
+    "literal": -3708
+  },
+  {
+    "group": "point_GP",
+    "node": 4413,
+    "literal": -3714
+  },
+  {
+    "group": "point_GP",
+    "node": 4421,
+    "literal": -3720
+  },
+  {
+    "group": "point_GP",
+    "node": 4429,
+    "literal": -3727
+  },
+  {
+    "group": "point_GP",
+    "node": 4437,
+    "literal": -3734
+  },
+  {
+    "group": "point_GP",
+    "node": 4445,
+    "literal": -3741
+  },
+  {
+    "group": "point_GP",
+    "node": 4452,
+    "literal": -3747
+  },
+  {
+    "group": "point_GP",
+    "node": 4459,
+    "literal": -3753
+  },
+  {
+    "group": "point_GP",
+    "node": 4466,
+    "literal": -3759
+  },
+  {
+    "group": "point_GP",
+    "node": 4473,
+    "literal": -3765
+  },
+  {
+    "group": "point_GP",
+    "node": 4480,
+    "literal": -3771
+  },
+  {
+    "group": "point_GP",
+    "node": 4487,
+    "literal": -3777
+  },
+  {
+    "group": "point_GP",
+    "node": 4494,
+    "literal": -3783
+  },
+  {
+    "group": "point_GP",
+    "node": 4501,
+    "literal": -3789
+  },
+  {
+    "group": "point_GP",
+    "node": 4508,
+    "literal": -3795
+  },
+  {
+    "group": "point_GP",
+    "node": 4515,
+    "literal": -3801
+  },
+  {
+    "group": "point_GP",
+    "node": 4522,
+    "literal": -3807
+  },
+  {
+    "group": "point_GP",
+    "node": 4529,
+    "literal": -3813
+  },
+  {
+    "group": "point_GP",
+    "node": 4536,
+    "literal": -3819
+  },
+  {
+    "group": "point_GP",
+    "node": 4543,
+    "literal": -3825
+  },
+  {
+    "group": "point_GP",
+    "node": 4550,
+    "literal": -3831
+  },
+  {
+    "group": "point_GP",
+    "node": 4557,
+    "literal": -3837
+  },
+  {
+    "group": "point_GP",
+    "node": 4564,
+    "literal": -3843
+  },
+  {
+    "group": "point_GP",
+    "node": 4571,
+    "literal": -3849
+  },
+  {
+    "group": "point_GP",
+    "node": 4578,
+    "literal": -3855
+  },
+  {
+    "group": "point_GP",
+    "node": 4585,
+    "literal": -3861
+  },
+  {
+    "group": "point_GP",
+    "node": 4592,
+    "literal": -3867
+  },
+  {
+    "group": "point_GP",
+    "node": 4599,
+    "literal": -3873
+  },
+  {
+    "group": "point_GP",
+    "node": 4606,
+    "literal": -3879
+  },
+  {
+    "group": "point_GP",
+    "node": 4613,
+    "literal": -3885
+  },
+  {
+    "group": "point_GP",
+    "node": 4620,
+    "literal": -3891
+  },
+  {
+    "group": "point_GP",
+    "node": 4627,
+    "literal": -3897
+  },
+  {
+    "group": "point_GP",
+    "node": 4634,
+    "literal": -3903
+  },
+  {
+    "group": "point_GP",
+    "node": 4642,
+    "literal": -3909
+  },
+  {
+    "group": "point_GP",
+    "node": 4650,
+    "literal": -3915
+  },
+  {
+    "group": "point_GP",
+    "node": 4657,
+    "literal": -3921
+  },
+  {
+    "group": "point_GP",
+    "node": 4665,
+    "literal": -3927
+  },
+  {
+    "group": "point_GP",
+    "node": 4673,
+    "literal": -3933
+  },
+  {
+    "group": "point_GP",
+    "node": 4681,
+    "literal": -3939
+  },
+  {
+    "group": "point_GP",
+    "node": 4689,
+    "literal": -3945
+  },
+  {
+    "group": "point_GP",
+    "node": 4697,
+    "literal": -3952
+  },
+  {
+    "group": "point_GP",
+    "node": 4704,
+    "literal": -3958
+  },
+  {
+    "group": "point_GP",
+    "node": 4711,
+    "literal": -3964
+  },
+  {
+    "group": "point_GP",
+    "node": 4718,
+    "literal": -3970
+  },
+  {
+    "group": "point_GP",
+    "node": 4725,
+    "literal": -3976
+  },
+  {
+    "group": "point_GP",
+    "node": 4732,
+    "literal": -3982
+  },
+  {
+    "group": "point_GP",
+    "node": 4739,
+    "literal": -3988
+  },
+  {
+    "group": "point_GP",
+    "node": 4746,
+    "literal": -3994
+  },
+  {
+    "group": "point_GP",
+    "node": 4753,
+    "literal": -4000
+  },
+  {
+    "group": "point_GP",
+    "node": 4760,
+    "literal": -4006
+  },
+  {
+    "group": "point_GP",
+    "node": 4767,
+    "literal": -4012
+  },
+  {
+    "group": "point_GP",
+    "node": 4774,
+    "literal": -4018
+  },
+  {
+    "group": "point_GP",
+    "node": 4781,
+    "literal": -4024
+  },
+  {
+    "group": "point_GP",
+    "node": 4788,
+    "literal": -4030
+  },
+  {
+    "group": "point_GP",
+    "node": 4795,
+    "literal": -4036
+  },
+  {
+    "group": "point_GP",
+    "node": 4802,
+    "literal": -4042
+  },
+  {
+    "group": "point_GP",
+    "node": 4809,
+    "literal": -4048
+  },
+  {
+    "group": "point_GP",
+    "node": 4816,
+    "literal": -4054
+  },
+  {
+    "group": "point_GP",
+    "node": 4823,
+    "literal": -4060
+  },
+  {
+    "group": "point_GP",
+    "node": 4830,
+    "literal": -4066
+  },
+  {
+    "group": "point_GP",
+    "node": 4837,
+    "literal": -4072
+  },
+  {
+    "group": "point_GP",
+    "node": 4844,
+    "literal": -4078
+  },
+  {
+    "group": "point_GP",
+    "node": 4851,
+    "literal": -4084
+  },
+  {
+    "group": "point_GP",
+    "node": 4858,
+    "literal": -4090
+  },
+  {
+    "group": "point_GP",
+    "node": 4865,
+    "literal": -4096
+  },
+  {
+    "group": "point_GP",
+    "node": 4872,
+    "literal": -4102
+  },
+  {
+    "group": "point_GP",
+    "node": 4879,
+    "literal": -4108
+  },
+  {
+    "group": "point_GP",
+    "node": 4886,
+    "literal": -4114
+  },
+  {
+    "group": "point_GP",
+    "node": 4893,
+    "literal": -4120
+  },
+  {
+    "group": "point_GP",
+    "node": 4901,
+    "literal": -4126
+  },
+  {
+    "group": "point_GP",
+    "node": 4908,
+    "literal": -4132
+  },
+  {
+    "group": "point_GP",
+    "node": 4915,
+    "literal": -4138
+  },
+  {
+    "group": "point_GP",
+    "node": 4923,
+    "literal": -4144
+  },
+  {
+    "group": "point_GP",
+    "node": 4930,
+    "literal": -4150
+  },
+  {
+    "group": "point_GP",
+    "node": 4938,
+    "literal": -4156
+  },
+  {
+    "group": "point_GP",
+    "node": 4946,
+    "literal": -4162
+  },
+  {
+    "group": "point_GP",
+    "node": 4953,
+    "literal": -4168
+  },
+  {
+    "group": "point_GP",
+    "node": 4960,
+    "literal": -4174
+  },
+  {
+    "group": "point_GP",
+    "node": 4967,
+    "literal": -4180
+  },
+  {
+    "group": "point_GP",
+    "node": 4974,
+    "literal": -4186
+  },
+  {
+    "group": "point_GP",
+    "node": 4981,
+    "literal": -4192
+  },
+  {
+    "group": "point_GP",
+    "node": 4988,
+    "literal": -4198
+  },
+  {
+    "group": "point_GP",
+    "node": 4995,
+    "literal": -4204
+  },
+  {
+    "group": "point_GP",
+    "node": 5002,
+    "literal": -4210
+  },
+  {
+    "group": "point_GP",
+    "node": 5009,
+    "literal": -4216
+  },
+  {
+    "group": "point_GP",
+    "node": 5016,
+    "literal": -4222
+  },
+  {
+    "group": "point_GP",
+    "node": 5023,
+    "literal": -4228
+  },
+  {
+    "group": "point_GP",
+    "node": 5030,
+    "literal": -4234
+  },
+  {
+    "group": "point_GP",
+    "node": 5037,
+    "literal": -4240
+  },
+  {
+    "group": "point_GP",
+    "node": 5044,
+    "literal": -4246
+  },
+  {
+    "group": "point_GP",
+    "node": 5051,
+    "literal": -4252
+  },
+  {
+    "group": "point_GP",
+    "node": 5058,
+    "literal": -4258
+  },
+  {
+    "group": "point_GP",
+    "node": 5065,
+    "literal": -4264
+  },
+  {
+    "group": "point_GP",
+    "node": 5072,
+    "literal": -4270
+  },
+  {
+    "group": "point_GP",
+    "node": 5079,
+    "literal": -4276
+  },
+  {
+    "group": "point_GP",
+    "node": 5086,
+    "literal": -4282
+  },
+  {
+    "group": "point_GP",
+    "node": 5093,
+    "literal": -4288
+  },
+  {
+    "group": "point_GP",
+    "node": 5100,
+    "literal": -4294
+  },
+  {
+    "group": "point_GP",
+    "node": 5107,
+    "literal": -4300
+  },
+  {
+    "group": "point_GP",
+    "node": 5114,
+    "literal": -4306
+  },
+  {
+    "group": "point_GP",
+    "node": 5121,
+    "literal": -4312
+  },
+  {
+    "group": "point_GP",
+    "node": 5128,
+    "literal": -4318
+  },
+  {
+    "group": "point_GP",
+    "node": 5135,
+    "literal": -4324
+  },
+  {
+    "group": "point_GP",
+    "node": 5142,
+    "literal": -4330
+  },
+  {
+    "group": "point_GP",
+    "node": 5149,
+    "literal": -4336
+  },
+  {
+    "group": "point_GP",
+    "node": 5156,
+    "literal": -4342
+  },
+  {
+    "group": "point_GP",
+    "node": 5163,
+    "literal": -4348
+  },
+  {
+    "group": "point_GP",
+    "node": 5170,
+    "literal": -4354
+  },
+  {
+    "group": "point_GP",
+    "node": 5177,
+    "literal": -4360
+  },
+  {
+    "group": "point_GP",
+    "node": 5184,
+    "literal": -4366
+  },
+  {
+    "group": "point_GP",
+    "node": 5191,
+    "literal": -4372
+  },
+  {
+    "group": "point_GP",
+    "node": 5198,
+    "literal": -4378
+  },
+  {
+    "group": "point_GP",
+    "node": 5205,
+    "literal": -4384
+  },
+  {
+    "group": "point_GP",
+    "node": 5212,
+    "literal": -4390
+  },
+  {
+    "group": "point_GP",
+    "node": 5219,
+    "literal": -4396
+  },
+  {
+    "group": "point_GP",
+    "node": 5226,
+    "literal": -4402
+  },
+  {
+    "group": "point_GP",
+    "node": 5233,
+    "literal": -4408
+  },
+  {
+    "group": "point_GP",
+    "node": 5240,
+    "literal": -4414
+  },
+  {
+    "group": "point_GP",
+    "node": 5247,
+    "literal": -4420
+  },
+  {
+    "group": "point_GP",
+    "node": 5254,
+    "literal": -4426
+  },
+  {
+    "group": "point_GP",
+    "node": 5261,
+    "literal": -4432
+  },
+  {
+    "group": "point_GP",
+    "node": 5268,
+    "literal": -4438
+  },
+  {
+    "group": "point_GP",
+    "node": 5275,
+    "literal": -4444
+  },
+  {
+    "group": "point_GP",
+    "node": 5282,
+    "literal": -4450
+  },
+  {
+    "group": "point_GP",
+    "node": 5289,
+    "literal": -4456
+  },
+  {
+    "group": "point_GP",
+    "node": 5296,
+    "literal": -4462
+  },
+  {
+    "group": "point_GP",
+    "node": 5303,
+    "literal": -4468
+  },
+  {
+    "group": "point_GP",
+    "node": 5310,
+    "literal": -4474
+  },
+  {
+    "group": "point_GP",
+    "node": 5317,
+    "literal": -4480
+  },
+  {
+    "group": "point_GP",
+    "node": 5324,
+    "literal": -4486
+  },
+  {
+    "group": "point_GP",
+    "node": 5331,
+    "literal": -4492
+  },
+  {
+    "group": "point_GP",
+    "node": 5338,
+    "literal": -4498
+  },
+  {
+    "group": "point_GP",
+    "node": 5345,
+    "literal": -4504
+  },
+  {
+    "group": "point_GP",
+    "node": 5352,
+    "literal": -4510
+  },
+  {
+    "group": "point_GP",
+    "node": 5359,
+    "literal": -4516
+  },
+  {
+    "group": "point_GP",
+    "node": 5366,
+    "literal": -4522
+  },
+  {
+    "group": "point_GP",
+    "node": 5373,
+    "literal": -4528
+  },
+  {
+    "group": "point_GP",
+    "node": 5380,
+    "literal": -4534
+  },
+  {
+    "group": "point_GP",
+    "node": 5387,
+    "literal": -4540
+  },
+  {
+    "group": "point_GP",
+    "node": 5394,
+    "literal": -4546
+  },
+  {
+    "group": "point_GP",
+    "node": 5402,
+    "literal": -4553
+  },
+  {
+    "group": "point_GP",
+    "node": 5410,
+    "literal": -4560
+  },
+  {
+    "group": "point_GP",
+    "node": 5418,
+    "literal": -4567
+  },
+  {
+    "group": "point_GP",
+    "node": 5426,
+    "literal": -4574
+  },
+  {
+    "group": "point_GP",
+    "node": 5434,
+    "literal": -4581
+  },
+  {
+    "group": "point_GP",
+    "node": 5442,
+    "literal": -4588
+  },
+  {
+    "group": "point_GP",
+    "node": 5449,
+    "literal": -4594
+  },
+  {
+    "group": "point_GP",
+    "node": 5456,
+    "literal": -4600
+  },
+  {
+    "group": "point_GP",
+    "node": 5463,
+    "literal": -4606
+  },
+  {
+    "group": "point_GP",
+    "node": 5470,
+    "literal": -4612
+  },
+  {
+    "group": "point_GP",
+    "node": 5477,
+    "literal": -4618
+  },
+  {
+    "group": "point_GP",
+    "node": 5484,
+    "literal": -4624
+  },
+  {
+    "group": "point_GP",
+    "node": 5491,
+    "literal": -4630
+  },
+  {
+    "group": "point_GP",
+    "node": 5498,
+    "literal": -4636
+  },
+  {
+    "group": "point_GP",
+    "node": 5505,
+    "literal": -4642
+  },
+  {
+    "group": "point_GP",
+    "node": 5512,
+    "literal": -4648
+  },
+  {
+    "group": "point_GP",
+    "node": 5519,
+    "literal": -4654
+  },
+  {
+    "group": "point_GP",
+    "node": 5526,
+    "literal": -4660
+  },
+  {
+    "group": "point_GP",
+    "node": 5533,
+    "literal": -4666
+  },
+  {
+    "group": "point_GP",
+    "node": 5540,
+    "literal": -4672
+  },
+  {
+    "group": "point_GP",
+    "node": 5547,
+    "literal": -4678
+  },
+  {
+    "group": "point_GP",
+    "node": 5554,
+    "literal": -4684
+  },
+  {
+    "group": "point_GP",
+    "node": 5561,
+    "literal": -4690
+  },
+  {
+    "group": "point_GP",
+    "node": 5568,
+    "literal": -4696
+  },
+  {
+    "group": "point_GP",
+    "node": 5575,
+    "literal": -4702
+  },
+  {
+    "group": "point_GP",
+    "node": 5582,
+    "literal": -4708
+  },
+  {
+    "group": "point_GP",
+    "node": 5589,
+    "literal": -4714
+  },
+  {
+    "group": "point_GP",
+    "node": 5596,
+    "literal": -4720
+  },
+  {
+    "group": "point_GP",
+    "node": 5603,
+    "literal": -4726
+  },
+  {
+    "group": "point_GP",
+    "node": 5610,
+    "literal": -4732
+  },
+  {
+    "group": "point_GP",
+    "node": 5617,
+    "literal": -4738
+  },
+  {
+    "group": "point_GP",
+    "node": 5624,
+    "literal": -4744
+  },
+  {
+    "group": "point_GP",
+    "node": 5631,
+    "literal": -4750
+  },
+  {
+    "group": "point_GP",
+    "node": 5638,
+    "literal": -4756
+  },
+  {
+    "group": "point_GP",
+    "node": 5645,
+    "literal": -4762
+  },
+  {
+    "group": "point_GP",
+    "node": 5653,
+    "literal": -4768
+  },
+  {
+    "group": "point_GP",
+    "node": 5661,
+    "literal": -4774
+  },
+  {
+    "group": "point_GP",
+    "node": 5669,
+    "literal": -4780
+  },
+  {
+    "group": "point_GP",
+    "node": 5677,
+    "literal": -4787
+  },
+  {
+    "group": "point_GP",
+    "node": 5685,
+    "literal": -4794
+  },
+  {
+    "group": "point_GP",
+    "node": 5693,
+    "literal": -4801
+  },
+  {
+    "group": "point_GP",
+    "node": 5700,
+    "literal": -4807
+  },
+  {
+    "group": "point_GP",
+    "node": 5707,
+    "literal": -4813
+  },
+  {
+    "group": "point_GP",
+    "node": 5714,
+    "literal": -4819
+  },
+  {
+    "group": "point_GP",
+    "node": 5721,
+    "literal": -4825
+  },
+  {
+    "group": "point_GP",
+    "node": 5728,
+    "literal": -4831
+  },
+  {
+    "group": "point_GP",
+    "node": 5735,
+    "literal": -4837
+  },
+  {
+    "group": "point_GP",
+    "node": 5742,
+    "literal": -4843
+  },
+  {
+    "group": "point_GP",
+    "node": 5749,
+    "literal": -4849
+  },
+  {
+    "group": "point_GP",
+    "node": 5756,
+    "literal": -4855
+  },
+  {
+    "group": "point_GP",
+    "node": 5763,
+    "literal": -4861
+  },
+  {
+    "group": "point_GP",
+    "node": 5770,
+    "literal": -4867
+  },
+  {
+    "group": "point_GP",
+    "node": 5777,
+    "literal": -4873
+  },
+  {
+    "group": "point_GP",
+    "node": 5784,
+    "literal": -4879
+  },
+  {
+    "group": "point_GP",
+    "node": 5791,
+    "literal": -4885
+  },
+  {
+    "group": "point_GP",
+    "node": 5798,
+    "literal": -4891
+  },
+  {
+    "group": "point_GP",
+    "node": 5805,
+    "literal": -4897
+  },
+  {
+    "group": "point_GP",
+    "node": 5812,
+    "literal": -4903
+  },
+  {
+    "group": "point_GP",
+    "node": 5819,
+    "literal": -4909
+  },
+  {
+    "group": "point_GP",
+    "node": 5826,
+    "literal": -4915
+  },
+  {
+    "group": "point_GP",
+    "node": 5833,
+    "literal": -4921
+  },
+  {
+    "group": "point_GP",
+    "node": 5840,
+    "literal": -4927
+  },
+  {
+    "group": "point_GP",
+    "node": 5847,
+    "literal": -4933
+  },
+  {
+    "group": "point_GP",
+    "node": 5854,
+    "literal": -4939
+  },
+  {
+    "group": "point_GP",
+    "node": 5861,
+    "literal": -4945
+  },
+  {
+    "group": "point_GP",
+    "node": 5868,
+    "literal": -4951
+  },
+  {
+    "group": "point_GP",
+    "node": 5875,
+    "literal": -4957
+  },
+  {
+    "group": "point_GP",
+    "node": 5882,
+    "literal": -4963
+  },
+  {
+    "group": "point_GP",
+    "node": 5889,
+    "literal": -4969
+  },
+  {
+    "group": "point_GP",
+    "node": 5896,
+    "literal": -4975
+  },
+  {
+    "group": "point_GP",
+    "node": 5903,
+    "literal": -4981
+  },
+  {
+    "group": "point_GP",
+    "node": 5911,
+    "literal": -4987
+  },
+  {
+    "group": "point_GP",
+    "node": 5919,
+    "literal": -4993
+  },
+  {
+    "group": "point_GP",
+    "node": 5927,
+    "literal": -4999
+  },
+  {
+    "group": "point_GP",
+    "node": 5935,
+    "literal": -5005
+  },
+  {
+    "group": "point_GP",
+    "node": 5943,
+    "literal": -5012
+  },
+  {
+    "group": "point_GP",
+    "node": 5950,
+    "literal": -5018
+  },
+  {
+    "group": "point_GP",
+    "node": 5957,
+    "literal": -5024
+  },
+  {
+    "group": "point_GP",
+    "node": 5964,
+    "literal": -5030
+  },
+  {
+    "group": "point_GP",
+    "node": 5971,
+    "literal": -5036
+  },
+  {
+    "group": "point_GP",
+    "node": 5978,
+    "literal": -5042
+  },
+  {
+    "group": "point_GP",
+    "node": 5985,
+    "literal": -5048
+  },
+  {
+    "group": "point_GP",
+    "node": 5992,
+    "literal": -5054
+  },
+  {
+    "group": "point_GP",
+    "node": 5999,
+    "literal": -5060
+  },
+  {
+    "group": "point_GP",
+    "node": 6006,
+    "literal": -5066
+  },
+  {
+    "group": "point_GP",
+    "node": 6013,
+    "literal": -5072
+  },
+  {
+    "group": "point_GP",
+    "node": 6020,
+    "literal": -5078
+  },
+  {
+    "group": "point_GP",
+    "node": 6027,
+    "literal": -5084
+  },
+  {
+    "group": "point_GP",
+    "node": 6034,
+    "literal": -5090
+  },
+  {
+    "group": "point_GP",
+    "node": 6041,
+    "literal": -5096
+  },
+  {
+    "group": "point_GP",
+    "node": 6048,
+    "literal": -5102
+  },
+  {
+    "group": "point_GP",
+    "node": 6055,
+    "literal": -5108
+  },
+  {
+    "group": "point_GP",
+    "node": 6062,
+    "literal": -5114
+  },
+  {
+    "group": "point_GP",
+    "node": 6069,
+    "literal": -5120
+  },
+  {
+    "group": "point_GP",
+    "node": 6076,
+    "literal": -5126
+  },
+  {
+    "group": "point_GP",
+    "node": 6083,
+    "literal": -5132
+  },
+  {
+    "group": "point_GP",
+    "node": 6090,
+    "literal": -5138
+  },
+  {
+    "group": "point_GP",
+    "node": 6097,
+    "literal": -5144
+  },
+  {
+    "group": "point_GP",
+    "node": 6104,
+    "literal": -5150
+  },
+  {
+    "group": "point_GP",
+    "node": 6111,
+    "literal": -5156
+  },
+  {
+    "group": "point_GP",
+    "node": 6118,
+    "literal": -5162
+  },
+  {
+    "group": "point_GP",
+    "node": 6125,
+    "literal": -5168
+  },
+  {
+    "group": "point_GP",
+    "node": 6132,
+    "literal": -5174
+  },
+  {
+    "group": "point_GP",
+    "node": 6139,
+    "literal": -5180
+  },
+  {
+    "group": "point_GP",
+    "node": 6146,
+    "literal": -5186
+  },
+  {
+    "group": "point_GP",
+    "node": 6153,
+    "literal": -5192
+  },
+  {
+    "group": "point_GP",
+    "node": 6160,
+    "literal": -5198
+  },
+  {
+    "group": "point_GP",
+    "node": 6168,
+    "literal": -5204
+  },
+  {
+    "group": "point_GP",
+    "node": 6175,
+    "literal": -5210
+  },
+  {
+    "group": "point_GP",
+    "node": 6183,
+    "literal": -5216
+  },
+  {
+    "group": "point_GP",
+    "node": 6191,
+    "literal": -5222
+  },
+  {
+    "group": "point_GP",
+    "node": 6198,
+    "literal": -5228
+  },
+  {
+    "group": "point_GP",
+    "node": 6205,
+    "literal": -5234
+  },
+  {
+    "group": "point_GP",
+    "node": 6212,
+    "literal": -5240
+  },
+  {
+    "group": "point_GP",
+    "node": 6219,
+    "literal": -5246
+  },
+  {
+    "group": "point_GP",
+    "node": 6226,
+    "literal": -5252
+  },
+  {
+    "group": "point_GP",
+    "node": 6233,
+    "literal": -5258
+  },
+  {
+    "group": "point_GP",
+    "node": 6240,
+    "literal": -5264
+  },
+  {
+    "group": "point_GP",
+    "node": 6247,
+    "literal": -5270
+  },
+  {
+    "group": "point_GP",
+    "node": 6254,
+    "literal": -5276
+  },
+  {
+    "group": "point_GP",
+    "node": 6261,
+    "literal": -5282
+  },
+  {
+    "group": "point_GP",
+    "node": 6268,
+    "literal": -5288
+  },
+  {
+    "group": "point_GP",
+    "node": 6275,
+    "literal": -5294
+  },
+  {
+    "group": "point_GP",
+    "node": 6282,
+    "literal": -5300
+  },
+  {
+    "group": "point_GP",
+    "node": 6289,
+    "literal": -5306
+  },
+  {
+    "group": "point_GP",
+    "node": 6296,
+    "literal": -5312
+  },
+  {
+    "group": "point_GP",
+    "node": 6303,
+    "literal": -5318
+  },
+  {
+    "group": "point_GP",
+    "node": 6310,
+    "literal": -5324
+  },
+  {
+    "group": "point_GP",
+    "node": 6317,
+    "literal": -5330
+  },
+  {
+    "group": "point_GP",
+    "node": 6324,
+    "literal": -5336
+  },
+  {
+    "group": "point_GP",
+    "node": 6331,
+    "literal": -5342
+  },
+  {
+    "group": "point_GP",
+    "node": 6338,
+    "literal": -5348
+  },
+  {
+    "group": "point_GP",
+    "node": 6345,
+    "literal": -5354
+  },
+  {
+    "group": "point_GP",
+    "node": 6352,
+    "literal": -5360
+  },
+  {
+    "group": "point_GP",
+    "node": 6359,
+    "literal": -5366
+  },
+  {
+    "group": "point_GP",
+    "node": 6366,
+    "literal": -5372
+  },
+  {
+    "group": "point_GP",
+    "node": 6373,
+    "literal": -5378
+  },
+  {
+    "group": "point_GP",
+    "node": 6380,
+    "literal": -5384
+  },
+  {
+    "group": "point_GP",
+    "node": 6387,
+    "literal": -5390
+  },
+  {
+    "group": "point_GP",
+    "node": 6394,
+    "literal": -5396
+  },
+  {
+    "group": "point_GP",
+    "node": 6401,
+    "literal": -5402
+  },
+  {
+    "group": "point_GP",
+    "node": 6408,
+    "literal": -5408
+  },
+  {
+    "group": "point_GP",
+    "node": 6415,
+    "literal": -5414
+  },
+  {
+    "group": "point_GP",
+    "node": 6422,
+    "literal": -5420
+  },
+  {
+    "group": "point_GP",
+    "node": 6429,
+    "literal": -5426
+  },
+  {
+    "group": "point_GP",
+    "node": 6436,
+    "literal": -5432
+  },
+  {
+    "group": "point_GP",
+    "node": 6443,
+    "literal": -5438
+  },
+  {
+    "group": "point_GP",
+    "node": 6450,
+    "literal": -5444
+  },
+  {
+    "group": "point_GP",
+    "node": 6457,
+    "literal": -5450
+  },
+  {
+    "group": "point_GP",
+    "node": 6464,
+    "literal": -5456
+  },
+  {
+    "group": "point_GP",
+    "node": 6471,
+    "literal": -5462
+  },
+  {
+    "group": "point_GP",
+    "node": 6478,
+    "literal": -5468
+  },
+  {
+    "group": "point_GP",
+    "node": 6485,
+    "literal": -5474
+  },
+  {
+    "group": "point_GP",
+    "node": 6492,
+    "literal": -5480
+  },
+  {
+    "group": "point_GP",
+    "node": 6499,
+    "literal": -5486
+  },
+  {
+    "group": "point_GP",
+    "node": 6506,
+    "literal": -5492
+  },
+  {
+    "group": "point_GP",
+    "node": 6513,
+    "literal": -5498
+  },
+  {
+    "group": "point_GP",
+    "node": 6520,
+    "literal": -5504
+  },
+  {
+    "group": "point_GP",
+    "node": 6527,
+    "literal": -5510
+  },
+  {
+    "group": "point_GP",
+    "node": 6534,
+    "literal": -5516
+  },
+  {
+    "group": "point_GP",
+    "node": 6541,
+    "literal": -5522
+  },
+  {
+    "group": "point_GP",
+    "node": 6548,
+    "literal": -5528
+  },
+  {
+    "group": "point_GP",
+    "node": 6555,
+    "literal": -5534
+  },
+  {
+    "group": "point_GP",
+    "node": 6562,
+    "literal": -5540
+  },
+  {
+    "group": "point_GP",
+    "node": 6569,
+    "literal": -5546
+  },
+  {
+    "group": "point_GP",
+    "node": 6576,
+    "literal": -5552
+  },
+  {
+    "group": "point_GP",
+    "node": 6583,
+    "literal": -5558
+  },
+  {
+    "group": "point_GP",
+    "node": 6590,
+    "literal": -5564
+  },
+  {
+    "group": "point_GP",
+    "node": 6597,
+    "literal": -5570
+  },
+  {
+    "group": "point_GP",
+    "node": 6604,
+    "literal": -5576
+  },
+  {
+    "group": "point_GP",
+    "node": 6611,
+    "literal": -5582
+  },
+  {
+    "group": "point_GP",
+    "node": 6618,
+    "literal": -5588
+  },
+  {
+    "group": "point_GP",
+    "node": 6625,
+    "literal": -5594
+  },
+  {
+    "group": "point_GP",
+    "node": 6632,
+    "literal": -5600
+  },
+  {
+    "group": "point_GP",
+    "node": 6639,
+    "literal": -5606
+  },
+  {
+    "group": "point_GP",
+    "node": 6646,
+    "literal": -5612
+  },
+  {
+    "group": "point_GP",
+    "node": 6653,
+    "literal": -5618
+  },
+  {
+    "group": "point_GP",
+    "node": 6660,
+    "literal": -5624
+  },
+  {
+    "group": "point_GP",
+    "node": 6668,
+    "literal": -5631
+  },
+  {
+    "group": "point_GP",
+    "node": 6676,
+    "literal": -5638
+  },
+  {
+    "group": "point_GP",
+    "node": 6684,
+    "literal": -5645
+  },
+  {
+    "group": "point_GP",
+    "node": 6691,
+    "literal": -5651
+  },
+  {
+    "group": "point_GP",
+    "node": 6698,
+    "literal": -5657
+  },
+  {
+    "group": "point_GP",
+    "node": 6705,
+    "literal": -5663
+  },
+  {
+    "group": "point_GP",
+    "node": 6712,
+    "literal": -5669
+  },
+  {
+    "group": "point_GP",
+    "node": 6719,
+    "literal": -5675
+  },
+  {
+    "group": "point_GP",
+    "node": 6726,
+    "literal": -5681
+  },
+  {
+    "group": "point_GP",
+    "node": 6733,
+    "literal": -5687
+  },
+  {
+    "group": "point_GP",
+    "node": 6740,
+    "literal": -5693
+  },
+  {
+    "group": "point_GP",
+    "node": 6747,
+    "literal": -5699
+  },
+  {
+    "group": "point_GP",
+    "node": 6754,
+    "literal": -5705
+  },
+  {
+    "group": "point_GP",
+    "node": 6761,
+    "literal": -5711
+  },
+  {
+    "group": "point_GP",
+    "node": 6768,
+    "literal": -5717
+  },
+  {
+    "group": "point_GP",
+    "node": 6775,
+    "literal": -5723
+  },
+  {
+    "group": "point_GP",
+    "node": 6782,
+    "literal": -5729
+  },
+  {
+    "group": "point_GP",
+    "node": 6789,
+    "literal": -5735
+  },
+  {
+    "group": "point_GP",
+    "node": 6796,
+    "literal": -5741
+  },
+  {
+    "group": "point_GP",
+    "node": 6803,
+    "literal": -5747
+  },
+  {
+    "group": "point_GP",
+    "node": 6810,
+    "literal": -5753
+  },
+  {
+    "group": "point_GP",
+    "node": 6817,
+    "literal": -5759
+  },
+  {
+    "group": "point_GP",
+    "node": 6824,
+    "literal": -5765
+  },
+  {
+    "group": "point_GP",
+    "node": 6831,
+    "literal": -5771
+  },
+  {
+    "group": "point_GP",
+    "node": 6838,
+    "literal": -5777
+  },
+  {
+    "group": "point_GP",
+    "node": 6845,
+    "literal": -5783
+  },
+  {
+    "group": "point_GP",
+    "node": 6852,
+    "literal": -5789
+  },
+  {
+    "group": "point_GP",
+    "node": 6859,
+    "literal": -5795
+  },
+  {
+    "group": "point_GP",
+    "node": 6866,
+    "literal": -5801
+  },
+  {
+    "group": "point_GP",
+    "node": 6873,
+    "literal": -5807
+  },
+  {
+    "group": "point_GP",
+    "node": 6880,
+    "literal": -5813
+  },
+  {
+    "group": "point_GP",
+    "node": 6887,
+    "literal": -5819
+  },
+  {
+    "group": "point_GP",
+    "node": 6894,
+    "literal": -5825
+  },
+  {
+    "group": "point_GP",
+    "node": 6901,
+    "literal": -5831
+  },
+  {
+    "group": "point_GP",
+    "node": 6908,
+    "literal": -5837
+  },
+  {
+    "group": "point_GP",
+    "node": 6916,
+    "literal": -5843
+  },
+  {
+    "group": "point_GP",
+    "node": 6924,
+    "literal": -5849
+  },
+  {
+    "group": "point_GP",
+    "node": 6932,
+    "literal": -5856
+  },
+  {
+    "group": "point_GP",
+    "node": 6939,
+    "literal": -5862
+  },
+  {
+    "group": "point_GP",
+    "node": 6946,
+    "literal": -5868
+  },
+  {
+    "group": "point_GP",
+    "node": 6953,
+    "literal": -5874
+  },
+  {
+    "group": "point_GP",
+    "node": 6960,
+    "literal": -5880
+  },
+  {
+    "group": "point_GP",
+    "node": 6967,
+    "literal": -5886
+  },
+  {
+    "group": "point_GP",
+    "node": 6974,
+    "literal": -5892
+  },
+  {
+    "group": "point_GP",
+    "node": 6981,
+    "literal": -5898
+  },
+  {
+    "group": "point_GP",
+    "node": 6988,
+    "literal": -5904
+  },
+  {
+    "group": "point_GP",
+    "node": 6995,
+    "literal": -5910
+  },
+  {
+    "group": "point_GP",
+    "node": 7002,
+    "literal": -5916
+  },
+  {
+    "group": "point_GP",
+    "node": 7009,
+    "literal": -5922
+  },
+  {
+    "group": "point_GP",
+    "node": 7016,
+    "literal": -5928
+  },
+  {
+    "group": "point_GP",
+    "node": 7023,
+    "literal": -5934
+  },
+  {
+    "group": "point_GP",
+    "node": 7030,
+    "literal": -5940
+  },
+  {
+    "group": "point_GP",
+    "node": 7037,
+    "literal": -5946
+  },
+  {
+    "group": "point_GP",
+    "node": 7044,
+    "literal": -5952
+  },
+  {
+    "group": "point_GP",
+    "node": 7051,
+    "literal": -5958
+  },
+  {
+    "group": "point_GP",
+    "node": 7058,
+    "literal": -5964
+  },
+  {
+    "group": "point_GP",
+    "node": 7065,
+    "literal": -5970
+  },
+  {
+    "group": "point_GP",
+    "node": 7072,
+    "literal": -5976
+  },
+  {
+    "group": "point_GP",
+    "node": 7079,
+    "literal": -5982
+  },
+  {
+    "group": "point_GP",
+    "node": 7086,
+    "literal": -5988
+  },
+  {
+    "group": "point_GP",
+    "node": 7093,
+    "literal": -5994
+  },
+  {
+    "group": "point_GP",
+    "node": 7100,
+    "literal": -6000
+  },
+  {
+    "group": "point_GP",
+    "node": 7107,
+    "literal": -6006
+  },
+  {
+    "group": "point_GP",
+    "node": 7114,
+    "literal": -6012
+  },
+  {
+    "group": "point_GP",
+    "node": 7121,
+    "literal": -6018
+  },
+  {
+    "group": "point_GP",
+    "node": 7128,
+    "literal": -6024
+  },
+  {
+    "group": "point_GP",
+    "node": 7135,
+    "literal": -6030
+  },
+  {
+    "group": "point_GP",
+    "node": 7142,
+    "literal": -6036
+  },
+  {
+    "group": "point_GP",
+    "node": 7149,
+    "literal": -6042
+  },
+  {
+    "group": "point_GP",
+    "node": 7156,
+    "literal": -6048
+  },
+  {
+    "group": "point_GP",
+    "node": 7163,
+    "literal": -6054
+  },
+  {
+    "group": "point_GP",
+    "node": 7171,
+    "literal": -6060
+  },
+  {
+    "group": "point_GP",
+    "node": 7179,
+    "literal": -6066
+  },
+  {
+    "group": "point_GP",
+    "node": 7186,
+    "literal": -6072
+  },
+  {
+    "group": "point_GP",
+    "node": 7193,
+    "literal": -6078
+  },
+  {
+    "group": "point_GP",
+    "node": 7200,
+    "literal": -6084
+  },
+  {
+    "group": "point_GP",
+    "node": 7207,
+    "literal": -6090
+  },
+  {
+    "group": "point_GP",
+    "node": 7214,
+    "literal": -6096
+  },
+  {
+    "group": "point_GP",
+    "node": 7221,
+    "literal": -6102
+  },
+  {
+    "group": "point_GP",
+    "node": 7228,
+    "literal": -6108
+  },
+  {
+    "group": "point_GP",
+    "node": 7235,
+    "literal": -6114
+  },
+  {
+    "group": "point_GP",
+    "node": 7242,
+    "literal": -6120
+  },
+  {
+    "group": "point_GP",
+    "node": 7249,
+    "literal": -6126
+  },
+  {
+    "group": "point_GP",
+    "node": 7256,
+    "literal": -6132
+  },
+  {
+    "group": "point_GP",
+    "node": 7263,
+    "literal": -6138
+  },
+  {
+    "group": "point_GP",
+    "node": 7270,
+    "literal": -6144
+  },
+  {
+    "group": "point_GP",
+    "node": 7277,
+    "literal": -6150
+  },
+  {
+    "group": "point_GP",
+    "node": 7284,
+    "literal": -6156
+  },
+  {
+    "group": "point_GP",
+    "node": 7291,
+    "literal": -6162
+  },
+  {
+    "group": "point_GP",
+    "node": 7298,
+    "literal": -6168
+  },
+  {
+    "group": "point_GP",
+    "node": 7305,
+    "literal": -6174
+  },
+  {
+    "group": "point_GP",
+    "node": 7312,
+    "literal": -6180
+  },
+  {
+    "group": "point_GP",
+    "node": 7319,
+    "literal": -6186
+  },
+  {
+    "group": "point_GP",
+    "node": 7326,
+    "literal": -6192
+  },
+  {
+    "group": "point_GP",
+    "node": 7333,
+    "literal": -6198
+  },
+  {
+    "group": "point_GP",
+    "node": 7340,
+    "literal": -6204
+  },
+  {
+    "group": "point_GP",
+    "node": 7347,
+    "literal": -6210
+  },
+  {
+    "group": "point_GP",
+    "node": 7354,
+    "literal": -6216
+  },
+  {
+    "group": "point_GP",
+    "node": 7361,
+    "literal": -6222
+  },
+  {
+    "group": "point_GP",
+    "node": 7368,
+    "literal": -6228
+  },
+  {
+    "group": "point_GP",
+    "node": 7375,
+    "literal": -6234
+  },
+  {
+    "group": "point_GP",
+    "node": 7382,
+    "literal": -6240
+  },
+  {
+    "group": "point_GP",
+    "node": 7389,
+    "literal": -6246
+  },
+  {
+    "group": "point_GP",
+    "node": 7396,
+    "literal": -6252
+  },
+  {
+    "group": "point_GP",
+    "node": 7403,
+    "literal": -6258
+  },
+  {
+    "group": "point_GP",
+    "node": 7410,
+    "literal": -6264
+  },
+  {
+    "group": "point_GP",
+    "node": 7417,
+    "literal": -6270
+  },
+  {
+    "group": "point_GP",
+    "node": 7424,
+    "literal": -6276
+  },
+  {
+    "group": "point_GP",
+    "node": 7431,
+    "literal": -6282
+  },
+  {
+    "group": "point_GP",
+    "node": 7438,
+    "literal": -6288
+  },
+  {
+    "group": "point_GP",
+    "node": 7445,
+    "literal": -6294
+  },
+  {
+    "group": "point_GP",
+    "node": 7452,
+    "literal": -6300
+  },
+  {
+    "group": "point_GP",
+    "node": 7459,
+    "literal": -6306
+  },
+  {
+    "group": "point_GP",
+    "node": 7466,
+    "literal": -6312
+  },
+  {
+    "group": "point_GP",
+    "node": 7473,
+    "literal": -6318
+  },
+  {
+    "group": "point_GP",
+    "node": 7480,
+    "literal": -6324
+  },
+  {
+    "group": "point_GP",
+    "node": 7487,
+    "literal": -6330
+  },
+  {
+    "group": "point_GP",
+    "node": 7494,
+    "literal": -6336
+  },
+  {
+    "group": "point_GP",
+    "node": 7501,
+    "literal": -6342
+  },
+  {
+    "group": "point_GP",
+    "node": 7508,
+    "literal": -6348
+  },
+  {
+    "group": "point_GP",
+    "node": 7515,
+    "literal": -6354
+  },
+  {
+    "group": "point_GP",
+    "node": 7522,
+    "literal": -6360
+  },
+  {
+    "group": "point_GP",
+    "node": 7529,
+    "literal": -6366
+  },
+  {
+    "group": "point_GP",
+    "node": 7536,
+    "literal": -6372
+  },
+  {
+    "group": "point_GP",
+    "node": 7543,
+    "literal": -6378
+  },
+  {
+    "group": "point_GP",
+    "node": 7550,
+    "literal": -6384
+  },
+  {
+    "group": "point_GP",
+    "node": 7557,
+    "literal": -6390
+  },
+  {
+    "group": "point_GP",
+    "node": 7564,
+    "literal": -6396
+  },
+  {
+    "group": "point_GP",
+    "node": 7571,
+    "literal": -6402
+  },
+  {
+    "group": "point_GP",
+    "node": 7578,
+    "literal": -6408
+  },
+  {
+    "group": "point_GP",
+    "node": 7585,
+    "literal": -6414
+  },
+  {
+    "group": "point_GP",
+    "node": 7592,
+    "literal": -6420
+  },
+  {
+    "group": "point_GP",
+    "node": 7599,
+    "literal": -6426
+  },
+  {
+    "group": "point_GP",
+    "node": 7606,
+    "literal": -6432
+  },
+  {
+    "group": "point_GP",
+    "node": 7613,
+    "literal": -6438
+  },
+  {
+    "group": "point_GP",
+    "node": 7620,
+    "literal": -6444
+  },
+  {
+    "group": "point_GP",
+    "node": 7627,
+    "literal": -6450
+  },
+  {
+    "group": "point_GP",
+    "node": 7634,
+    "literal": -6456
+  },
+  {
+    "group": "point_GP",
+    "node": 7641,
+    "literal": -6462
+  },
+  {
+    "group": "point_GP",
+    "node": 7648,
+    "literal": -6468
+  },
+  {
+    "group": "point_GP",
+    "node": 7655,
+    "literal": -6474
+  },
+  {
+    "group": "point_GP",
+    "node": 7662,
+    "literal": -6480
+  },
+  {
+    "group": "point_GP",
+    "node": 7670,
+    "literal": -6487
+  },
+  {
+    "group": "point_GP",
+    "node": 7677,
+    "literal": -6493
+  },
+  {
+    "group": "point_GP",
+    "node": 7684,
+    "literal": -6499
+  },
+  {
+    "group": "point_GP",
+    "node": 7691,
+    "literal": -6505
+  },
+  {
+    "group": "point_GP",
+    "node": 7698,
+    "literal": -6511
+  },
+  {
+    "group": "point_GP",
+    "node": 7705,
+    "literal": -6517
+  },
+  {
+    "group": "point_GP",
+    "node": 7712,
+    "literal": -6523
+  },
+  {
+    "group": "point_GP",
+    "node": 7719,
+    "literal": -6529
+  },
+  {
+    "group": "point_GP",
+    "node": 7726,
+    "literal": -6535
+  },
+  {
+    "group": "point_GP",
+    "node": 7733,
+    "literal": -6541
+  },
+  {
+    "group": "point_GP",
+    "node": 7740,
+    "literal": -6547
+  },
+  {
+    "group": "point_GP",
+    "node": 7747,
+    "literal": -6553
+  },
+  {
+    "group": "point_GP",
+    "node": 7754,
+    "literal": -6559
+  },
+  {
+    "group": "point_GP",
+    "node": 7761,
+    "literal": -6565
+  },
+  {
+    "group": "point_GP",
+    "node": 7768,
+    "literal": -6571
+  },
+  {
+    "group": "point_GP",
+    "node": 7775,
+    "literal": -6577
+  },
+  {
+    "group": "point_GP",
+    "node": 7782,
+    "literal": -6583
+  },
+  {
+    "group": "point_GP",
+    "node": 7789,
+    "literal": -6589
+  },
+  {
+    "group": "point_GP",
+    "node": 7796,
+    "literal": -6595
+  },
+  {
+    "group": "point_GP",
+    "node": 7803,
+    "literal": -6601
+  },
+  {
+    "group": "point_GP",
+    "node": 7810,
+    "literal": -6607
+  },
+  {
+    "group": "point_GP",
+    "node": 7817,
+    "literal": -6613
+  },
+  {
+    "group": "point_GP",
+    "node": 7824,
+    "literal": -6619
+  },
+  {
+    "group": "point_GP",
+    "node": 7831,
+    "literal": -6625
+  },
+  {
+    "group": "point_GP",
+    "node": 7838,
+    "literal": -6631
+  },
+  {
+    "group": "point_GP",
+    "node": 7845,
+    "literal": -6637
+  },
+  {
+    "group": "point_GP",
+    "node": 7852,
+    "literal": -6643
+  },
+  {
+    "group": "point_GP",
+    "node": 7859,
+    "literal": -6649
+  },
+  {
+    "group": "point_GP",
+    "node": 7866,
+    "literal": -6655
+  },
+  {
+    "group": "point_GP",
+    "node": 7873,
+    "literal": -6661
+  },
+  {
+    "group": "point_GP",
+    "node": 7880,
+    "literal": -6667
+  },
+  {
+    "group": "point_GP",
+    "node": 7887,
+    "literal": -6673
+  },
+  {
+    "group": "point_GP",
+    "node": 7894,
+    "literal": -6679
+  },
+  {
+    "group": "point_GP",
+    "node": 7901,
+    "literal": -6685
+  },
+  {
+    "group": "point_GP",
+    "node": 7908,
+    "literal": -6691
+  },
+  {
+    "group": "point_GP",
+    "node": 7916,
+    "literal": -6697
+  },
+  {
+    "group": "point_GP",
+    "node": 7923,
+    "literal": -6703
+  },
+  {
+    "group": "point_GP",
+    "node": 7930,
+    "literal": -6709
+  },
+  {
+    "group": "point_GP",
+    "node": 7937,
+    "literal": -6715
+  },
+  {
+    "group": "point_GP",
+    "node": 7944,
+    "literal": -6721
+  },
+  {
+    "group": "point_GP",
+    "node": 7951,
+    "literal": -6727
+  },
+  {
+    "group": "point_GP",
+    "node": 7958,
+    "literal": -6733
+  },
+  {
+    "group": "point_GP",
+    "node": 7965,
+    "literal": -6739
+  },
+  {
+    "group": "point_GP",
+    "node": 7972,
+    "literal": -6745
+  },
+  {
+    "group": "point_GP",
+    "node": 7979,
+    "literal": -6751
+  },
+  {
+    "group": "point_GP",
+    "node": 7986,
+    "literal": -6757
+  },
+  {
+    "group": "point_GP",
+    "node": 7993,
+    "literal": -6763
+  },
+  {
+    "group": "point_GP",
+    "node": 8000,
+    "literal": -6769
+  },
+  {
+    "group": "point_GP",
+    "node": 8007,
+    "literal": -6775
+  },
+  {
+    "group": "point_GP",
+    "node": 8014,
+    "literal": -6781
+  },
+  {
+    "group": "point_GP",
+    "node": 8021,
+    "literal": -6787
+  },
+  {
+    "group": "point_GP",
+    "node": 8028,
+    "literal": -6793
+  },
+  {
+    "group": "point_GP",
+    "node": 8035,
+    "literal": -6799
+  },
+  {
+    "group": "point_GP",
+    "node": 8042,
+    "literal": -6805
+  },
+  {
+    "group": "point_GP",
+    "node": 8049,
+    "literal": -6811
+  },
+  {
+    "group": "point_GP",
+    "node": 8056,
+    "literal": -6817
+  },
+  {
+    "group": "point_GP",
+    "node": 8063,
+    "literal": -6823
+  },
+  {
+    "group": "point_GP",
+    "node": 8070,
+    "literal": -6829
+  },
+  {
+    "group": "point_GP",
+    "node": 8077,
+    "literal": -6835
+  },
+  {
+    "group": "point_GP",
+    "node": 8084,
+    "literal": -6841
+  },
+  {
+    "group": "point_GP",
+    "node": 8091,
+    "literal": -6847
+  },
+  {
+    "group": "point_GP",
+    "node": 8098,
+    "literal": -6853
+  },
+  {
+    "group": "point_GP",
+    "node": 8105,
+    "literal": -6859
+  },
+  {
+    "group": "point_GP",
+    "node": 8112,
+    "literal": -6865
+  },
+  {
+    "group": "point_GP",
+    "node": 8119,
+    "literal": -6871
+  },
+  {
+    "group": "point_GP",
+    "node": 8126,
+    "literal": -6877
+  },
+  {
+    "group": "point_GP",
+    "node": 8133,
+    "literal": -6883
+  },
+  {
+    "group": "point_GP",
+    "node": 8140,
+    "literal": -6889
+  },
+  {
+    "group": "point_GP",
+    "node": 8147,
+    "literal": -6895
+  },
+  {
+    "group": "point_GP",
+    "node": 8154,
+    "literal": -6901
+  },
+  {
+    "group": "point_GP",
+    "node": 8161,
+    "literal": -6907
+  },
+  {
+    "group": "point_GP",
+    "node": 8168,
+    "literal": -6913
+  },
+  {
+    "group": "point_GP",
+    "node": 8175,
+    "literal": -6919
+  },
+  {
+    "group": "point_GP",
+    "node": 8182,
+    "literal": -6925
+  },
+  {
+    "group": "point_GP",
+    "node": 8189,
+    "literal": -6931
+  },
+  {
+    "group": "point_GP",
+    "node": 8196,
+    "literal": -6937
+  },
+  {
+    "group": "point_GP",
+    "node": 8203,
+    "literal": -6943
+  },
+  {
+    "group": "point_GP",
+    "node": 8210,
+    "literal": -6949
+  },
+  {
+    "group": "point_GP",
+    "node": 8217,
+    "literal": -6955
+  },
+  {
+    "group": "point_GP",
+    "node": 8224,
+    "literal": -6961
+  },
+  {
+    "group": "point_GP",
+    "node": 8231,
+    "literal": -6967
+  },
+  {
+    "group": "point_GP",
+    "node": 8238,
+    "literal": -6973
+  },
+  {
+    "group": "point_GP",
+    "node": 8245,
+    "literal": -6979
+  },
+  {
+    "group": "point_GP",
+    "node": 8252,
+    "literal": -6985
+  },
+  {
+    "group": "point_GP",
+    "node": 8259,
+    "literal": -6991
+  },
+  {
+    "group": "point_GP",
+    "node": 8266,
+    "literal": -6997
+  },
+  {
+    "group": "point_GP",
+    "node": 8273,
+    "literal": -7003
+  },
+  {
+    "group": "point_GP",
+    "node": 8280,
+    "literal": -7009
+  },
+  {
+    "group": "point_GP",
+    "node": 8287,
+    "literal": -7015
+  },
+  {
+    "group": "point_GP",
+    "node": 8294,
+    "literal": -7021
+  },
+  {
+    "group": "point_GP",
+    "node": 8301,
+    "literal": -7027
+  },
+  {
+    "group": "point_GP",
+    "node": 8308,
+    "literal": -7033
+  },
+  {
+    "group": "point_GP",
+    "node": 8315,
+    "literal": -7039
+  },
+  {
+    "group": "point_GP",
+    "node": 8322,
+    "literal": -7045
+  },
+  {
+    "group": "point_GP",
+    "node": 8329,
+    "literal": -7051
+  },
+  {
+    "group": "point_GP",
+    "node": 8336,
+    "literal": -7057
+  },
+  {
+    "group": "point_GP",
+    "node": 8343,
+    "literal": -7063
+  },
+  {
+    "group": "point_GP",
+    "node": 8350,
+    "literal": -7069
+  },
+  {
+    "group": "point_GP",
+    "node": 8357,
+    "literal": -7075
+  },
+  {
+    "group": "point_GP",
+    "node": 8364,
+    "literal": -7081
+  },
+  {
+    "group": "point_GP",
+    "node": 8371,
+    "literal": -7087
+  },
+  {
+    "group": "point_GP",
+    "node": 8378,
+    "literal": -7093
+  },
+  {
+    "group": "point_GP",
+    "node": 8385,
+    "literal": -7099
+  },
+  {
+    "group": "point_GP",
+    "node": 8392,
+    "literal": -7105
+  },
+  {
+    "group": "point_GP",
+    "node": 8399,
+    "literal": -7111
+  },
+  {
+    "group": "point_GP",
+    "node": 8406,
+    "literal": -7117
+  },
+  {
+    "group": "point_GP",
+    "node": 8413,
+    "literal": -7123
+  },
+  {
+    "group": "point_GP",
+    "node": 8420,
+    "literal": -7129
+  },
+  {
+    "group": "point_GP",
+    "node": 8427,
+    "literal": -7135
+  },
+  {
+    "group": "point_GP",
+    "node": 8434,
+    "literal": -7141
+  },
+  {
+    "group": "point_GP",
+    "node": 8441,
+    "literal": -7147
+  },
+  {
+    "group": "point_GP",
+    "node": 8448,
+    "literal": -7153
+  },
+  {
+    "group": "point_GP",
+    "node": 8455,
+    "literal": -7159
+  },
+  {
+    "group": "point_GP",
+    "node": 8462,
+    "literal": -7165
+  },
+  {
+    "group": "point_GP",
+    "node": 8469,
+    "literal": -7171
+  },
+  {
+    "group": "point_GP",
+    "node": 8476,
+    "literal": -7177
+  },
+  {
+    "group": "point_GP",
+    "node": 8483,
+    "literal": -7183
+  },
+  {
+    "group": "point_GP",
+    "node": 8490,
+    "literal": -7189
+  },
+  {
+    "group": "point_GP",
+    "node": 8497,
+    "literal": -7195
+  },
+  {
+    "group": "point_GP",
+    "node": 8504,
+    "literal": -7201
+  },
+  {
+    "group": "point_GP",
+    "node": 8511,
+    "literal": -7207
+  },
+  {
+    "group": "point_GP",
+    "node": 8518,
+    "literal": -7213
+  },
+  {
+    "group": "point_GP",
+    "node": 8525,
+    "literal": -7219
+  },
+  {
+    "group": "point_GP",
+    "node": 8532,
+    "literal": -7225
+  },
+  {
+    "group": "point_GP",
+    "node": 8539,
+    "literal": -7231
+  },
+  {
+    "group": "point_GP",
+    "node": 8546,
+    "literal": -7237
+  },
+  {
+    "group": "point_GP",
+    "node": 8553,
+    "literal": -7243
+  },
+  {
+    "group": "point_GP",
+    "node": 8560,
+    "literal": -7249
+  },
+  {
+    "group": "point_GP",
+    "node": 8567,
+    "literal": -7255
+  },
+  {
+    "group": "point_GP",
+    "node": 8574,
+    "literal": -7261
+  },
+  {
+    "group": "point_GP",
+    "node": 8581,
+    "literal": -7267
+  },
+  {
+    "group": "point_GP",
+    "node": 8588,
+    "literal": -7273
+  },
+  {
+    "group": "point_GP",
+    "node": 8595,
+    "literal": -7279
+  },
+  {
+    "group": "point_GP",
+    "node": 8602,
+    "literal": -7285
+  },
+  {
+    "group": "point_GP",
+    "node": 8609,
+    "literal": -7291
+  },
+  {
+    "group": "point_GP",
+    "node": 8616,
+    "literal": -7297
+  },
+  {
+    "group": "point_GP",
+    "node": 8623,
+    "literal": -7303
+  },
+  {
+    "group": "point_GP",
+    "node": 8630,
+    "literal": -7309
+  },
+  {
+    "group": "point_GP",
+    "node": 8637,
+    "literal": -7315
+  },
+  {
+    "group": "point_GP",
+    "node": 8644,
+    "literal": -7321
+  },
+  {
+    "group": "point_GP",
+    "node": 8651,
+    "literal": -7327
+  },
+  {
+    "group": "point_GP",
+    "node": 8658,
+    "literal": -7333
+  },
+  {
+    "group": "point_GP",
+    "node": 8665,
+    "literal": -7339
+  },
+  {
+    "group": "point_GP",
+    "node": 8672,
+    "literal": -7345
+  },
+  {
+    "group": "point_GP",
+    "node": 8679,
+    "literal": -7351
+  },
+  {
+    "group": "point_GP",
+    "node": 8686,
+    "literal": -7357
+  },
+  {
+    "group": "point_GP",
+    "node": 8693,
+    "literal": -7363
+  },
+  {
+    "group": "point_GP",
+    "node": 8700,
+    "literal": -7369
+  },
+  {
+    "group": "point_GP",
+    "node": 8707,
+    "literal": -7375
+  },
+  {
+    "group": "point_GP",
+    "node": 8714,
+    "literal": -7381
+  },
+  {
+    "group": "point_GP",
+    "node": 8721,
+    "literal": -7387
+  },
+  {
+    "group": "point_GP",
+    "node": 8728,
+    "literal": -7393
+  },
+  {
+    "group": "point_GP",
+    "node": 8735,
+    "literal": -7399
+  },
+  {
+    "group": "point_GP",
+    "node": 8742,
+    "literal": -7405
+  },
+  {
+    "group": "point_GP",
+    "node": 8749,
+    "literal": -7411
+  },
+  {
+    "group": "point_GP",
+    "node": 8756,
+    "literal": -7417
+  },
+  {
+    "group": "point_GP",
+    "node": 8763,
+    "literal": -7423
+  },
+  {
+    "group": "point_GP",
+    "node": 8770,
+    "literal": -7429
+  },
+  {
+    "group": "point_GP",
+    "node": 8777,
+    "literal": -7435
+  },
+  {
+    "group": "point_GP",
+    "node": 8784,
+    "literal": -7441
+  },
+  {
+    "group": "point_GP",
+    "node": 8791,
+    "literal": -7447
+  },
+  {
+    "group": "point_GP",
+    "node": 8798,
+    "literal": -7453
+  },
+  {
+    "group": "point_GP",
+    "node": 8805,
+    "literal": -7459
+  },
+  {
+    "group": "point_GP",
+    "node": 8812,
+    "literal": -7465
+  },
+  {
+    "group": "point_GP",
+    "node": 8819,
+    "literal": -7471
+  },
+  {
+    "group": "point_GP",
+    "node": 8826,
+    "literal": -7477
+  },
+  {
+    "group": "point_GP",
+    "node": 8833,
+    "literal": -7483
+  },
+  {
+    "group": "point_GP",
+    "node": 8840,
+    "literal": -7489
+  },
+  {
+    "group": "point_GP",
+    "node": 8847,
+    "literal": -7495
+  },
+  {
+    "group": "point_GP",
+    "node": 8854,
+    "literal": -7501
+  },
+  {
+    "group": "point_GP",
+    "node": 8861,
+    "literal": -7507
+  },
+  {
+    "group": "point_GP",
+    "node": 8868,
+    "literal": -7513
+  },
+  {
+    "group": "point_GP",
+    "node": 8875,
+    "literal": -7519
+  },
+  {
+    "group": "point_GP",
+    "node": 8882,
+    "literal": -7525
+  },
+  {
+    "group": "point_GP",
+    "node": 8889,
+    "literal": -7531
+  },
+  {
+    "group": "point_GP",
+    "node": 8896,
+    "literal": -7537
+  },
+  {
+    "group": "point_GP",
+    "node": 8903,
+    "literal": -7543
+  },
+  {
+    "group": "point_GP",
+    "node": 8910,
+    "literal": -7549
+  },
+  {
+    "group": "point_GP",
+    "node": 8917,
+    "literal": -7555
+  },
+  {
+    "group": "point_GP",
+    "node": 8924,
+    "literal": -7561
+  },
+  {
+    "group": "point_GP",
+    "node": 8931,
+    "literal": -7567
+  },
+  {
+    "group": "point_GP",
+    "node": 8938,
+    "literal": -7573
+  },
+  {
+    "group": "point_GP",
+    "node": 8945,
+    "literal": -7579
+  },
+  {
+    "group": "point_GP",
+    "node": 8952,
+    "literal": -7585
+  },
+  {
+    "group": "point_GP",
+    "node": 8959,
+    "literal": -7591
+  },
+  {
+    "group": "point_GP",
+    "node": 8966,
+    "literal": -7597
+  },
+  {
+    "group": "point_GP",
+    "node": 8973,
+    "literal": -7603
+  },
+  {
+    "group": "point_GP",
+    "node": 8980,
+    "literal": -7609
+  },
+  {
+    "group": "point_GP",
+    "node": 8987,
+    "literal": -7615
+  },
+  {
+    "group": "point_GP",
+    "node": 8994,
+    "literal": -7621
+  },
+  {
+    "group": "point_GP",
+    "node": 9001,
+    "literal": -7627
+  },
+  {
+    "group": "point_GP",
+    "node": 9008,
+    "literal": -7633
+  },
+  {
+    "group": "point_GP",
+    "node": 9015,
+    "literal": -7639
+  },
+  {
+    "group": "point_GP",
+    "node": 9022,
+    "literal": -7645
+  },
+  {
+    "group": "point_GP",
+    "node": 9029,
+    "literal": -7651
+  },
+  {
+    "group": "point_GP",
+    "node": 9036,
+    "literal": -7657
+  },
+  {
+    "group": "point_GP",
+    "node": 9043,
+    "literal": -7663
+  },
+  {
+    "group": "point_GP",
+    "node": 9050,
+    "literal": -7669
+  },
+  {
+    "group": "point_GP",
+    "node": 9057,
+    "literal": -7675
+  },
+  {
+    "group": "point_GP",
+    "node": 9064,
+    "literal": -7681
+  },
+  {
+    "group": "point_GP",
+    "node": 9071,
+    "literal": -7687
+  },
+  {
+    "group": "line_GP",
+    "node": 9084,
+    "literal": -7699
+  },
+  {
+    "group": "line_GP",
+    "node": 9094,
+    "literal": -7708
+  },
+  {
+    "group": "line_GP",
+    "node": 9104,
+    "literal": -7717
+  },
+  {
+    "group": "line_GP",
+    "node": 9114,
+    "literal": -7724
+  },
+  {
+    "group": "line_GP",
+    "node": 9122,
+    "literal": -7731
+  },
+  {
+    "group": "line_GP",
+    "node": 9130,
+    "literal": -7738
+  },
+  {
+    "group": "line_GP",
+    "node": 9138,
+    "literal": -7744
+  },
+  {
+    "group": "line_GP",
+    "node": 9146,
+    "literal": -7751
+  },
+  {
+    "group": "line_GP",
+    "node": 9154,
+    "literal": -7757
+  },
+  {
+    "group": "line_GP",
+    "node": 9162,
+    "literal": -7764
+  },
+  {
+    "group": "line_GP",
+    "node": 9169,
+    "literal": -7770
+  },
+  {
+    "group": "line_GP",
+    "node": 9176,
+    "literal": -7776
+  },
+  {
+    "group": "line_GP",
+    "node": 9183,
+    "literal": -7782
+  },
+  {
+    "group": "line_GP",
+    "node": 9190,
+    "literal": -7788
+  },
+  {
+    "group": "line_GP",
+    "node": 9197,
+    "literal": -7794
+  },
+  {
+    "group": "line_GP",
+    "node": 9204,
+    "literal": -7800
+  },
+  {
+    "group": "line_GP",
+    "node": 9211,
+    "literal": -7806
+  },
+  {
+    "group": "line_GP",
+    "node": 9218,
+    "literal": -7812
+  },
+  {
+    "group": "line_GP",
+    "node": 9225,
+    "literal": -7818
+  },
+  {
+    "group": "line_GP",
+    "node": 9232,
+    "literal": -7824
+  },
+  {
+    "group": "line_GP",
+    "node": 9239,
+    "literal": -7830
+  },
+  {
+    "group": "line_GP",
+    "node": 9246,
+    "literal": -7836
+  },
+  {
+    "group": "line_GP",
+    "node": 9253,
+    "literal": -7842
+  },
+  {
+    "group": "line_GP",
+    "node": 9260,
+    "literal": -7848
+  },
+  {
+    "group": "line_GP",
+    "node": 9267,
+    "literal": -7854
+  },
+  {
+    "group": "line_GP",
+    "node": 9274,
+    "literal": -7860
+  },
+  {
+    "group": "line_GP",
+    "node": 9281,
+    "literal": -7866
+  },
+  {
+    "group": "line_GP",
+    "node": 9288,
+    "literal": -7872
+  },
+  {
+    "group": "line_GP",
+    "node": 9295,
+    "literal": -7878
+  },
+  {
+    "group": "line_GP",
+    "node": 9302,
+    "literal": -7884
+  },
+  {
+    "group": "line_GP",
+    "node": 9309,
+    "literal": -7890
+  },
+  {
+    "group": "line_GP",
+    "node": 9316,
+    "literal": -7896
+  },
+  {
+    "group": "line_GP",
+    "node": 9323,
+    "literal": -7902
+  },
+  {
+    "group": "line_GP",
+    "node": 9330,
+    "literal": -7908
+  },
+  {
+    "group": "line_GP",
+    "node": 9337,
+    "literal": -7914
+  },
+  {
+    "group": "line_GP",
+    "node": 9350,
+    "literal": -7923
+  },
+  {
+    "group": "line_GP",
+    "node": 9360,
+    "literal": -7931
+  },
+  {
+    "group": "line_GP",
+    "node": 9370,
+    "literal": -7939
+  },
+  {
+    "group": "line_GP",
+    "node": 9380,
+    "literal": -7946
+  },
+  {
+    "group": "line_GP",
+    "node": 9388,
+    "literal": -7953
+  },
+  {
+    "group": "line_GP",
+    "node": 9396,
+    "literal": -7960
+  },
+  {
+    "group": "line_GP",
+    "node": 9404,
+    "literal": -7967
+  },
+  {
+    "group": "line_GP",
+    "node": 9412,
+    "literal": -7974
+  },
+  {
+    "group": "line_GP",
+    "node": 9420,
+    "literal": -7981
+  },
+  {
+    "group": "line_GP",
+    "node": 9428,
+    "literal": -7987
+  },
+  {
+    "group": "line_GP",
+    "node": 9435,
+    "literal": -7993
+  },
+  {
+    "group": "line_GP",
+    "node": 9442,
+    "literal": -7999
+  },
+  {
+    "group": "line_GP",
+    "node": 9449,
+    "literal": -8005
+  },
+  {
+    "group": "line_GP",
+    "node": 9456,
+    "literal": -8011
+  },
+  {
+    "group": "line_GP",
+    "node": 9463,
+    "literal": -8017
+  },
+  {
+    "group": "line_GP",
+    "node": 9470,
+    "literal": -8023
+  },
+  {
+    "group": "line_GP",
+    "node": 9477,
+    "literal": -8029
+  },
+  {
+    "group": "line_GP",
+    "node": 9484,
+    "literal": -8035
+  },
+  {
+    "group": "line_GP",
+    "node": 9491,
+    "literal": -8041
+  },
+  {
+    "group": "line_GP",
+    "node": 9498,
+    "literal": -8047
+  },
+  {
+    "group": "line_GP",
+    "node": 9505,
+    "literal": -8053
+  },
+  {
+    "group": "line_GP",
+    "node": 9512,
+    "literal": -8059
+  },
+  {
+    "group": "line_GP",
+    "node": 9519,
+    "literal": -8065
+  },
+  {
+    "group": "line_GP",
+    "node": 9526,
+    "literal": -8071
+  },
+  {
+    "group": "line_GP",
+    "node": 9533,
+    "literal": -8077
+  },
+  {
+    "group": "line_GP",
+    "node": 9540,
+    "literal": -8083
+  },
+  {
+    "group": "line_GP",
+    "node": 9547,
+    "literal": -8089
+  },
+  {
+    "group": "line_GP",
+    "node": 9554,
+    "literal": -8095
+  },
+  {
+    "group": "line_GP",
+    "node": 9561,
+    "literal": -8101
+  },
+  {
+    "group": "line_GP",
+    "node": 9568,
+    "literal": -8107
+  },
+  {
+    "group": "line_GP",
+    "node": 9575,
+    "literal": -8113
+  },
+  {
+    "group": "line_GP",
+    "node": 9582,
+    "literal": -8119
+  },
+  {
+    "group": "line_GP",
+    "node": 9589,
+    "literal": -8125
+  },
+  {
+    "group": "line_GP",
+    "node": 9596,
+    "literal": -8131
+  },
+  {
+    "group": "line_GP",
+    "node": 9603,
+    "literal": -8137
+  },
+  {
+    "group": "line_GP",
+    "node": 9615,
+    "literal": -8144
+  },
+  {
+    "group": "line_GP",
+    "node": 9625,
+    "literal": -8151
+  },
+  {
+    "group": "line_GP",
+    "node": 9635,
+    "literal": -8158
+  },
+  {
+    "group": "line_GP",
+    "node": 9645,
+    "literal": -8164
+  },
+  {
+    "group": "line_GP",
+    "node": 9653,
+    "literal": -8171
+  },
+  {
+    "group": "line_GP",
+    "node": 9661,
+    "literal": -8178
+  },
+  {
+    "group": "line_GP",
+    "node": 9669,
+    "literal": -8185
+  },
+  {
+    "group": "line_GP",
+    "node": 9677,
+    "literal": -8192
+  },
+  {
+    "group": "line_GP",
+    "node": 9685,
+    "literal": -8199
+  },
+  {
+    "group": "line_GP",
+    "node": 9693,
+    "literal": -8205
+  },
+  {
+    "group": "line_GP",
+    "node": 9700,
+    "literal": -8211
+  },
+  {
+    "group": "line_GP",
+    "node": 9707,
+    "literal": -8217
+  },
+  {
+    "group": "line_GP",
+    "node": 9714,
+    "literal": -8223
+  },
+  {
+    "group": "line_GP",
+    "node": 9721,
+    "literal": -8229
+  },
+  {
+    "group": "line_GP",
+    "node": 9728,
+    "literal": -8235
+  },
+  {
+    "group": "line_GP",
+    "node": 9735,
+    "literal": -8241
+  },
+  {
+    "group": "line_GP",
+    "node": 9742,
+    "literal": -8247
+  },
+  {
+    "group": "line_GP",
+    "node": 9749,
+    "literal": -8253
+  },
+  {
+    "group": "line_GP",
+    "node": 9756,
+    "literal": -8259
+  },
+  {
+    "group": "line_GP",
+    "node": 9763,
+    "literal": -8265
+  },
+  {
+    "group": "line_GP",
+    "node": 9770,
+    "literal": -8271
+  },
+  {
+    "group": "line_GP",
+    "node": 9777,
+    "literal": -8277
+  },
+  {
+    "group": "line_GP",
+    "node": 9784,
+    "literal": -8283
+  },
+  {
+    "group": "line_GP",
+    "node": 9791,
+    "literal": -8289
+  },
+  {
+    "group": "line_GP",
+    "node": 9798,
+    "literal": -8295
+  },
+  {
+    "group": "line_GP",
+    "node": 9805,
+    "literal": -8301
+  },
+  {
+    "group": "line_GP",
+    "node": 9812,
+    "literal": -8307
+  },
+  {
+    "group": "line_GP",
+    "node": 9819,
+    "literal": -8313
+  },
+  {
+    "group": "line_GP",
+    "node": 9826,
+    "literal": -8319
+  },
+  {
+    "group": "line_GP",
+    "node": 9833,
+    "literal": -8325
+  },
+  {
+    "group": "line_GP",
+    "node": 9840,
+    "literal": -8331
+  },
+  {
+    "group": "line_GP",
+    "node": 9847,
+    "literal": -8337
+  },
+  {
+    "group": "line_GP",
+    "node": 9854,
+    "literal": -8343
+  },
+  {
+    "group": "line_GP",
+    "node": 9861,
+    "literal": -8349
+  },
+  {
+    "group": "line_GP",
+    "node": 9868,
+    "literal": -8355
+  },
+  {
+    "group": "line_GP",
+    "node": 9878,
+    "literal": -8361
+  },
+  {
+    "group": "line_GP",
+    "node": 9888,
+    "literal": -8367
+  },
+  {
+    "group": "line_GP",
+    "node": 9898,
+    "literal": -8373
+  },
+  {
+    "group": "line_GP",
+    "node": 9908,
+    "literal": -8379
+  },
+  {
+    "group": "line_GP",
+    "node": 9916,
+    "literal": -8386
+  },
+  {
+    "group": "line_GP",
+    "node": 9924,
+    "literal": -8393
+  },
+  {
+    "group": "line_GP",
+    "node": 9932,
+    "literal": -8399
+  },
+  {
+    "group": "line_GP",
+    "node": 9940,
+    "literal": -8406
+  },
+  {
+    "group": "line_GP",
+    "node": 9948,
+    "literal": -8413
+  },
+  {
+    "group": "line_GP",
+    "node": 9956,
+    "literal": -8419
+  },
+  {
+    "group": "line_GP",
+    "node": 9963,
+    "literal": -8425
+  },
+  {
+    "group": "line_GP",
+    "node": 9970,
+    "literal": -8431
+  },
+  {
+    "group": "line_GP",
+    "node": 9977,
+    "literal": -8437
+  },
+  {
+    "group": "line_GP",
+    "node": 9984,
+    "literal": -8443
+  },
+  {
+    "group": "line_GP",
+    "node": 9991,
+    "literal": -8449
+  },
+  {
+    "group": "line_GP",
+    "node": 9998,
+    "literal": -8455
+  },
+  {
+    "group": "line_GP",
+    "node": 10005,
+    "literal": -8461
+  },
+  {
+    "group": "line_GP",
+    "node": 10012,
+    "literal": -8467
+  },
+  {
+    "group": "line_GP",
+    "node": 10019,
+    "literal": -8473
+  },
+  {
+    "group": "line_GP",
+    "node": 10026,
+    "literal": -8479
+  },
+  {
+    "group": "line_GP",
+    "node": 10033,
+    "literal": -8485
+  },
+  {
+    "group": "line_GP",
+    "node": 10040,
+    "literal": -8491
+  },
+  {
+    "group": "line_GP",
+    "node": 10047,
+    "literal": -8497
+  },
+  {
+    "group": "line_GP",
+    "node": 10054,
+    "literal": -8503
+  },
+  {
+    "group": "line_GP",
+    "node": 10061,
+    "literal": -8509
+  },
+  {
+    "group": "line_GP",
+    "node": 10068,
+    "literal": -8515
+  },
+  {
+    "group": "line_GP",
+    "node": 10075,
+    "literal": -8521
+  },
+  {
+    "group": "line_GP",
+    "node": 10082,
+    "literal": -8527
+  },
+  {
+    "group": "line_GP",
+    "node": 10089,
+    "literal": -8533
+  },
+  {
+    "group": "line_GP",
+    "node": 10096,
+    "literal": -8539
+  },
+  {
+    "group": "line_GP",
+    "node": 10103,
+    "literal": -8545
+  },
+  {
+    "group": "line_GP",
+    "node": 10110,
+    "literal": -8551
+  },
+  {
+    "group": "line_GP",
+    "node": 10117,
+    "literal": -8557
+  },
+  {
+    "group": "line_GP",
+    "node": 10124,
+    "literal": -8563
+  },
+  {
+    "group": "line_GP",
+    "node": 10131,
+    "literal": -8569
+  },
+  {
+    "group": "line_GP",
+    "node": 10138,
+    "literal": -8575
+  },
+  {
+    "group": "line_GP",
+    "node": 10148,
+    "literal": -8581
+  },
+  {
+    "group": "line_GP",
+    "node": 10158,
+    "literal": -8587
+  },
+  {
+    "group": "line_GP",
+    "node": 10168,
+    "literal": -8593
+  },
+  {
+    "group": "line_GP",
+    "node": 10176,
+    "literal": -8599
+  },
+  {
+    "group": "line_GP",
+    "node": 10184,
+    "literal": -8605
+  },
+  {
+    "group": "line_GP",
+    "node": 10192,
+    "literal": -8611
+  },
+  {
+    "group": "line_GP",
+    "node": 10200,
+    "literal": -8618
+  },
+  {
+    "group": "line_GP",
+    "node": 10208,
+    "literal": -8624
+  },
+  {
+    "group": "line_GP",
+    "node": 10216,
+    "literal": -8630
+  },
+  {
+    "group": "line_GP",
+    "node": 10223,
+    "literal": -8636
+  },
+  {
+    "group": "line_GP",
+    "node": 10230,
+    "literal": -8642
+  },
+  {
+    "group": "line_GP",
+    "node": 10237,
+    "literal": -8648
+  },
+  {
+    "group": "line_GP",
+    "node": 10244,
+    "literal": -8654
+  },
+  {
+    "group": "line_GP",
+    "node": 10251,
+    "literal": -8660
+  },
+  {
+    "group": "line_GP",
+    "node": 10258,
+    "literal": -8666
+  },
+  {
+    "group": "line_GP",
+    "node": 10265,
+    "literal": -8672
+  },
+  {
+    "group": "line_GP",
+    "node": 10272,
+    "literal": -8678
+  },
+  {
+    "group": "line_GP",
+    "node": 10279,
+    "literal": -8684
+  },
+  {
+    "group": "line_GP",
+    "node": 10286,
+    "literal": -8690
+  },
+  {
+    "group": "line_GP",
+    "node": 10293,
+    "literal": -8696
+  },
+  {
+    "group": "line_GP",
+    "node": 10300,
+    "literal": -8702
+  },
+  {
+    "group": "line_GP",
+    "node": 10307,
+    "literal": -8708
+  },
+  {
+    "group": "line_GP",
+    "node": 10314,
+    "literal": -8714
+  },
+  {
+    "group": "line_GP",
+    "node": 10321,
+    "literal": -8720
+  },
+  {
+    "group": "line_GP",
+    "node": 10328,
+    "literal": -8726
+  },
+  {
+    "group": "line_GP",
+    "node": 10335,
+    "literal": -8732
+  },
+  {
+    "group": "line_GP",
+    "node": 10342,
+    "literal": -8738
+  },
+  {
+    "group": "line_GP",
+    "node": 10349,
+    "literal": -8744
+  },
+  {
+    "group": "line_GP",
+    "node": 10356,
+    "literal": -8750
+  },
+  {
+    "group": "line_GP",
+    "node": 10363,
+    "literal": -8756
+  },
+  {
+    "group": "line_GP",
+    "node": 10370,
+    "literal": -8762
+  },
+  {
+    "group": "line_GP",
+    "node": 10377,
+    "literal": -8768
+  },
+  {
+    "group": "line_GP",
+    "node": 10384,
+    "literal": -8774
+  },
+  {
+    "group": "line_GP",
+    "node": 10391,
+    "literal": -8780
+  },
+  {
+    "group": "line_GP",
+    "node": 10398,
+    "literal": -8786
+  },
+  {
+    "group": "line_GP",
+    "node": 10405,
+    "literal": -8792
+  },
+  {
+    "group": "line_GP",
+    "node": 10415,
+    "literal": -8798
+  },
+  {
+    "group": "line_GP",
+    "node": 10425,
+    "literal": -8804
+  },
+  {
+    "group": "line_GP",
+    "node": 10432,
+    "literal": -8810
+  },
+  {
+    "group": "line_GP",
+    "node": 10440,
+    "literal": -8816
+  },
+  {
+    "group": "line_GP",
+    "node": 10448,
+    "literal": -8822
+  },
+  {
+    "group": "line_GP",
+    "node": 10456,
+    "literal": -8828
+  },
+  {
+    "group": "line_GP",
+    "node": 10464,
+    "literal": -8834
+  },
+  {
+    "group": "line_GP",
+    "node": 10472,
+    "literal": -8841
+  },
+  {
+    "group": "line_GP",
+    "node": 10479,
+    "literal": -8847
+  },
+  {
+    "group": "line_GP",
+    "node": 10486,
+    "literal": -8853
+  },
+  {
+    "group": "line_GP",
+    "node": 10493,
+    "literal": -8859
+  },
+  {
+    "group": "line_GP",
+    "node": 10500,
+    "literal": -8865
+  },
+  {
+    "group": "line_GP",
+    "node": 10507,
+    "literal": -8871
+  },
+  {
+    "group": "line_GP",
+    "node": 10514,
+    "literal": -8877
+  },
+  {
+    "group": "line_GP",
+    "node": 10521,
+    "literal": -8883
+  },
+  {
+    "group": "line_GP",
+    "node": 10528,
+    "literal": -8889
+  },
+  {
+    "group": "line_GP",
+    "node": 10535,
+    "literal": -8895
+  },
+  {
+    "group": "line_GP",
+    "node": 10542,
+    "literal": -8901
+  },
+  {
+    "group": "line_GP",
+    "node": 10549,
+    "literal": -8907
+  },
+  {
+    "group": "line_GP",
+    "node": 10556,
+    "literal": -8913
+  },
+  {
+    "group": "line_GP",
+    "node": 10563,
+    "literal": -8919
+  },
+  {
+    "group": "line_GP",
+    "node": 10570,
+    "literal": -8925
+  },
+  {
+    "group": "line_GP",
+    "node": 10577,
+    "literal": -8931
+  },
+  {
+    "group": "line_GP",
+    "node": 10584,
+    "literal": -8937
+  },
+  {
+    "group": "line_GP",
+    "node": 10591,
+    "literal": -8943
+  },
+  {
+    "group": "line_GP",
+    "node": 10598,
+    "literal": -8949
+  },
+  {
+    "group": "line_GP",
+    "node": 10605,
+    "literal": -8955
+  },
+  {
+    "group": "line_GP",
+    "node": 10612,
+    "literal": -8961
+  },
+  {
+    "group": "line_GP",
+    "node": 10619,
+    "literal": -8967
+  },
+  {
+    "group": "line_GP",
+    "node": 10626,
+    "literal": -8973
+  },
+  {
+    "group": "line_GP",
+    "node": 10633,
+    "literal": -8979
+  },
+  {
+    "group": "line_GP",
+    "node": 10640,
+    "literal": -8985
+  },
+  {
+    "group": "line_GP",
+    "node": 10647,
+    "literal": -8991
+  },
+  {
+    "group": "line_GP",
+    "node": 10654,
+    "literal": -8997
+  },
+  {
+    "group": "line_GP",
+    "node": 10661,
+    "literal": -9003
+  },
+  {
+    "group": "line_GP",
+    "node": 10668,
+    "literal": -9009
+  },
+  {
+    "group": "line_GP",
+    "node": 10678,
+    "literal": -9015
+  },
+  {
+    "group": "line_GP",
+    "node": 10685,
+    "literal": -9021
+  },
+  {
+    "group": "line_GP",
+    "node": 10692,
+    "literal": -9027
+  },
+  {
+    "group": "line_GP",
+    "node": 10700,
+    "literal": -9033
+  },
+  {
+    "group": "line_GP",
+    "node": 10707,
+    "literal": -9039
+  },
+  {
+    "group": "line_GP",
+    "node": 10715,
+    "literal": -9045
+  },
+  {
+    "group": "line_GP",
+    "node": 10723,
+    "literal": -9051
+  },
+  {
+    "group": "line_GP",
+    "node": 10730,
+    "literal": -9057
+  },
+  {
+    "group": "line_GP",
+    "node": 10737,
+    "literal": -9063
+  },
+  {
+    "group": "line_GP",
+    "node": 10744,
+    "literal": -9069
+  },
+  {
+    "group": "line_GP",
+    "node": 10751,
+    "literal": -9075
+  },
+  {
+    "group": "line_GP",
+    "node": 10758,
+    "literal": -9081
+  },
+  {
+    "group": "line_GP",
+    "node": 10765,
+    "literal": -9087
+  },
+  {
+    "group": "line_GP",
+    "node": 10772,
+    "literal": -9093
+  },
+  {
+    "group": "line_GP",
+    "node": 10779,
+    "literal": -9099
+  },
+  {
+    "group": "line_GP",
+    "node": 10786,
+    "literal": -9105
+  },
+  {
+    "group": "line_GP",
+    "node": 10793,
+    "literal": -9111
+  },
+  {
+    "group": "line_GP",
+    "node": 10800,
+    "literal": -9117
+  },
+  {
+    "group": "line_GP",
+    "node": 10807,
+    "literal": -9123
+  },
+  {
+    "group": "line_GP",
+    "node": 10814,
+    "literal": -9129
+  },
+  {
+    "group": "line_GP",
+    "node": 10821,
+    "literal": -9135
+  },
+  {
+    "group": "line_GP",
+    "node": 10828,
+    "literal": -9141
+  },
+  {
+    "group": "line_GP",
+    "node": 10835,
+    "literal": -9147
+  },
+  {
+    "group": "line_GP",
+    "node": 10842,
+    "literal": -9153
+  },
+  {
+    "group": "line_GP",
+    "node": 10849,
+    "literal": -9159
+  },
+  {
+    "group": "line_GP",
+    "node": 10856,
+    "literal": -9165
+  },
+  {
+    "group": "line_GP",
+    "node": 10863,
+    "literal": -9171
+  },
+  {
+    "group": "line_GP",
+    "node": 10870,
+    "literal": -9177
+  },
+  {
+    "group": "line_GP",
+    "node": 10877,
+    "literal": -9183
+  },
+  {
+    "group": "line_GP",
+    "node": 10884,
+    "literal": -9189
+  },
+  {
+    "group": "line_GP",
+    "node": 10891,
+    "literal": -9195
+  },
+  {
+    "group": "line_GP",
+    "node": 10898,
+    "literal": -9201
+  },
+  {
+    "group": "line_GP",
+    "node": 10905,
+    "literal": -9207
+  },
+  {
+    "group": "line_GP",
+    "node": 10912,
+    "literal": -9213
+  },
+  {
+    "group": "line_GP",
+    "node": 10919,
+    "literal": -9219
+  },
+  {
+    "group": "line_GP",
+    "node": 10926,
+    "literal": -9225
+  },
+  {
+    "group": "line_GP",
+    "node": 10933,
+    "literal": -9231
+  },
+  {
+    "group": "line_GP",
+    "node": 10940,
+    "literal": -9237
+  },
+  {
+    "group": "line_GP",
+    "node": 10947,
+    "literal": -9243
+  },
+  {
+    "group": "line_GP",
+    "node": 10954,
+    "literal": -9249
+  },
+  {
+    "group": "line_GP",
+    "node": 10961,
+    "literal": -9255
+  },
+  {
+    "group": "line_GP",
+    "node": 10968,
+    "literal": -9261
+  },
+  {
+    "group": "line_GP",
+    "node": 10975,
+    "literal": -9267
+  },
+  {
+    "group": "line_GP",
+    "node": 10982,
+    "literal": -9273
+  },
+  {
+    "group": "line_GP",
+    "node": 10989,
+    "literal": -9279
+  },
+  {
+    "group": "line_GP",
+    "node": 10996,
+    "literal": -9285
+  },
+  {
+    "group": "line_GP",
+    "node": 11003,
+    "literal": -9291
+  },
+  {
+    "group": "line_GP",
+    "node": 11010,
+    "literal": -9297
+  },
+  {
+    "group": "line_GP",
+    "node": 11017,
+    "literal": -9303
+  },
+  {
+    "group": "line_GP",
+    "node": 11024,
+    "literal": -9309
+  },
+  {
+    "group": "line_GP",
+    "node": 11031,
+    "literal": -9315
+  },
+  {
+    "group": "line_GP",
+    "node": 11038,
+    "literal": -9321
+  },
+  {
+    "group": "line_GP",
+    "node": 11045,
+    "literal": -9327
+  },
+  {
+    "group": "line_GP",
+    "node": 11052,
+    "literal": -9333
+  },
+  {
+    "group": "line_GP",
+    "node": 11059,
+    "literal": -9339
+  },
+  {
+    "group": "line_GP",
+    "node": 11066,
+    "literal": -9345
+  },
+  {
+    "group": "line_GP",
+    "node": 11073,
+    "literal": -9351
+  },
+  {
+    "group": "line_GP",
+    "node": 11080,
+    "literal": -9357
+  },
+  {
+    "group": "line_GP",
+    "node": 11087,
+    "literal": -9363
+  },
+  {
+    "group": "line_GP",
+    "node": 11094,
+    "literal": -9369
+  },
+  {
+    "group": "line_GP",
+    "node": 11101,
+    "literal": -9375
+  },
+  {
+    "group": "line_GP",
+    "node": 11108,
+    "literal": -9381
+  },
+  {
+    "group": "line_GP",
+    "node": 11115,
+    "literal": -9387
+  },
+  {
+    "group": "line_GP",
+    "node": 11122,
+    "literal": -9393
+  },
+  {
+    "group": "line_GP",
+    "node": 11129,
+    "literal": -9399
+  },
+  {
+    "group": "line_GP",
+    "node": 11136,
+    "literal": -9405
+  },
+  {
+    "group": "line_GP",
+    "node": 11143,
+    "literal": -9411
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11149,
+    "literal": -9416
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11155,
+    "literal": -9421
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11161,
+    "literal": -9426
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11167,
+    "literal": -9431
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11173,
+    "literal": -9436
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11179,
+    "literal": -9441
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11185,
+    "literal": -9446
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11191,
+    "literal": -9451
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11197,
+    "literal": -9456
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11203,
+    "literal": -9461
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11209,
+    "literal": -9466
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11215,
+    "literal": -9471
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11221,
+    "literal": -9476
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11227,
+    "literal": -9481
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11233,
+    "literal": -9486
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11239,
+    "literal": -9491
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11245,
+    "literal": -9496
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11251,
+    "literal": -9501
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11257,
+    "literal": -9506
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11263,
+    "literal": -9511
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11269,
+    "literal": -9516
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11275,
+    "literal": -9521
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11281,
+    "literal": -9526
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11287,
+    "literal": -9531
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11293,
+    "literal": -9536
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11299,
+    "literal": -9541
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11305,
+    "literal": -9546
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11311,
+    "literal": -9551
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11317,
+    "literal": -9556
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11323,
+    "literal": -9561
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11329,
+    "literal": -9566
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11335,
+    "literal": -9571
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11341,
+    "literal": -9576
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11347,
+    "literal": -9581
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11353,
+    "literal": -9586
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11359,
+    "literal": -9591
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11365,
+    "literal": -9596
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11371,
+    "literal": -9601
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11377,
+    "literal": -9606
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11383,
+    "literal": -9611
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11389,
+    "literal": -9616
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11395,
+    "literal": -9621
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11401,
+    "literal": -9626
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11407,
+    "literal": -9631
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11413,
+    "literal": -9636
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11419,
+    "literal": -9641
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11425,
+    "literal": -9646
+  },
+  {
+    "group": "line_bracket_identity",
+    "node": 11431,
+    "literal": -9651
+  },
+  {
+    "group": "acyclic",
+    "node": 11436,
+    "literal": 9654
+  },
+  {
+    "group": "acyclic",
+    "node": 11441,
+    "literal": 9657
+  },
+  {
+    "group": "acyclic",
+    "node": 11446,
+    "literal": 9660
+  },
+  {
+    "group": "acyclic",
+    "node": 11451,
+    "literal": 9663
+  },
+  {
+    "group": "acyclic",
+    "node": 11456,
+    "literal": 9666
+  },
+  {
+    "group": "acyclic",
+    "node": 11460,
+    "literal": 9669
+  },
+  {
+    "group": "acyclic",
+    "node": 11464,
+    "literal": 9672
+  },
+  {
+    "group": "acyclic",
+    "node": 11468,
+    "literal": 9675
+  },
+  {
+    "group": "acyclic",
+    "node": 11472,
+    "literal": 9678
+  },
+  {
+    "group": "acyclic",
+    "node": 11476,
+    "literal": 9681
+  },
+  {
+    "group": "acyclic",
+    "node": 11480,
+    "literal": 9684
+  },
+  {
+    "group": "acyclic",
+    "node": 11484,
+    "literal": 9687
+  },
+  {
+    "group": "acyclic",
+    "node": 11488,
+    "literal": 9690
+  },
+  {
+    "group": "acyclic",
+    "node": 11492,
+    "literal": 9693
+  },
+  {
+    "group": "acyclic",
+    "node": 11496,
+    "literal": 9696
+  },
+  {
+    "group": "acyclic",
+    "node": 11501,
+    "literal": 9699
+  },
+  {
+    "group": "acyclic",
+    "node": 11506,
+    "literal": 9702
+  },
+  {
+    "group": "acyclic",
+    "node": 11511,
+    "literal": 9705
+  },
+  {
+    "group": "acyclic",
+    "node": 11516,
+    "literal": 9708
+  },
+  {
+    "group": "acyclic",
+    "node": 11520,
+    "literal": 9711
+  },
+  {
+    "group": "acyclic",
+    "node": 11524,
+    "literal": 9714
+  },
+  {
+    "group": "acyclic",
+    "node": 11528,
+    "literal": 9717
+  },
+  {
+    "group": "acyclic",
+    "node": 11532,
+    "literal": 9720
+  },
+  {
+    "group": "acyclic",
+    "node": 11536,
+    "literal": 9723
+  },
+  {
+    "group": "acyclic",
+    "node": 11540,
+    "literal": 9726
+  },
+  {
+    "group": "acyclic",
+    "node": 11545,
+    "literal": 9729
+  },
+  {
+    "group": "acyclic",
+    "node": 11550,
+    "literal": 9732
+  },
+  {
+    "group": "acyclic",
+    "node": 11555,
+    "literal": 9735
+  },
+  {
+    "group": "acyclic",
+    "node": 11559,
+    "literal": 9738
+  },
+  {
+    "group": "acyclic",
+    "node": 11563,
+    "literal": 9741
+  },
+  {
+    "group": "acyclic",
+    "node": 11567,
+    "literal": 9744
+  },
+  {
+    "group": "acyclic",
+    "node": 11572,
+    "literal": 9747
+  },
+  {
+    "group": "acyclic",
+    "node": 11577,
+    "literal": 9750
+  },
+  {
+    "group": "acyclic",
+    "node": 11581,
+    "literal": 9753
+  },
+  {
+    "group": "acyclic",
+    "node": 11586,
+    "literal": 9756
+  },
+  {
+    "group": "acyclic",
+    "node": 11589,
+    "literal": 9759
+  },
+  {
+    "group": "acyclic",
+    "node": 11592,
+    "literal": 9762
+  },
+  {
+    "group": "acyclic",
+    "node": 11595,
+    "literal": 9765
+  },
+  {
+    "group": "acyclic",
+    "node": 11598,
+    "literal": 9768
+  },
+  {
+    "group": "acyclic",
+    "node": 11601,
+    "literal": 9771
+  },
+  {
+    "group": "acyclic",
+    "node": 11604,
+    "literal": 9774
+  },
+  {
+    "group": "acyclic",
+    "node": 11607,
+    "literal": 9777
+  },
+  {
+    "group": "acyclic",
+    "node": 11610,
+    "literal": 9780
+  },
+  {
+    "group": "acyclic",
+    "node": 11613,
+    "literal": 9783
+  },
+  {
+    "group": "acyclic",
+    "node": 11616,
+    "literal": 9786
+  },
+  {
+    "group": "acyclic",
+    "node": 11619,
+    "literal": 9789
+  },
+  {
+    "group": "acyclic",
+    "node": 11622,
+    "literal": 9792
+  },
+  {
+    "group": "acyclic",
+    "node": 11625,
+    "literal": 9795
+  },
+  {
+    "group": "acyclic",
+    "node": 11628,
+    "literal": 9798
+  },
+  {
+    "group": "acyclic",
+    "node": 11631,
+    "literal": 9801
+  },
+  {
+    "group": "acyclic",
+    "node": 11634,
+    "literal": 9804
+  },
+  {
+    "group": "acyclic",
+    "node": 11637,
+    "literal": 9807
+  },
+  {
+    "group": "acyclic",
+    "node": 11640,
+    "literal": 9810
+  },
+  {
+    "group": "acyclic",
+    "node": 11643,
+    "literal": 9813
+  },
+  {
+    "group": "acyclic",
+    "node": 11646,
+    "literal": 9816
+  },
+  {
+    "group": "acyclic",
+    "node": 11649,
+    "literal": 9819
+  },
+  {
+    "group": "acyclic",
+    "node": 11652,
+    "literal": 9822
+  },
+  {
+    "group": "acyclic",
+    "node": 11655,
+    "literal": 9825
+  },
+  {
+    "group": "acyclic",
+    "node": 11658,
+    "literal": 9828
+  },
+  {
+    "group": "acyclic",
+    "node": 11661,
+    "literal": 9831
+  },
+  {
+    "group": "acyclic",
+    "node": 11664,
+    "literal": 9834
+  },
+  {
+    "group": "acyclic",
+    "node": 11667,
+    "literal": 9837
+  },
+  {
+    "group": "acyclic",
+    "node": 11670,
+    "literal": 9840
+  },
+  {
+    "group": "acyclic",
+    "node": 11673,
+    "literal": 9843
+  },
+  {
+    "group": "acyclic",
+    "node": 11676,
+    "literal": 9846
+  },
+  {
+    "group": "acyclic",
+    "node": 11679,
+    "literal": 9849
+  },
+  {
+    "group": "acyclic",
+    "node": 11682,
+    "literal": 9852
+  },
+  {
+    "group": "acyclic",
+    "node": 11685,
+    "literal": 9855
+  },
+  {
+    "group": "acyclic",
+    "node": 11688,
+    "literal": 9858
+  },
+  {
+    "group": "acyclic",
+    "node": 11691,
+    "literal": 9861
+  },
+  {
+    "group": "acyclic",
+    "node": 11696,
+    "literal": 9864
+  },
+  {
+    "group": "acyclic",
+    "node": 11701,
+    "literal": 9867
+  },
+  {
+    "group": "acyclic",
+    "node": 11706,
+    "literal": 9870
+  },
+  {
+    "group": "acyclic",
+    "node": 11711,
+    "literal": 9873
+  },
+  {
+    "group": "acyclic",
+    "node": 11715,
+    "literal": 9876
+  },
+  {
+    "group": "acyclic",
+    "node": 11719,
+    "literal": 9879
+  },
+  {
+    "group": "acyclic",
+    "node": 11723,
+    "literal": 9882
+  },
+  {
+    "group": "acyclic",
+    "node": 11727,
+    "literal": 9885
+  },
+  {
+    "group": "acyclic",
+    "node": 11731,
+    "literal": 9888
+  },
+  {
+    "group": "acyclic",
+    "node": 11735,
+    "literal": 9891
+  },
+  {
+    "group": "acyclic",
+    "node": 11740,
+    "literal": 9894
+  },
+  {
+    "group": "acyclic",
+    "node": 11745,
+    "literal": 9897
+  },
+  {
+    "group": "acyclic",
+    "node": 11750,
+    "literal": 9900
+  },
+  {
+    "group": "acyclic",
+    "node": 11754,
+    "literal": 9903
+  },
+  {
+    "group": "acyclic",
+    "node": 11758,
+    "literal": 9906
+  },
+  {
+    "group": "acyclic",
+    "node": 11762,
+    "literal": 9909
+  },
+  {
+    "group": "acyclic",
+    "node": 11767,
+    "literal": 9912
+  },
+  {
+    "group": "acyclic",
+    "node": 11772,
+    "literal": 9915
+  },
+  {
+    "group": "acyclic",
+    "node": 11776,
+    "literal": 9918
+  },
+  {
+    "group": "acyclic",
+    "node": 11781,
+    "literal": 9921
+  },
+  {
+    "group": "acyclic",
+    "node": 11784,
+    "literal": 9924
+  },
+  {
+    "group": "acyclic",
+    "node": 11787,
+    "literal": 9927
+  },
+  {
+    "group": "acyclic",
+    "node": 11790,
+    "literal": 9930
+  },
+  {
+    "group": "acyclic",
+    "node": 11793,
+    "literal": 9933
+  },
+  {
+    "group": "acyclic",
+    "node": 11796,
+    "literal": 9936
+  },
+  {
+    "group": "acyclic",
+    "node": 11799,
+    "literal": 9939
+  },
+  {
+    "group": "acyclic",
+    "node": 11802,
+    "literal": 9942
+  },
+  {
+    "group": "acyclic",
+    "node": 11805,
+    "literal": 9945
+  },
+  {
+    "group": "acyclic",
+    "node": 11808,
+    "literal": 9948
+  },
+  {
+    "group": "acyclic",
+    "node": 11811,
+    "literal": 9951
+  },
+  {
+    "group": "acyclic",
+    "node": 11814,
+    "literal": 9954
+  },
+  {
+    "group": "acyclic",
+    "node": 11817,
+    "literal": 9957
+  },
+  {
+    "group": "acyclic",
+    "node": 11820,
+    "literal": 9960
+  },
+  {
+    "group": "acyclic",
+    "node": 11823,
+    "literal": 9963
+  },
+  {
+    "group": "acyclic",
+    "node": 11826,
+    "literal": 9966
+  },
+  {
+    "group": "acyclic",
+    "node": 11831,
+    "literal": 9969
+  },
+  {
+    "group": "acyclic",
+    "node": 11836,
+    "literal": 9972
+  },
+  {
+    "group": "acyclic",
+    "node": 11841,
+    "literal": 9975
+  },
+  {
+    "group": "acyclic",
+    "node": 11845,
+    "literal": 9978
+  },
+  {
+    "group": "acyclic",
+    "node": 11849,
+    "literal": 9981
+  },
+  {
+    "group": "acyclic",
+    "node": 11853,
+    "literal": 9984
+  },
+  {
+    "group": "acyclic",
+    "node": 11858,
+    "literal": 9987
+  },
+  {
+    "group": "acyclic",
+    "node": 11863,
+    "literal": 9990
+  },
+  {
+    "group": "acyclic",
+    "node": 11867,
+    "literal": 9993
+  },
+  {
+    "group": "acyclic",
+    "node": 11872,
+    "literal": 9996
+  },
+  {
+    "group": "acyclic",
+    "node": 11875,
+    "literal": 9999
+  },
+  {
+    "group": "acyclic",
+    "node": 11878,
+    "literal": 10002
+  },
+  {
+    "group": "acyclic",
+    "node": 11881,
+    "literal": 10005
+  },
+  {
+    "group": "acyclic",
+    "node": 11884,
+    "literal": 10008
+  },
+  {
+    "group": "acyclic",
+    "node": 11887,
+    "literal": 10011
+  },
+  {
+    "group": "acyclic",
+    "node": 11892,
+    "literal": 10014
+  },
+  {
+    "group": "acyclic",
+    "node": 11897,
+    "literal": 10017
+  },
+  {
+    "group": "acyclic",
+    "node": 11901,
+    "literal": 10020
+  },
+  {
+    "group": "acyclic",
+    "node": 11906,
+    "literal": 10023
+  },
+  {
+    "group": "acyclic",
+    "node": 11909,
+    "literal": 10026
+  },
+  {
+    "group": "acyclic",
+    "node": 11914,
+    "literal": 10029
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11917,
+    "literal": 10032
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11920,
+    "literal": 10035
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11923,
+    "literal": 10038
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11926,
+    "literal": 10041
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11929,
+    "literal": 10044
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11932,
+    "literal": 10047
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11935,
+    "literal": 10050
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11938,
+    "literal": 10053
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11941,
+    "literal": 10056
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11944,
+    "literal": 10059
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11947,
+    "literal": 10062
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11950,
+    "literal": 10065
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11953,
+    "literal": 10068
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11956,
+    "literal": 10071
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11959,
+    "literal": 10074
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11962,
+    "literal": 10077
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11965,
+    "literal": 10080
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11968,
+    "literal": 10083
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11971,
+    "literal": 10086
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11974,
+    "literal": 10089
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11977,
+    "literal": 10092
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11980,
+    "literal": 10095
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11983,
+    "literal": 10098
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11986,
+    "literal": 10101
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11989,
+    "literal": 10104
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11992,
+    "literal": 10107
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11995,
+    "literal": 10110
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 11998,
+    "literal": 10113
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12001,
+    "literal": 10116
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12004,
+    "literal": 10119
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12007,
+    "literal": 10122
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12010,
+    "literal": 10125
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12013,
+    "literal": 10128
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12016,
+    "literal": 10131
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12019,
+    "literal": 10134
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12022,
+    "literal": 10137
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12025,
+    "literal": 10140
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12028,
+    "literal": 10143
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12031,
+    "literal": 10146
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12034,
+    "literal": 10149
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12037,
+    "literal": 10152
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12040,
+    "literal": 10155
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12043,
+    "literal": 10158
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12046,
+    "literal": 10161
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12049,
+    "literal": 10164
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12052,
+    "literal": 10167
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12055,
+    "literal": 10170
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12058,
+    "literal": 10173
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12061,
+    "literal": 10176
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12064,
+    "literal": 10179
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12067,
+    "literal": 10182
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12070,
+    "literal": 10185
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12073,
+    "literal": 10188
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12076,
+    "literal": 10191
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12079,
+    "literal": 10194
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12082,
+    "literal": 10197
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12085,
+    "literal": 10200
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12088,
+    "literal": 10203
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12091,
+    "literal": 10206
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12094,
+    "literal": 10209
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12097,
+    "literal": 10212
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12100,
+    "literal": 10215
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12103,
+    "literal": 10218
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12106,
+    "literal": 10221
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12109,
+    "literal": 10224
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12112,
+    "literal": 10227
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12115,
+    "literal": 10230
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12118,
+    "literal": 10233
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12121,
+    "literal": 10236
+  },
+  {
+    "group": "projected_acyclic",
+    "node": 12124,
+    "literal": 10239
+  },
+  {
+    "group": "normalization",
+    "node": 39,
+    "literal": 37
+  },
+  {
+    "group": "line_incidence",
+    "node": 12125,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12127,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12128,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12129,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12130,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12131,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12132,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12134,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12135,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12136,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12137,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12138,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12139,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12140,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12141,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12142,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12143,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12145,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12146,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12148,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12149,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12150,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12151,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12152,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12153,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12154,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12155,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12156,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12157,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12159,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12160,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12161,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12162,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12163,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12164,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12165,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12166,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12168,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12169,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12170,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12171,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12172,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12173,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12175,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12176,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12177,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12178,
+    "literal": 1
+  },
+  {
+    "group": "line_incidence",
+    "node": 12180,
+    "literal": 1
+  },
+  {
+    "group": "height_stress",
+    "node": 12192,
+    "literal": 10248
+  },
+  {
+    "group": "height_stress",
+    "node": 12207,
+    "literal": 10259
+  },
+  {
+    "group": "height_stress",
+    "node": 12222,
+    "literal": 10270
+  },
+  {
+    "group": "height_stress",
+    "node": 12237,
+    "literal": 10281
+  },
+  {
+    "group": "height_stress",
+    "node": 12252,
+    "literal": 10292
+  },
+  {
+    "group": "height_stress",
+    "node": 12270,
+    "literal": 10305
+  },
+  {
+    "group": "height_stress",
+    "node": 12288,
+    "literal": 10318
+  },
+  {
+    "group": "height_stress",
+    "node": 12303,
+    "literal": 10329
+  },
+  {
+    "group": "height_stress",
+    "node": 12321,
+    "literal": 10342
+  },
+  {
+    "group": "height_stress",
+    "node": 12336,
+    "literal": 10353
+  },
+  {
+    "group": "height_stress",
+    "node": 12351,
+    "literal": 10364
+  },
+  {
+    "group": "height_stress",
+    "node": 12369,
+    "literal": 10377
+  },
+  {
+    "group": "height_stress",
+    "node": 12387,
+    "literal": 10390
+  },
+  {
+    "group": "height_stress",
+    "node": 12405,
+    "literal": 10403
+  },
+  {
+    "group": "height_stress",
+    "node": 12426,
+    "literal": 10418
+  },
+  {
+    "group": "height_stress",
+    "node": 12444,
+    "literal": 10431
+  },
+  {
+    "group": "height_stress",
+    "node": 12459,
+    "literal": 10442
+  },
+  {
+    "group": "height_stress",
+    "node": 12477,
+    "literal": 10455
+  },
+  {
+    "group": "height_stress",
+    "node": 12495,
+    "literal": 10468
+  },
+  {
+    "group": "height_stress",
+    "node": 12510,
+    "literal": 10479
+  },
+  {
+    "group": "height_stress",
+    "node": 12522,
+    "literal": 10488
+  },
+  {
+    "group": "height_stress",
+    "node": 12537,
+    "literal": 10499
+  },
+  {
+    "group": "height_stress",
+    "node": 12552,
+    "literal": 10510
+  },
+  {
+    "group": "height_stress",
+    "node": 12567,
+    "literal": 10521
+  },
+  {
+    "group": "height_stress",
+    "node": 12585,
+    "literal": 10534
+  },
+  {
+    "group": "height_stress",
+    "node": 12600,
+    "literal": 10545
+  },
+  {
+    "group": "height_stress",
+    "node": 12615,
+    "literal": 10556
+  },
+  {
+    "group": "height_stress",
+    "node": 12633,
+    "literal": 10569
+  },
+  {
+    "group": "height_stress",
+    "node": 12651,
+    "literal": 10582
+  },
+  {
+    "group": "height_stress",
+    "node": 12666,
+    "literal": 10593
+  },
+  {
+    "group": "height_stress",
+    "node": 12678,
+    "literal": 10602
+  },
+  {
+    "group": "height_stress",
+    "node": 12693,
+    "literal": 10613
+  },
+  {
+    "group": "height_stress",
+    "node": 12708,
+    "literal": 10624
+  },
+  {
+    "group": "height_stress",
+    "node": 12723,
+    "literal": 10635
+  },
+  {
+    "group": "height_stress",
+    "node": 12735,
+    "literal": 10644
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 12762,
+    "literal": 10662
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 12783,
+    "literal": 10674
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 12812,
+    "literal": 10688
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 12839,
+    "literal": 10701
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 12864,
+    "literal": 10713
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 12895,
+    "literal": 10727
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 12923,
+    "literal": 10745
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 12948,
+    "literal": 10758
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 12974,
+    "literal": 10773
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13000,
+    "literal": 10790
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13023,
+    "literal": 10801
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13052,
+    "literal": 10816
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13082,
+    "literal": 10834
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13106,
+    "literal": 10847
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13134,
+    "literal": 10860
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13160,
+    "literal": 10877
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13182,
+    "literal": 10891
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13215,
+    "literal": 10906
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13239,
+    "literal": 10919
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13265,
+    "literal": 10933
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13300,
+    "literal": 10949
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13327,
+    "literal": 10966
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13355,
+    "literal": 10981
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13385,
+    "literal": 10997
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13414,
+    "literal": 11016
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13439,
+    "literal": 11029
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13473,
+    "literal": 11048
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13507,
+    "literal": 11068
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13536,
+    "literal": 11083
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13569,
+    "literal": 11100
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13595,
+    "literal": 11117
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13617,
+    "literal": 11131
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13650,
+    "literal": 11146
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13674,
+    "literal": 11159
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13700,
+    "literal": 11173
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13735,
+    "literal": 11189
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13762,
+    "literal": 11206
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13790,
+    "literal": 11221
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13820,
+    "literal": 11237
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13849,
+    "literal": 11256
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13874,
+    "literal": 11269
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13907,
+    "literal": 11287
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13941,
+    "literal": 11307
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 13970,
+    "literal": 11322
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14003,
+    "literal": 11339
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14031,
+    "literal": 11357
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14051,
+    "literal": 11370
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14075,
+    "literal": 11383
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14099,
+    "literal": 11398
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14122,
+    "literal": 11412
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14147,
+    "literal": 11426
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14176,
+    "literal": 11444
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14204,
+    "literal": 11461
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14233,
+    "literal": 11478
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14261,
+    "literal": 11497
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14287,
+    "literal": 11512
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14321,
+    "literal": 11529
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14350,
+    "literal": 11547
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14377,
+    "literal": 11562
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14410,
+    "literal": 11577
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14438,
+    "literal": 11595
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14462,
+    "literal": 11610
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14491,
+    "literal": 11625
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14515,
+    "literal": 11640
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14543,
+    "literal": 11656
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14573,
+    "literal": 11672
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14602,
+    "literal": 11690
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14635,
+    "literal": 11709
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14668,
+    "literal": 11727
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14700,
+    "literal": 11748
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14730,
+    "literal": 11765
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14769,
+    "literal": 11786
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14802,
+    "literal": 11806
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14834,
+    "literal": 11823
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14871,
+    "literal": 11841
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14899,
+    "literal": 11859
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14919,
+    "literal": 11872
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14943,
+    "literal": 11885
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14967,
+    "literal": 11900
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 14990,
+    "literal": 11914
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15015,
+    "literal": 11928
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15044,
+    "literal": 11946
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15071,
+    "literal": 11962
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15099,
+    "literal": 11978
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15127,
+    "literal": 11997
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15153,
+    "literal": 12012
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15187,
+    "literal": 12029
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15216,
+    "literal": 12047
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15243,
+    "literal": 12062
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15276,
+    "literal": 12077
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15300,
+    "literal": 12092
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15320,
+    "literal": 12105
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15343,
+    "literal": 12120
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15369,
+    "literal": 12136
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15391,
+    "literal": 12150
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15416,
+    "literal": 12166
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15447,
+    "literal": 12186
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15473,
+    "literal": 12201
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15500,
+    "literal": 12218
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15527,
+    "literal": 12236
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15551,
+    "literal": 12249
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15577,
+    "literal": 12264
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15607,
+    "literal": 12284
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15631,
+    "literal": 12298
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15656,
+    "literal": 12311
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15680,
+    "literal": 12326
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15704,
+    "literal": 12341
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15731,
+    "literal": 12358
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15757,
+    "literal": 12374
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15783,
+    "literal": 12390
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15811,
+    "literal": 12408
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15842,
+    "literal": 12428
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15873,
+    "literal": 12445
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15904,
+    "literal": 12463
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15935,
+    "literal": 12483
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15963,
+    "literal": 12498
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 15993,
+    "literal": 12516
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16027,
+    "literal": 12538
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16056,
+    "literal": 12554
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16085,
+    "literal": 12570
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16112,
+    "literal": 12587
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16135,
+    "literal": 12602
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16158,
+    "literal": 12617
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16187,
+    "literal": 12635
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16211,
+    "literal": 12651
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16235,
+    "literal": 12667
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16269,
+    "literal": 12689
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16300,
+    "literal": 12708
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16332,
+    "literal": 12727
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16362,
+    "literal": 12747
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16390,
+    "literal": 12763
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16421,
+    "literal": 12780
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16451,
+    "literal": 12800
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16480,
+    "literal": 12816
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16510,
+    "literal": 12831
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16534,
+    "literal": 12846
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16554,
+    "literal": 12859
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16577,
+    "literal": 12874
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16602,
+    "literal": 12890
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16623,
+    "literal": 12904
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16647,
+    "literal": 12920
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16678,
+    "literal": 12940
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16704,
+    "literal": 12955
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16730,
+    "literal": 12971
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16757,
+    "literal": 12989
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16781,
+    "literal": 13002
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16807,
+    "literal": 13017
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16837,
+    "literal": 13037
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16861,
+    "literal": 13051
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16886,
+    "literal": 13064
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16918,
+    "literal": 13085
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16943,
+    "literal": 13100
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 16973,
+    "literal": 13117
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17000,
+    "literal": 13134
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17025,
+    "literal": 13150
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17053,
+    "literal": 13168
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17079,
+    "literal": 13183
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17102,
+    "literal": 13197
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17125,
+    "literal": 13212
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17147,
+    "literal": 13224
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17170,
+    "literal": 13237
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17196,
+    "literal": 13253
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17221,
+    "literal": 13267
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17244,
+    "literal": 13281
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17270,
+    "literal": 13296
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17301,
+    "literal": 13316
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17329,
+    "literal": 13333
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17362,
+    "literal": 13351
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17389,
+    "literal": 13368
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17418,
+    "literal": 13386
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17449,
+    "literal": 13406
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17475,
+    "literal": 13421
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17502,
+    "literal": 13437
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17529,
+    "literal": 13454
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17555,
+    "literal": 13468
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17582,
+    "literal": 13483
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17612,
+    "literal": 13502
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17641,
+    "literal": 13518
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17668,
+    "literal": 13534
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17698,
+    "literal": 13552
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17731,
+    "literal": 13573
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17757,
+    "literal": 13589
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17785,
+    "literal": 13605
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17815,
+    "literal": 13624
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17842,
+    "literal": 13642
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17869,
+    "literal": 13660
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17898,
+    "literal": 13677
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17925,
+    "literal": 13694
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17952,
+    "literal": 13711
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 17977,
+    "literal": 13725
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18004,
+    "literal": 13741
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18034,
+    "literal": 13759
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18059,
+    "literal": 13773
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18086,
+    "literal": 13789
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18116,
+    "literal": 13806
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18145,
+    "literal": 13824
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18171,
+    "literal": 13840
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18200,
+    "literal": 13858
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18232,
+    "literal": 13878
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18260,
+    "literal": 13896
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18291,
+    "literal": 13916
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18319,
+    "literal": 13932
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18345,
+    "literal": 13948
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18371,
+    "literal": 13965
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18396,
+    "literal": 13979
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18422,
+    "literal": 13994
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18448,
+    "literal": 14010
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18476,
+    "literal": 14026
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18502,
+    "literal": 14042
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18528,
+    "literal": 14057
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18560,
+    "literal": 14077
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18584,
+    "literal": 14091
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18613,
+    "literal": 14107
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18640,
+    "literal": 14124
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18664,
+    "literal": 14140
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18691,
+    "literal": 14158
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18717,
+    "literal": 14173
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18740,
+    "literal": 14187
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18763,
+    "literal": 14202
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18785,
+    "literal": 14214
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18808,
+    "literal": 14227
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18834,
+    "literal": 14243
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18859,
+    "literal": 14257
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18882,
+    "literal": 14271
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18908,
+    "literal": 14286
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18935,
+    "literal": 14303
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18955,
+    "literal": 14314
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 18982,
+    "literal": 14327
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19008,
+    "literal": 14340
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19031,
+    "literal": 14352
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19059,
+    "literal": 14366
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19086,
+    "literal": 14383
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19110,
+    "literal": 14395
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19134,
+    "literal": 14408
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19159,
+    "literal": 14423
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19181,
+    "literal": 14434
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19209,
+    "literal": 14448
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19238,
+    "literal": 14464
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19261,
+    "literal": 14476
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19288,
+    "literal": 14489
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19314,
+    "literal": 14505
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19336,
+    "literal": 14518
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19367,
+    "literal": 14533
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19391,
+    "literal": 14546
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19417,
+    "literal": 14560
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19449,
+    "literal": 14576
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19475,
+    "literal": 14592
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19502,
+    "literal": 14606
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19530,
+    "literal": 14621
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19558,
+    "literal": 14638
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19582,
+    "literal": 14651
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19615,
+    "literal": 14668
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19648,
+    "literal": 14686
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19676,
+    "literal": 14700
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19708,
+    "literal": 14716
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19736,
+    "literal": 14733
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19756,
+    "literal": 14746
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19779,
+    "literal": 14759
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19803,
+    "literal": 14774
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19826,
+    "literal": 14788
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19850,
+    "literal": 14802
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19878,
+    "literal": 14819
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19905,
+    "literal": 14834
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19932,
+    "literal": 14849
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19959,
+    "literal": 14866
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 19984,
+    "literal": 14880
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20017,
+    "literal": 14896
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20045,
+    "literal": 14912
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20071,
+    "literal": 14926
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20103,
+    "literal": 14941
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20127,
+    "literal": 14956
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20147,
+    "literal": 14969
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20170,
+    "literal": 14984
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20196,
+    "literal": 15000
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20218,
+    "literal": 15014
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20243,
+    "literal": 15030
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20273,
+    "literal": 15048
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20298,
+    "literal": 15062
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20323,
+    "literal": 15077
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20349,
+    "literal": 15093
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20372,
+    "literal": 15106
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20397,
+    "literal": 15120
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20426,
+    "literal": 15138
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20449,
+    "literal": 15152
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20473,
+    "literal": 15165
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20505,
+    "literal": 15185
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20530,
+    "literal": 15199
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20560,
+    "literal": 15215
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20586,
+    "literal": 15231
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20610,
+    "literal": 15246
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20637,
+    "literal": 15263
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20662,
+    "literal": 15278
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20684,
+    "literal": 15291
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20706,
+    "literal": 15305
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20727,
+    "literal": 15317
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20749,
+    "literal": 15330
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20774,
+    "literal": 15345
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20798,
+    "literal": 15359
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20820,
+    "literal": 15373
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20845,
+    "literal": 15388
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20872,
+    "literal": 15405
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20892,
+    "literal": 15416
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20919,
+    "literal": 15429
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20945,
+    "literal": 15442
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20967,
+    "literal": 15454
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 20994,
+    "literal": 15468
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 21021,
+    "literal": 15485
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 21045,
+    "literal": 15497
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 21069,
+    "literal": 15510
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 21094,
+    "literal": 15525
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 21116,
+    "literal": 15536
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 21144,
+    "literal": 15550
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 21173,
+    "literal": 15566
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 21196,
+    "literal": 15578
+  },
+  {
+    "group": "wheel_height_stress",
+    "node": 21223,
+    "literal": 15591
+  },
+  {
+    "group": "blocked_ears",
+    "node": 21244,
+    "literal": -15612
+  },
+  {
+    "group": "blocked_ears",
+    "node": 21265,
+    "literal": -15633
+  },
+  {
+    "group": "blocked_ears",
+    "node": 21286,
+    "literal": -15654
+  },
+  {
+    "group": "blocked_ears",
+    "node": 21307,
+    "literal": -15675
+  },
+  {
+    "group": "blocked_ears",
+    "node": 21328,
+    "literal": -15696
+  },
+  {
+    "group": "blocked_ears",
+    "node": 21349,
+    "literal": -15717
+  },
+  {
+    "group": "blocked_ears",
+    "node": 21370,
+    "literal": -15738
+  },
+  {
+    "group": "blocked_ears",
+    "node": 21391,
+    "literal": -15759
+  },
+  {
+    "group": "blocked_ears",
+    "node": 21412,
+    "literal": -15780
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21417,
+    "literal": -15784
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21422,
+    "literal": -15788
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21427,
+    "literal": -15792
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21432,
+    "literal": -15796
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21437,
+    "literal": -15799
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21442,
+    "literal": -15804
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21447,
+    "literal": -15809
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21452,
+    "literal": -15814
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21457,
+    "literal": -15818
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21461,
+    "literal": -15822
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21466,
+    "literal": -15827
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21471,
+    "literal": -15832
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21476,
+    "literal": -15836
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21480,
+    "literal": -15840
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21485,
+    "literal": -15845
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21490,
+    "literal": -15849
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21494,
+    "literal": -15853
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21499,
+    "literal": -15856
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21503,
+    "literal": -15860
+  },
+  {
+    "group": "crossing_directions",
+    "node": 21507,
+    "literal": -15863
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21521,
+    "literal": -15874
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21532,
+    "literal": -15883
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21543,
+    "literal": -15892
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21554,
+    "literal": -15901
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21562,
+    "literal": -15908
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21573,
+    "literal": -15917
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21581,
+    "literal": -15924
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21589,
+    "literal": -15931
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21594,
+    "literal": -15936
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21602,
+    "literal": -15943
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21616,
+    "literal": -15954
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21627,
+    "literal": -15963
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21638,
+    "literal": -15972
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21649,
+    "literal": -15981
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21657,
+    "literal": -15988
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21668,
+    "literal": -15997
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21676,
+    "literal": -16004
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21684,
+    "literal": -16011
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21689,
+    "literal": -16016
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21697,
+    "literal": -16023
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21711,
+    "literal": -16033
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21722,
+    "literal": -16042
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21733,
+    "literal": -16051
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21744,
+    "literal": -16059
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21752,
+    "literal": -16066
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21763,
+    "literal": -16075
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21771,
+    "literal": -16082
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21779,
+    "literal": -16089
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21784,
+    "literal": -16094
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21792,
+    "literal": -16101
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21806,
+    "literal": -16111
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21817,
+    "literal": -16119
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21828,
+    "literal": -16128
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21839,
+    "literal": -16136
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21847,
+    "literal": -16143
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21858,
+    "literal": -16151
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21866,
+    "literal": -16158
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21874,
+    "literal": -16165
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21879,
+    "literal": -16170
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21887,
+    "literal": -16177
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21901,
+    "literal": -16188
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21912,
+    "literal": -16196
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21923,
+    "literal": -16204
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21934,
+    "literal": -16211
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21942,
+    "literal": -16217
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21953,
+    "literal": -16225
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21961,
+    "literal": -16232
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21969,
+    "literal": -16239
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21974,
+    "literal": -16244
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21982,
+    "literal": -16251
+  },
+  {
+    "group": "event_transitivity",
+    "node": 21996,
+    "literal": -16261
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22007,
+    "literal": -16268
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22018,
+    "literal": -16276
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22029,
+    "literal": -16284
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22037,
+    "literal": -16290
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22048,
+    "literal": -16297
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22056,
+    "literal": -16304
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22064,
+    "literal": -16311
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22069,
+    "literal": -16316
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22077,
+    "literal": -16323
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22091,
+    "literal": -16333
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22102,
+    "literal": -16340
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22113,
+    "literal": -16347
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22124,
+    "literal": -16355
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22132,
+    "literal": -16361
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22143,
+    "literal": -16369
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22151,
+    "literal": -16375
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22159,
+    "literal": -16381
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22164,
+    "literal": -16386
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22172,
+    "literal": -16393
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22186,
+    "literal": -16403
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22197,
+    "literal": -16410
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22208,
+    "literal": -16417
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22219,
+    "literal": -16425
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22227,
+    "literal": -16431
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22238,
+    "literal": -16439
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22246,
+    "literal": -16445
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22254,
+    "literal": -16451
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22259,
+    "literal": -16456
+  },
+  {
+    "group": "event_transitivity",
+    "node": 22267,
+    "literal": -16463
+  },
+  {
+    "group": "target_a2",
+    "node": 23563,
+    "literal": 18511
+  },
+  {
+    "group": "target_crossings",
+    "node": 23564,
+    "literal": -18597
+  }
+]

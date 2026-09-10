@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.olean
+*.ilean
+*.download
+lean_formalization/mathlib/
+lean_formalization/build_logs/
+lean_formalization/roof.lz4.hex
+roof_base_dense.lrat
+release_rebuilt*
+verification_logs/
+PUBLIC_VERIFICATION.json
+PARTIAL_FORMALIZATION_VERIFICATION.json
